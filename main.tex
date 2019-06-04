@@ -1,0 +1,202 @@
+\documentclass[11pt,fleqn]{book}
+\input{structure.tex}
+\hypersetup{pdftitle={ET Programming Language},pdfauthor={Max Base}}
+
+%\usepackage{xepersian} % Will use for a persian, Arabic version of the book.
+
+\begin{document}
+%TITLE PAGE
+\begingroup
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture,overlay]
+	\node[inner sep=0pt] (background) at (current page.center) {\includegraphics[width=\paperwidth]{wp2597360.jpg}};
+
+	\draw (current page.center) node [fill=ocre!10!white,fill opacity=1,text opacity=1,inner sep=1cm]{\Huge\centering\bfseries\sffamily\parbox[c][][t]{\paperwidth}{\centering The ET Programming Language\\[15pt]
+
+	{\Large First Instruction}\\[20pt]
+
+	{\huge Max Base}}};
+\end{tikzpicture}
+\vfill
+\endgroup
+
+%COPYRIGHT
+\newpage
+~\vfill
+\thispagestyle{empty}
+
+\noindent Copyright \copyright\ 2019 Max Base\\
+
+\noindent \textsc{Asrez.com}\\
+
+\noindent Licensed under the Creative Commons Attribution-NonCommercial 3.0 Unported License (the ``License''). You may not use this file except in compliance with the License. You may obtain a copy of the License at \url{http://creativecommons.org/licenses/by-nc/3.0}. Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \textsc{``as is'' basis, without warranties or conditions of any kind}, either express or implied. See the License for the specific language governing permissions and limitations under the License.\\
+\noindent \textit{First printing, May 2019}
+
+%TABLE OF CONTENTS
+\chapterimage{chapter_head_1.pdf}
+\chapterimage{wp2921813.jpg}
+\pagestyle{empty}
+\tableofcontents
+\cleardoublepage
+\pagestyle{fancy}
+
+%PART 1
+\part{Part One}
+
+%CHAPTER 1
+\chapterimage{wp2631120.jpg}
+
+\chapter{The ET Programming Language}
+
+\section{Introduction}
+
+The ET language has been designed by Max Base in 2012, Which was later developed by the Asrez team. They tried to design a modern, more appropriate language. As simple as possible for humans. The reason for naming ET for this time was initially related to the concept of electronics and technology. But later on the suggestion of Javad Sabet the concept of the name has been changed. This language also means the language of the earth (earth tongue). Some features of the ET language:
+
+
+	\begin{itemize}
+		\item ET Language is a middle-level language. Programming languages ​​can be divided into three categories: high-level languages, middle level, low-level languages. (Table 1-1) The reason for the middle-level language is that it is also low because it is capable of being closely related to the hardware, like the assembly. And on the other side it is close to human expression and has simple commands and is readiable for humans then this's a feature of the high level languages.
+		
+		\item ET language is a flexible and powerful language that does not create any restrictions for the programmer, and you can take and create whatever you think.
+		
+		\item ET language is a portable language. This means that you can run the code written in a system on another system. Without causing trouble or trouble.
+		
+		\item ET language is a multi-platform language. This means that when you design an application for the Windows operating system. You can run it on another operating system, including Linux series.
+		
+		\item The ET programming language has the ability to embed on a platform for another platform.
+		So you can design a program for Windows. You will not need to own a Windows operating system.
+		And this is a unique and wonderful feature.
+		
+		\item The ET programming language has tiny keywords. This means that the number of keywords in this language is small. But this does not make you curious or can not produce any program.
+		However, the number of keywords is not a reason for the strength and speed of the compiler. But these are the reasons for learning this programming language easier and faster. \begin{table}[]
+			\centering
+	\begin{tabular}{|lllll|}
+\hline
+	auto	& const & break & continue & return \\
+	if	& for  & foreach & loop & while \\
+	do	& default & switch & else & elseif \\
+	elif	& extern & struct & enum & static \\
+	goto & union & case & register & typedef\\
+	assembly & import & ifdef & ifndef & define \\ \hline
+	
+	\end{tabular}
+\end{table}
+
+
+\pagebreak
+
+	
+	
+	\item ET Language is a system language. which you can even design system programs. System programs are programs that allow you to exploit hardware and software communitication. Some system programs are: operating system / interpreter / compiler / database / word processor and assembler and ...
+	
+	\item There is a close connection between the ET and the assembly.
+	This means that you can also insert assembly code into this language.
+	Of course, consider that they are controlled by a separate processing engine.
+	
+	\item ET Language is a sensitive letter.
+	This means that words in lowercase letters are different.
+	So be sure to type the letters you type in the letters you type.
+	
+	\item The ET language instructions are included in the following features:
+	
+	\begin{itemize}
+	\item There is no limit to the number of words per line.
+	\item It is recommended to write just one command per line
+	\item Ability to use; at the end of each instruction is optional
+	\item Each command can be written in several lines and lines. (You can create spaces or empty space between your guides.
+
+\item You can write comment in your code that you should use the principles of communication.	
+	\end{itemize}
+
+	
+
+\end{itemize}
+
+
+
+
+\section{Data Types}
+
+
+The purpose of programming is to receive inputs and process them to produce an output.
+Keep in mind that input values is the most important part of your work.
+
+
+In the programming language, there are several types of data that we can use in the place where it is needed:
+float, int, string, char, void, bool, null, ...
+
+The type is to store individual char (such as 'a', 'b'), The type is for storing int for keeping Integer (such as 4, 32, 169) and the float type is used for decimal number such as 15.4, 64.26) And we will explain the type of void later.
+
+But keep in mind that each of them has limitations.
+So we have several types with the name int, each of which has a limit.
+We can choose them according to the required range.
+
+\pagebreak
+
+
+\begin{table}[]
+	\centering
+	\begin{tabular}{|l|l|l|}
+		\hline
+		int8 & 8bit, 1byte & -127 until 128   \\ \hline
+		uint8 & 8bit, 1byte & -127 until 128   \\ \hline
+
+		int16 & 16bit, 2byte & -127 until 128   \\ \hline
+		uint16 & 16bit, 2byte & -127 until 128   \\ \hline
+
+		int32 & 32bit, 3byte & -127 until 128   \\ \hline
+		uint32 & 32bit, 3byte & -127 until 128   \\ \hline
+
+		int64 & 64bit, 4byte & -127 until 128   \\ \hline
+		uint64 & 64bit, 4byte & -127 until 128   \\ \hline
+
+		size & 64bit, 4byte & -127 until 128   \\ \hline
+
+		float16 & 16bit, 2byte & -127 until 128   \\ \hline
+		ufloat16 & 16bit, 2byte & -127 until 128   \\ \hline
+
+		float32 & 32bit, 3byte & -127 until 128   \\ \hline
+		ufloat32 & 32bit, 3byte & -127 until 128   \\ \hline
+
+		char & 8bit, 1byte & -127 until 128   \\ \hline
+		uchar & 16bit, 2byte & -127 until 128   \\ \hline
+
+		mchar & 16bit, 2byte & -127 until 128   \\ \hline
+
+		bool & 1bit & true or false \\ \hline
+		null & 1bit & empty \\ \hline
+
+	\end{tabular}
+\end{table}
+\label{List of data type(s)}
+
+
+
+
+
+
+
+\section{Variable}
+
+
+A variable is a name for memory words that we put data into. And we may change them and use them during the implementation of the program.
+To refer to their value, we use the same name, which is the reason we name them so that they can be easily accessed.
+
+To name variables, we can use characters from a to z or A to Z. As well as numbers and \_ char.
+
+We do not have a number limit for the length of name of variables.
+
+Note that the name of the variables can not start with the number. (The first letter of the name can not be a number)
+
+
+\subsection{Define Variable}
+
+
+As mentioned, variables are memory spaces. So, as the data has the type. We must also specify the type of variables.
+So the variable definition method will be:
+
+In this case, the variable type can be one of the values in Table 2
+
+`VariableName dataType '...
+
+
+\end{document}
