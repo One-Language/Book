@@ -1,113 +1,140 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                       %
+%        ET Programming Languag         %
+%               Max Base                %
+%                                       %
+%    https://github.com/ET-Lang/Book    %
+%                                       %
+%         Based on a template           %
+%                                       %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \documentclass[11pt,fleqn]{book}
-\input{structure.tex}
-\hypersetup{pdftitle={ET Programming Language},pdfauthor={Max Base}}
-
-%\usepackage{xepersian} % Will use for a persian, Arabic version of the book.
-
+\usepackage[top=3cm,bottom=3cm,left=3.2cm,right=3.2cm,headsep=10pt,letterpaper]{geometry}
+\usepackage{listings}
+\usepackage{color}
+\usepackage[osf,sc]{mathpazo}
+\usepackage{amsmath}
+\usepackage{listings}
+\usepackage{xcolor}
+\definecolor{ocre}{RGB}{52,177,201}
+\usepackage{avant}
+\usepackage{mathptmx}
+\usepackage{microtype}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsthm}
+\usepackage[style=alphabetic,sorting=nyt,sortcites=true,autopunct=true,babel=hyphen,hyperref=true,abbreviate=false,backref=true,backend=biber]{biblatex}
+\addbibresource{bibliography.bib}
+\defbibheading{bibempty}{}
+\input{structure}
+\def\R{\mathbb{R}}
+\newcommand{\cvx}{convex}
 \begin{document}
-%TITLE PAGE
+
+%-----------------------------
+% TITLE
+%-----------------------------
 \begingroup
 \thispagestyle{empty}
-\begin{tikzpicture}[remember picture,overlay]
-	\node[inner sep=0pt] (background) at (current page.center) {\includegraphics[width=\paperwidth]{wp2597360.jpg}};
-
-	\draw (current page.center) node [fill=ocre!10!white,fill opacity=1,text opacity=1,inner sep=1cm]{\Huge\centering\bfseries\sffamily\parbox[c][][t]{\paperwidth}{\centering The ET Programming Language\\[15pt]
-
-	{\Large First Instruction}\\[20pt]
-
-	{\huge Max Base}}};
-\end{tikzpicture}
-\vfill
+\AddToShipoutPicture*{{\includegraphics[scale=1.32]{esahubble}}} \centering
+\vspace*{5cm}
+\par\normalfont\fontsize{35}{35}\sffamily\selectfont
+\textbf{ET Programming Language}\\
+%{\LARGE Introduction a new and modern system programming language}\par % Book title
+\vspace*{1cm}
+{\Huge Max Base}\par
 \endgroup
-
-%COPYRIGHT
+%-----------------------------
+% COPYRIGHT
+%-----------------------------
 \newpage
 ~\vfill
 \thispagestyle{empty}
 
-\noindent Copyright \copyright\ 2019 Max Base\\
+\noindent Copyright \copyright\ 2019 Max Base\\ 
 
+\noindent \textsc{Max Base, Asrez Team}\\
 \noindent \textsc{Asrez.com}\\
 
-\noindent Licensed under the Creative Commons Attribution-NonCommercial 3.0 Unported License (the ``License''). You may not use this file except in compliance with the License. You may obtain a copy of the License at \url{http://creativecommons.org/licenses/by-nc/3.0}. Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \textsc{``as is'' basis, without warranties or conditions of any kind}, either express or implied. See the License for the specific language governing permissions and limitations under the License.\\
-\noindent \textit{First printing, May 2019}
+\noindent This research was done under the supervision of Dr. Pauline Barmby with the financial support of the MITACS Globalink Research Internship Award within a total of 12 weeks, from June 16th to September 5th of 2014.\\
 
-%TABLE OF CONTENTS
-\chapterimage{chapter_head_1.pdf}
-\chapterimage{wp2921813.jpg}
+\noindent \textit{First release, Jun 2019}
+%-----------------------------
+% TABLE
+%-----------------------------
+\chapterimage{head1.png}
 \pagestyle{empty}
 \tableofcontents
-\cleardoublepage
 \pagestyle{fancy}
-
-%PART 1
-\part{Part One}
-
-%CHAPTER 1
-\chapterimage{wp2631120.jpg}
-
-\chapter{The ET Programming Language}
-
+%-----------------------------
+% CHAPTER 1
+%-----------------------------
+\chapterimage{head2.png}
+\chapter{ET Programming Language}
 \section{Introduction}
 
-The ET language has been designed by Max Base in 2012, Which was later developed by the Asrez team. They tried to design a modern, more appropriate language. As simple as possible for humans. The reason for naming ET for this time was initially related to the concept of electronics and technology. But later on the suggestion of Javad Sabet the concept of the name has been changed. This language also means the language of the earth (earth tongue). Some features of the ET language:
+The ET language has been designed by Seyyed Ali Mohammadiye in 2012, Which was later
+developed by the Asrez team. They tried to design a modern, more appropriate language. As
+simple as possible for humans.
+Some features of the ET language:
 
 
-	\begin{itemize}
-		\item ET Language is a middle-level language. Programming languages ​​can be divided into three categories: high-level languages, middle level, low-level languages. (Table 1-1) The reason for the middle-level language is that it is also low because it is capable of being closely related to the hardware, like the assembly. And on the other side it is close to human expression and has simple commands and is readiable for humans then this's a feature of the high level languages.
-		
-		\item ET language is a flexible and powerful language that does not create any restrictions for the programmer, and you can take and create whatever you think.
-		
-		\item ET language is a portable language. This means that you can run the code written in a system on another system. Without causing trouble or trouble.
-		
-		\item ET language is a multi-platform language. This means that when you design an application for the Windows operating system. You can run it on another operating system, including Linux series.
-		
-		\item The ET programming language has the ability to embed on a platform for another platform.
-		So you can design a program for Windows. You will not need to own a Windows operating system.
-		And this is a unique and wonderful feature.
-		
-		\item The ET programming language has tiny keywords. This means that the number of keywords in this language is small. But this does not make you curious or can not produce any program.
-		However, the number of keywords is not a reason for the strength and speed of the compiler. But these are the reasons for learning this programming language easier and faster. \begin{table}[]
-			\centering
-	\begin{tabular}{|lllll|}
+
+    \begin{itemize}
+        \item ET Language is a middle-level language. Programming languages ​​can be divided into three categories: high-level languages, middle level, low-level languages. (Table 1-1) The reason for the middle-level language is that it is also low because it is capable of being closely related to the hardware, like the assembly. And on the other side it is close to human expression and has simple commands and is readiable for humans then this's a feature of the high level languages.
+        
+        \item ET language is a flexible and powerful language that does not create any restrictions for the programmer, and you can take and create whatever you think.
+        
+        \item ET language is a portable language. This means that you can run the code written in a system on another system. Without causing trouble or trouble.
+        
+        \item ET language is a multi-platform language. This means that when you design an application for the Windows operating system. You can run it on another operating system, including Linux series.
+        
+        \item The ET programming language has the ability to embed on a platform for another platform.
+        So you can design a program for Windows. You will not need to own a Windows operating system.
+        And this is a unique and wonderful feature.
+        
+        \item The ET programming language has tiny keywords. This means that the number of keywords in this language is small. But this does not make you curious or can not produce any program.
+        However, the number of keywords is not a reason for the strength and speed of the compiler. But these are the reasons for learning this programming language easier and faster. \begin{table}[]
+            \centering
+    \begin{tabular}{|lllll|}
 \hline
-	auto	& const & break & continue & return \\
-	if	& for  & foreach & loop & while \\
-	do	& default & switch & else & elseif \\
-	elif	& extern & struct & enum & static \\
-	goto & union & case & register & typedef\\
-	assembly & import & ifdef & ifndef & define \\ \hline
-	
-	\end{tabular}
+    auto    & const & break & continue & return \\
+    if  & for  & foreach & loop & while \\
+    do  & default & switch & else & elseif \\
+    elif    & extern & struct & enum & static \\
+    goto & union & case & register & typedef\\
+    assembly & import & ifdef & ifndef & define \\ \hline
+    
+    \end{tabular}
 \end{table}
 
 
 \pagebreak
 
-	
-	
-	\item ET Language is a system language. which you can even design system programs. System programs are programs that allow you to exploit hardware and software communitication. Some system programs are: operating system / interpreter / compiler / database / word processor and assembler and ...
-	
-	\item There is a close connection between the ET and the assembly.
-	This means that you can also insert assembly code into this language.
-	Of course, consider that they are controlled by a separate processing engine.
-	
-	\item ET Language is a sensitive letter.
-	This means that words in lowercase letters are different.
-	So be sure to type the letters you type in the letters you type.
-	
-	\item The ET language instructions are included in the following features:
-	
-	\begin{itemize}
-	\item There is no limit to the number of words per line.
-	\item It is recommended to write just one command per line
-	\item Ability to use; at the end of each instruction is optional
-	\item Each command can be written in several lines and lines. (You can create spaces or empty space between your guides.
+    
+    
+    \item ET Language is a system language. which you can even design system programs. System programs are programs that allow you to exploit hardware and software communitication. Some system programs are: operating system / interpreter / compiler / database / word processor and assembler and ...
+    
+    \item There is a close connection between the ET and the assembly.
+    This means that you can also insert assembly code into this language.
+    Of course, consider that they are controlled by a separate processing engine.
+    
+    \item ET Language is a sensitive letter.
+    This means that words in lowercase letters are different.
+    So be sure to type the letters you type in the letters you type.
+    
+    \item The ET language instructions are included in the following features:
+    
+    \begin{itemize}
+    \item There is no limit to the number of words per line.
+    \item It is recommended to write just one command per line
+    \item Ability to use; at the end of each instruction is optional
+    \item Each command can be written in several lines and lines. (You can create spaces or empty space between your guides.
 
-\item You can write comment in your code that you should use the principles of communication.	
-	\end{itemize}
+\item You can write comment in your code that you should use the principles of communication.   
+    \end{itemize}
 
-	
+    
 
 \end{itemize}
 
@@ -134,38 +161,38 @@ We can choose them according to the required range.
 
 
 \begin{table}[]
-	\centering
-	\begin{tabular}{|l|l|l|}
-		\hline
-		int8 & 8bit, 1byte & -127 until 128   \\ \hline
-		uint8 & 8bit, 1byte & -127 until 128   \\ \hline
+    \centering
+    \begin{tabular}{|l|l|l|}
+        \hline
+        int8 & 8bit, 1byte & -127 until 128   \\ \hline
+        uint8 & 8bit, 1byte & -127 until 128   \\ \hline
 
-		int16 & 16bit, 2byte & -127 until 128   \\ \hline
-		uint16 & 16bit, 2byte & -127 until 128   \\ \hline
+        int16 & 16bit, 2byte & -127 until 128   \\ \hline
+        uint16 & 16bit, 2byte & -127 until 128   \\ \hline
 
-		int32 & 32bit, 3byte & -127 until 128   \\ \hline
-		uint32 & 32bit, 3byte & -127 until 128   \\ \hline
+        int32 & 32bit, 3byte & -127 until 128   \\ \hline
+        uint32 & 32bit, 3byte & -127 until 128   \\ \hline
 
-		int64 & 64bit, 4byte & -127 until 128   \\ \hline
-		uint64 & 64bit, 4byte & -127 until 128   \\ \hline
+        int64 & 64bit, 4byte & -127 until 128   \\ \hline
+        uint64 & 64bit, 4byte & -127 until 128   \\ \hline
 
-		size & 64bit, 4byte & -127 until 128   \\ \hline
+        size & 64bit, 4byte & -127 until 128   \\ \hline
 
-		float16 & 16bit, 2byte & -127 until 128   \\ \hline
-		ufloat16 & 16bit, 2byte & -127 until 128   \\ \hline
+        float16 & 16bit, 2byte & -127 until 128   \\ \hline
+        ufloat16 & 16bit, 2byte & -127 until 128   \\ \hline
 
-		float32 & 32bit, 3byte & -127 until 128   \\ \hline
-		ufloat32 & 32bit, 3byte & -127 until 128   \\ \hline
+        float32 & 32bit, 3byte & -127 until 128   \\ \hline
+        ufloat32 & 32bit, 3byte & -127 until 128   \\ \hline
 
-		char & 8bit, 1byte & -127 until 128   \\ \hline
-		uchar & 16bit, 2byte & -127 until 128   \\ \hline
+        char & 8bit, 1byte & -127 until 128   \\ \hline
+        uchar & 16bit, 2byte & -127 until 128   \\ \hline
 
-		mchar & 16bit, 2byte & -127 until 128   \\ \hline
+        mchar & 16bit, 2byte & -127 until 128   \\ \hline
 
-		bool & 1bit & true or false \\ \hline
-		null & 1bit & empty \\ \hline
+        bool & 1bit & true or false \\ \hline
+        null & 1bit & empty \\ \hline
 
-	\end{tabular}
+    \end{tabular}
 \end{table}
 \label{List of data type(s)}
 
@@ -197,6 +224,51 @@ So the variable definition method will be:
 In this case, the variable type can be one of the values in Table 2
 
 `VariableName dataType '...
+
+
+\subsection{Story}
+
+\subsection{Name}
+
+The reason for naming ET for this time was initially related to the
+concept of electronics and technology. But later on the suggestion of Javad Sabet the concept of
+the name has been changed. This language also means the language of the earth (earth tongue).
+
+
+\begin{definition}[Cone]
+    A set $K \in \R^n$, when $x \in K $ implies $\alpha x \in K$.
+\end{definition}
+
+\begin{example}[ludcator function]
+
+
+$\delta_c(x) = \begin{cases}
+0 \quad  x \in C \\
++ \infty \quad elsewhere
+\end{cases}$.\\
+$dom \space \delta_c(x) = C$
+\end{example}
+
+
+\begin{definition}[III]
+A function $f : \R^n \to \bar{\R}$ is %\cvx  if $\epi \space f $ is \cvx
+\end{definition}
+
+
+\begin{theorem}
+$f : \R^n \to \bar{\R}$ is \cvx  $\iff$ $\forall x,y \in \R^n, \alpha \in (0,1), f(ax + (1-a)x) \le af(x) + (1-a)f(x)$.
+\end{theorem}
+
+\begin{lstlisting}[language=html]{test.py}
+<html>
+<head>
+<title>Hello</title>
+</head>
+<body>
+Hello
+</body>
+</html>
+\end{lstlisting}
 
 
 \end{document}
