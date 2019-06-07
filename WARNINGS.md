@@ -46,7 +46,9 @@ To translate book on 'section{} / summary {}'
 <br>
 <br>
 
-**Incorrect example**
+# Do not do it!
+
+### Wrong example of how to translate. 
 
 ```python
 
@@ -63,7 +65,7 @@ To translate book on 'section{} / summary {}'
 ``` 
 
 
-1. An Example
+1. An Example. Wrong example of how to translate.
 
 ```javascript
 
