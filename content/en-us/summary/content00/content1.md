@@ -1,6 +1,6 @@
 # CONTENT
 
-1. C Programs
+1. About
 2. ENVIORNMENT SETUP
 3. Try it Option Online
 
