@@ -1,6 +1,4 @@
-### Read Before!
-
-**About the files .md**
+ **Read Before!** _About the files .md_
 
 To translate book on 'section{} / summary {}'
 1. Do not remove # 
