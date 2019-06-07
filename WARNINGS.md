@@ -1,4 +1,6 @@
-## MARKDOWN
+### Read Before!
+
+**About the files .md**
 
 To translate book on 'section{} / summary {}'
 1. Do not remove # 
@@ -6,7 +8,7 @@ To translate book on 'section{} / summary {}'
 3. Do not add a new list. Example: 4, 5, 6, 7.
 4. Do not remove this symbol '..........................' from file.md it is the marking
 
-# How to translate?
+### How to translate?
 
 **Correct example**
 
