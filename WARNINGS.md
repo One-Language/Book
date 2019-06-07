@@ -1,7 +1,7 @@
 #### MARKDOWN
 
 To translate book on 'section{} / summary {}'
-1. Do not remove or add title in # 
+1. Do not remove # or add a new one # or add a new one 1. , 2. , 3.  , 4. ... list 
 
 1. Correct example
 
