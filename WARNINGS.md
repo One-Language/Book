@@ -1,5 +1,7 @@
 ### Read Before! 
 
+#
+
 __About the files .md__
 
 To translate book on 'section{} / summary {}'
@@ -8,7 +10,13 @@ To translate book on 'section{} / summary {}'
 3. Do not add a new list. Example: 4, 5, 6, 7.
 4. Do not remove this symbol '..........................' from file.md it is the marking
 
+<br>
+<br>
+<br>
+
 ### How to translate?
+
+#
 
 **Correct example**
 
@@ -36,6 +44,11 @@ To translate book on 'section{} / summary {}'
 ``` 
 
 #
+
+<br>
+<br>
+<br>
+<br>
 
 **Incorrect example**
 
