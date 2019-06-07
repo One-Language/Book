@@ -3,7 +3,7 @@
 To translate book on 'section{} / summary {}'
 1. Do not remove # or add a new one # or add a new one 1. , 2. , 3.  , 4. ... list 
 
-1. Correct example
+2. Correct example
 
 ```python
 
@@ -16,7 +16,7 @@ To translate book on 'section{} / summary {}'
 ``` 
 
 
-1. An Example
+3. An Example
 
 ```javascript
 
@@ -25,5 +25,41 @@ To translate book on 'section{} / summary {}'
 1. About
 2. Why et?
 3. Examples ... 
+
+``` 
+
+#
+
+4. Incorrect example
+
+```python
+
+# You should not have added
+# You should not have added
+# You should not have added
+# You should not have added
+
+1. You should not have added
+2. You should not have added
+2. You should not have added
+2. You should not have added
+
+``` 
+
+
+5. An Example
+
+```javascript
+
+# CONTENTS
+# CONTENTS
+# CONTENTS
+
+1. About
+2. Why et?
+3. Example 1 ... 
+4. Example 2 ... 
+4. Example 3 ... 
+4. Example 4 ... 
 
 ``` 
