@@ -46,7 +46,7 @@ To translate book on 'section{} / summary {}'
 <br>
 <br>
 
-# Do not do it!
+### Do not do it!
 
 ### Wrong example of how to translate. 
 
