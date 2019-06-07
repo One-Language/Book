@@ -1,8 +1,8 @@
-**English - United State :**                        
+**English - United State :**
 
 Max Base, Pglapds, ...
 
-**Brazilian - Portuguese :**                       
+**Brazilian - Portuguese :**
 
 Pglapds
 
