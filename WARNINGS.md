@@ -1,4 +1,4 @@
-### Read Before! 
+## Read Before! 
 
 #
 
@@ -14,7 +14,7 @@ To translate book on 'section{} / summary {}'
 <br>
 <br>
 
-### How to translate?
+## How to translate?
 
 #
 
