@@ -1,9 +1,11 @@
 #### MARKDOWN
 
 To translate book on 'section{} / summary {}'
-1. Do not remove # or add a new one # or add a new one 1. , 2. , 3.  , 4. ... list 
+1. Do not remove # 
+2. Do not add new # 
+3. Do not add a new list. Example: 4, 5, 6, 7.
 
-2. Correct example
+**Correct example**
 
 ```python
 
