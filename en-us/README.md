@@ -1,3 +1,3 @@
 - [English](/content/en-us) (Not complete yet)  
 - [Portuguese](/content/pt-br) (Soon) 
-- Persian](/content/fa-ir) (Soon)
+- [Persian](/content/fa-ir) (Soon)
