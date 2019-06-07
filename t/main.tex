@@ -1,0 +1,274 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                       %
+%       ET Programming Language         %
+%               Max Base                %
+%                                       %
+%    https://github.com/ET-Lang/Book    %
+%                                       %
+%         Based on a template           %
+%                                       %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[11pt,fleqn]{book}
+\usepackage[top=3cm,bottom=3cm,left=3.2cm,right=3.2cm,headsep=10pt,letterpaper]{geometry}
+\usepackage{listings}
+\usepackage{color}
+\usepackage[osf,sc]{mathpazo}
+\usepackage{amsmath}
+\usepackage{listings}
+\usepackage{xcolor}
+\definecolor{ocre}{RGB}{52,177,201}
+\usepackage{avant}
+\usepackage{mathptmx}
+\usepackage{microtype}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsthm}
+\usepackage[style=alphabetic,sorting=nyt,sortcites=true,autopunct=true,babel=hyphen,hyperref=true,abbreviate=false,backref=true,backend=biber]{biblatex}
+\addbibresource{bibliography.bib}
+\defbibheading{bibempty}{}
+\input{structure}
+\def\R{\mathbb{R}}
+\newcommand{\cvx}{convex}
+\begin{document}
+
+%-----------------------------
+% TITLE
+%-----------------------------
+\begingroup
+\thispagestyle{empty}
+\AddToShipoutPicture*{{\includegraphics[scale=1.32]{esahubble}}} \centering
+\vspace*{5cm}
+\par\normalfont\fontsize{35}{35}\sffamily\selectfont
+\textbf{ET Programming Language}\\
+%{\LARGE Introduction a new and modern system programming language}\par % Book title
+\vspace*{1cm}
+{\Huge Max Base}\par
+\endgroup
+%-----------------------------
+% COPYRIGHT
+%-----------------------------
+\newpage
+~\vfill
+\thispagestyle{empty}
+
+\noindent Copyright \copyright\ 2019 Max Base\\ 
+
+\noindent \textsc{Max Base, Asrez Team}\\
+\noindent \textsc{Asrez.com}\\
+
+\noindent This research was done under the supervision of Dr. Pauline Barmby with the financial support of the MITACS Globalink Research Internship Award within a total of 12 weeks, from June 16th to September 5th of 2014.\\
+
+\noindent \textit{First release, Jun 2019}
+%-----------------------------
+% TABLE
+%-----------------------------
+\chapterimage{head1.png}
+\pagestyle{empty}
+\tableofcontents
+\pagestyle{fancy}
+%-----------------------------
+% CHAPTER 1
+%-----------------------------
+\chapterimage{head2.png}
+\chapter{ET Programming Language}
+\section{Introduction}
+
+The ET language has been designed by Max Base in 2012, Which was later
+developed by the Asrez team. They tried to design a modern, more appropriate language. As
+simple as possible for humans.
+Some features of the ET language:
+
+
+
+    \begin{itemize}
+        \item ET Language is a middle-level language. Programming languages ​​can be divided into three categories: high-level languages, middle level, low-level languages. (Table 1-1) The reason for the middle-level language is that it is also low because it is capable of being closely related to the hardware, like the assembly. And on the other side it is close to human expression and has simple commands and is readiable for humans then this's a feature of the high level languages.
+        
+        \item ET language is a flexible and powerful language that does not create any restrictions for the programmer, and you can take and create whatever you think.
+        
+        \item ET language is a portable language. This means that you can run the code written in a system on another system. Without causing trouble or trouble.
+        
+        \item ET language is a multi-platform language. This means that when you design an application for the Windows operating system. You can run it on another operating system, including Linux series.
+        
+        \item The ET programming language has the ability to embed on a platform for another platform.
+        So you can design a program for Windows. You will not need to own a Windows operating system.
+        And this is a unique and wonderful feature.
+        
+        \item The ET programming language has tiny keywords. This means that the number of keywords in this language is small. But this does not make you curious or can not produce any program.
+        However, the number of keywords is not a reason for the strength and speed of the compiler. But these are the reasons for learning this programming language easier and faster. \begin{table}[]
+            \centering
+    \begin{tabular}{|lllll|}
+\hline
+    auto    & const & break & continue & return \\
+    if  & for  & foreach & loop & while \\
+    do  & default & switch & else & elseif \\
+    elif    & extern & struct & enum & static \\
+    goto & union & case & register & typedef\\
+    assembly & import & ifdef & ifndef & define \\ \hline
+    
+    \end{tabular}
+\end{table}
+
+
+\pagebreak
+
+    
+    
+    \item ET Language is a system language. which you can even design system programs. System programs are programs that allow you to exploit hardware and software communitication. Some system programs are: operating system / interpreter / compiler / database / word processor and assembler and ...
+    
+    \item There is a close connection between the ET and the assembly.
+    This means that you can also insert assembly code into this language.
+    Of course, consider that they are controlled by a separate processing engine.
+    
+    \item ET Language is a sensitive letter.
+    This means that words in lowercase letters are different.
+    So be sure to type the letters you type in the letters you type.
+    
+    \item The ET language instructions are included in the following features:
+    
+    \begin{itemize}
+    \item There is no limit to the number of words per line.
+    \item It is recommended to write just one command per line
+    \item Ability to use; at the end of each instruction is optional
+    \item Each command can be written in several lines and lines. (You can create spaces or empty space between your guides.
+
+\item You can write comment in your code that you should use the principles of communication.   
+    \end{itemize}
+
+    
+
+\end{itemize}
+
+
+
+
+\section{Data Types}
+
+
+The purpose of programming is to receive inputs and process them to produce an output.
+Keep in mind that input values is the most important part of your work.
+
+
+In the programming language, there are several types of data that we can use in the place where it is needed:
+float, int, string, char, void, bool, null, ...
+
+The type is to store individual char (such as 'a', 'b'), The type is for storing int for keeping Integer (such as 4, 32, 169) and the float type is used for decimal number such as 15.4, 64.26) And we will explain the type of void later.
+
+But keep in mind that each of them has limitations.
+So we have several types with the name int, each of which has a limit.
+We can choose them according to the required range.
+
+\pagebreak
+
+
+\begin{table}[]
+    \centering
+    \begin{tabular}{|l|l|l|}
+        \hline
+        int8 & 8bit, 1byte & -127 until 128   \\ \hline
+        uint8 & 8bit, 1byte & -127 until 128   \\ \hline
+
+        int16 & 16bit, 2byte & -127 until 128   \\ \hline
+        uint16 & 16bit, 2byte & -127 until 128   \\ \hline
+
+        int32 & 32bit, 3byte & -127 until 128   \\ \hline
+        uint32 & 32bit, 3byte & -127 until 128   \\ \hline
+
+        int64 & 64bit, 4byte & -127 until 128   \\ \hline
+        uint64 & 64bit, 4byte & -127 until 128   \\ \hline
+
+        size & 64bit, 4byte & -127 until 128   \\ \hline
+
+        float16 & 16bit, 2byte & -127 until 128   \\ \hline
+        ufloat16 & 16bit, 2byte & -127 until 128   \\ \hline
+
+        float32 & 32bit, 3byte & -127 until 128   \\ \hline
+        ufloat32 & 32bit, 3byte & -127 until 128   \\ \hline
+
+        char & 8bit, 1byte & -127 until 128   \\ \hline
+        uchar & 16bit, 2byte & -127 until 128   \\ \hline
+
+        mchar & 16bit, 2byte & -127 until 128   \\ \hline
+
+        bool & 1bit & true or false \\ \hline
+        null & 1bit & empty \\ \hline
+
+    \end{tabular}
+\end{table}
+\label{List of data type(s)}
+
+
+
+
+
+
+
+\section{Variable}
+
+
+A variable is a name for memory words that we put data into. And we may change them and use them during the implementation of the program.
+To refer to their value, we use the same name, which is the reason we name them so that they can be easily accessed.
+
+To name variables, we can use characters from a to z or A to Z. As well as numbers and \_ char.
+
+We do not have a number limit for the length of name of variables.
+
+Note that the name of the variables can not start with the number. (The first letter of the name can not be a number)
+
+
+\subsection{Define Variable}
+
+
+As mentioned, variables are memory spaces. So, as the data has the type. We must also specify the type of variables.
+So the variable definition method will be:
+
+In this case, the variable type can be one of the values in Table 2
+
+`VariableName dataType '...
+
+
+\subsection{Story}
+
+\subsection{Name}
+
+The reason for naming ET for this time was initially related to the
+concept of electronics and technology. But later on the suggestion of Javad Sabet the concept of
+the name has been changed. This language also means the language of the earth (earth tongue).
+
+
+\begin{definition}[Cone]
+    A set $K \in \R^n$, when $x \in K $ implies $\alpha x \in K$.
+\end{definition}
+
+\begin{example}[ludcator function]
+
+
+$\delta_c(x) = \begin{cases}
+0 \quad  x \in C \\
++ \infty \quad elsewhere
+\end{cases}$.\\
+$dom \space \delta_c(x) = C$
+\end{example}
+
+
+\begin{definition}[III]
+A function $f : \R^n \to \bar{\R}$ is %\cvx  if $\epi \space f $ is \cvx
+\end{definition}
+
+
+\begin{theorem}
+$f : \R^n \to \bar{\R}$ is \cvx  $\iff$ $\forall x,y \in \R^n, \alpha \in (0,1), f(ax + (1-a)x) \le af(x) + (1-a)f(x)$.
+\end{theorem}
+
+\begin{lstlisting}[language=html]{test.py}
+<html>
+<head>
+<title>Hello</title>
+</head>
+<body>
+Hello
+</body>
+</html>
+\end{lstlisting}
+
+
+\end{document}
