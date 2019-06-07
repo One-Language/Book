@@ -1,7 +1,5 @@
 ## Read Before! 
 
-#
-
 __About the files .md__
 
 To translate book on 'section{} / summary {}'
@@ -15,8 +13,6 @@ To translate book on 'section{} / summary {}'
 <br>
 
 ## How to translate?
-
-#
 
 **Correct example**
 
