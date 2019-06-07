@@ -10,7 +10,7 @@ The book for a tutorial on ET Programming Language.
 
 ## Versions 
 
-**[English - United State](#anchors-in-markdown)** , **[Brazilian - Portuguese](#anchors-in-markdown)**  ,  **[Persian - Farsi](#anchors-in-markdown)** 
+**[English - United State](/content/en-us)**, **[Brazilian - Portuguese](/content/en-us)**, **[Persian - Farsi](/content/en-us)** 
 
 
 
