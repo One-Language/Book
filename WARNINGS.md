@@ -4,6 +4,7 @@ To translate book on 'section{} / summary {}'
 1. Do not remove # 
 2. Do not add new # 
 3. Do not add a new list. Example: 4, 5, 6, 7.
+4. Do not remove this symbol '..........................' from file.md it is the marking
 
 **Correct example**
 
@@ -65,3 +66,5 @@ To translate book on 'section{} / summary {}'
 4. Example 4 ... 
 
 ``` 
+
+
