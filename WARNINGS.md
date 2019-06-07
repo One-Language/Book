@@ -18,7 +18,7 @@ To translate book on 'section{} / summary {}'
 ``` 
 
 
-3. An Example
+1. An Example
 
 ```javascript
 
@@ -32,7 +32,7 @@ To translate book on 'section{} / summary {}'
 
 #
 
-4. Incorrect example
+**Incorrect example**
 
 ```python
 
@@ -49,7 +49,7 @@ To translate book on 'section{} / summary {}'
 ``` 
 
 
-5. An Example
+1. An Example
 
 ```javascript
 
