@@ -1,7 +1,7 @@
 # CONTENT
 
-1. C Programs
-2. ENVIORNMENT SETUP
+1. Samples
+2. General Issues and solutions
 3. Try it Option Online
 
 
