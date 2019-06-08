@@ -1,8 +1,8 @@
 # CONTENT
 
-1. C Programs
-2. ENVIORNMENT SETUP
-3. Try it Option Online
+1. The Language of This Book
+2. Everything (We Will Say) About Parsing
+3. Facts about ET
 
 
 .................................................................................................................................................................
