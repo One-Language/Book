@@ -1,6 +1,6 @@
 ## Linux
 
-#### READ THIS! **::** peazip, 7zip ... 
+#### @read-this! **:: unzip :** Peazip, 7zip ... 
 
 <br>
 
@@ -39,6 +39,8 @@
 <br>
 
 #### @read-this! **:: unzip :** Peazip, 7zip , Winrar ... 
+
+#
 
 #### @read-this! **:: latex :** Texmaker, TeXstudio, TeXstudio , Kile, LyX, TeXworks, Gummi, MiKTeX ...
 
