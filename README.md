@@ -30,18 +30,18 @@ The book for a tutorial on ET Programming Language.
 - **Debian, Ubuntu :** `sudo apt-get install p7zip-full wget git`
 - **Arch :**  `sudo pacman -S p7zip wget git`
 
-Useful links :
-
-- https://www.thegeekstuff.com/2010/04/7z-7zip-7za-file-compression
-- https://askubuntu.com/questions/219392/how-can-i-uncompress-a-7z-file
-- https://superuser.com/questions/406915/extract-7z-files-with-standard-linux-tools
-
 ```
 wget https://codeload.github.com/ET-Lang/book/zip/master
 7za et.zip 
 cd content/en-us
 pdflatex main.tex
 ```
+
+Useful links :
+
+- https://www.thegeekstuff.com/2010/04/7z-7zip-7za-file-compression
+- https://askubuntu.com/questions/219392/how-can-i-uncompress-a-7z-file
+- https://superuser.com/questions/406915/extract-7z-files-with-standard-linux-tools
 
 #### **Mac**
 
@@ -57,18 +57,19 @@ pdflatex main.tex
 - **Unzip :** Peazip, 7zip , Winrar ...
 - **Latex :** Use a IDE or editor
 
-- https://www.latex-project.org/get/
-- https://groups.google.com/forum/#!topic/latexusersgroup/EuCCOS0iowY
-- https://tex.stackexchange.com/questions/441658/latex-from-command-line-windows
-- https://tex.stackexchange.com/questions/78178/miktex-how-to-run-pdflatex-from-cmd-prompt-on-windows-7-compared-to-windows-xp
-
-
 ```
 start wget https://codeload.github.com/ET-Lang/book/zip/master
 start 7zip et.zip unzip 
 cd content/en-us
 start pdflatex main.tex
 ```
+
+Useful links :
+
+- https://www.latex-project.org/get/
+- https://groups.google.com/forum/#!topic/latexusersgroup/EuCCOS0iowY
+- https://tex.stackexchange.com/questions/441658/latex-from-command-line-windows
+- https://tex.stackexchange.com/questions/78178/miktex-how-to-run-pdflatex-from-cmd-prompt-on-windows-7-compared-to-windows-xp
 
 ------------
 
