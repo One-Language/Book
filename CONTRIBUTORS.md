@@ -1,10 +1,9 @@
 ### VERSIONS & CONTRIBUTORS
 
-1. **English - United State :** [@Max Base](#anchors-in-markdown) , [@pglapds](#anchors-in-markdown) ... 
+1. **English - United State :** [@Max Base](https://github.com/BaseMax) , [@pglapds](https://github.com/pglapds) ... 
 
 
-2. **Brazilian - Portuguese :** Pglapds
+2. **Brazilian - Portuguese :** [@pglapds](https://github.com/pglapds) ... 
 
-**Persian - Farsi :**
+**Persian - Farsi :** [@Seyyed Ali Mohammadiye](#anchors-in-markdown) ... 
 
-Seyyed Ali Mohammadiye
