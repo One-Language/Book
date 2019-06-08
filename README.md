@@ -6,8 +6,14 @@ The book for a tutorial on ET Programming Language.
 
 ## Online
 
-1. If use MAC , GNU-LINUX or Windows [access here!](https://overleaf.com)
-2. Now: Create account & import URL & test ^^
+### Web Base Editor
+
+- [overleaf!](https://overleaf.com)
+
+1. Open a web base editor (web page)
+2. Create account or Login
+3. Import URL
+4. Test
 
 ## Offline
 
