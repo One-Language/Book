@@ -3,6 +3,16 @@
 The book for a tutorial on ET Programming Language.
 
 
+# Editor, IDE
+
+- [Texmaker](http://www.xm1math.net/texmaker/)
+- [TeXstudio](https://www.texstudio.org/)
+- [Kile](https://kile.sourceforge.io/)
+- [LyX](https://www.lyx.org/)
+- [TeXworks](http://www.tug.org/texworks/)
+- [Gummi](https://github.com/alexandervdm/gummi)
+- [MiKTeX](https://miktex.org/), ...
+
 # Test, Modify
 
 ## Online
@@ -46,7 +56,7 @@ pdflatex main.tex
 #### **Windows**
 
 - **Unzip :** Peazip, 7zip , Winrar ...
-- **Latex :** [Texmaker](http://www.xm1math.net/texmaker/), [TeXstudio](https://www.texstudio.org/), [Kile](https://kile.sourceforge.io/), [LyX](https://www.lyx.org/), [TeXworks](http://www.tug.org/texworks/), [Gummi](https://github.com/alexandervdm/gummi), [MiKTeX](https://miktex.org/), ...
+- **Latex :** Use a IDE or editor
 
 > @read https://www.latex-project.org/get/
 
