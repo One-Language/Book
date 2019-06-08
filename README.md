@@ -7,14 +7,23 @@ The book for a tutorial on ET Programming Language.
 <br>
 
 Online 
+
+<br>
+<br>
+
 **& : -view -test:**  MAC, WINDOWS, GNULINUX access here: https://pt.overleaf.com/project
 
 Offline 
+
+<br>
+<br>
 
 1. Automatic Decompiler: option: a.nodejs, b.python c.script
 2. a.nodejs, b.python, c.script Require: 7zip & Wget 
 3. [How install or have 7zip, Wget ?](how.md)
 
+<br>
+<br>
 
 ## Linux
 
