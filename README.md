@@ -29,7 +29,7 @@ cd content/en-us
 pdflatex main.tex
 ```
 
-### [WINDOWS](WINDOWS.md)
+### WINDOWS
 
 ```
 start wget https://codeload.github.com/ET-Lang/book/zip/master
