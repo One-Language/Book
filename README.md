@@ -32,11 +32,9 @@ The book for a tutorial on ET Programming Language.
 
 Useful links :
 
-> @read https://www.thegeekstuff.com/2010/04/7z-7zip-7za-file-compression
-
-> @read https://askubuntu.com/questions/219392/how-can-i-uncompress-a-7z-file
-
-> @read https://superuser.com/questions/406915/extract-7z-files-with-standard-linux-tools
+- https://www.thegeekstuff.com/2010/04/7z-7zip-7za-file-compression
+- https://askubuntu.com/questions/219392/how-can-i-uncompress-a-7z-file
+- https://superuser.com/questions/406915/extract-7z-files-with-standard-linux-tools
 
 ```
 wget https://codeload.github.com/ET-Lang/book/zip/master
@@ -59,13 +57,10 @@ pdflatex main.tex
 - **Unzip :** Peazip, 7zip , Winrar ...
 - **Latex :** Use a IDE or editor
 
-> @read https://www.latex-project.org/get/
-
-> @read https://groups.google.com/forum/#!topic/latexusersgroup/EuCCOS0iowY
-
-> @read https://tex.stackexchange.com/questions/441658/latex-from-command-line-windows
-
-> @read https://tex.stackexchange.com/questions/78178/miktex-how-to-run-pdflatex-from-cmd-prompt-on-windows-7-compared-to-windows-xp
+- https://www.latex-project.org/get/
+- https://groups.google.com/forum/#!topic/latexusersgroup/EuCCOS0iowY
+- https://tex.stackexchange.com/questions/441658/latex-from-command-line-windows
+- https://tex.stackexchange.com/questions/78178/miktex-how-to-run-pdflatex-from-cmd-prompt-on-windows-7-compared-to-windows-xp
 
 
 ```
