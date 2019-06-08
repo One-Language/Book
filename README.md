@@ -23,12 +23,8 @@ cd content/en-us
 pdflatex main.tex
 ```
 
-Useful links :
-
-- https://www.thegeekstuff.com/2010/04/7z-7zip-7za-file-compression
-- https://askubuntu.com/questions/219392/how-can-i-uncompress-a-7z-file
-- https://superuser.com/questions/406915/extract-7z-files-with-standard-linux-tools
-
+Useful links : [Link 1](https://www.thegeekstuff.com/2010/04/7z-7zip-7za-file-compression) , [Link 2](https://askubuntu.com/questions/219392/how-can-i-uncompress-a-7z-file) , [Link 3](https://superuser.com/questions/406915/extract-7z-files-with-standard-linux-tools)
+ 
 ### Offline **Mac**
 
 ```
