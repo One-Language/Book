@@ -1,8 +1,6 @@
 # Book
 
-The book for a tutorial on ET Programming Language.
-
-### Test, change
+The book for a tutorial on ET Programming Language. Test, change too.
 
 ### Online: Web Base Editor
 
@@ -11,15 +9,7 @@ The book for a tutorial on ET Programming Language.
 3. Import URL.
 4. Test.
 
-## Offline
-
-### Editor, IDE
-
-
-- ...
-
-
-#### **Linux**
+## Offline **Linux**
 
 - **Centos :** `sudo yum install p7zip wget git`
 - **Fedora :** `sudo dnf install p7zip wget git`
