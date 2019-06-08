@@ -1,8 +1,7 @@
 # CONTENT
 
-1. C Programs
-2. ENVIORNMENT SETUP
-3. Try it Option Online
-
+1. Introduction
+2. Our Philosophy 
+3. The Structure of This Book 
 
 .................................................................................................................................................................
