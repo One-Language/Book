@@ -2,23 +2,16 @@
 
 The book for a tutorial on ET Programming Language.
 
-<br>
-<br>
 
- [**TEST, VIEW ONLINE**](RUNNING-.md)
+## Test, Modify - Online
 
-## Test, Modify
-
-### Online
-
-#### WARNINGS
+### WARNINGS
 
 1. If use **MAC , GNU-LINUX or Windows** [access here!](https://pt.overleaf.com)
 
 2. **Now: Create account & import URL & test ^^**
 
-### Offline
-
+## Test, Modify - Offline
 
 ### Warnings 
 
@@ -27,7 +20,7 @@ The book for a tutorial on ET Programming Language.
 3. [How install or have 7zip, Wget or similar tools?](how.md)
 
 
-## Linux
+### Linux
 
 ```
 wget https://codeload.github.com/pglapds/et/zip/master
@@ -36,7 +29,7 @@ cd content/en-us
 pdflatex main.tex
 ```
 
-## [WINDOWS](WINDOWS.md)
+### [WINDOWS](WINDOWS.md)
 
 ```
 start wget https://codeload.github.com/ET-Lang/book/zip/master
@@ -45,11 +38,7 @@ cd content/en-us
 start pdflatex main.tex
 ```
 
-<br>
-<br>
-<br>
-
-## Mac
+### Mac
 
 ```
 wget https://codeload.github.com/pglapds/et/zip/master
@@ -58,7 +47,7 @@ cd content/en-us
 pdflatex main.tex
 ```
 
-
+------------
 
 ## Versions 
 
