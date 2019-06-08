@@ -62,7 +62,7 @@
       <td align="center">
          <a href="https://github.com/Mohammadiye">
             <img src="https://avatars1.githubusercontent.com/u/51291744?v=4" width="100px;" alt="Seyyed Ali Mohammadiye"/><br />
-            <sub><b>Seyyed Ali Mohammadiye</b></sub>
+            <sub><b>Ali Mohammadiye</b></sub>
          </a><br />
       </td>
    </tr>
