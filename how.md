@@ -1,6 +1,10 @@
 ### Linux
 
-:: peazip, 7zip ... 
+<br>
+
+#### READ THIS! **::** peazip, 7zip ... 
+
+<br>
 
 1. #### Install p7zip to unzip *.7z files on Fedora
 
