@@ -1,4 +1,4 @@
-### Linux
+## Linux
 
 #### READ THIS! **::** peazip, 7zip ... 
 
@@ -28,14 +28,14 @@
 
 
 
-### Mac
+## Mac
 
 
-### Windows
+## Windows
 
-:: unzip : Peazip, 7zip , Winrar ... 
+#### READ THIS! **:: unzip :** Peazip, 7zip , Winrar ... 
 
-:: latex : Texmaker, TeXstudio, TeXstudio , Kile, LyX, TeXworks, Gummi, MiKTeX ...
+#### READ THIS! **:: latex :** Texmaker, TeXstudio, TeXstudio , Kile, LyX, TeXworks, Gummi, MiKTeX ...
 
 
 > @read https://www.latex-project.org/get/
