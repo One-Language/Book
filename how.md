@@ -1,5 +1,6 @@
 ### Linux
 
+:: peazip, 7zip ... 
 
 1. #### Install p7zip to unzip *.7z files on Fedora
 
@@ -29,6 +30,11 @@
 
 
 ### Windows
+
+:: unzip : Peazip, 7zip , Winrar ... 
+
+:: latex : Texmaker, TeXstudio, TeXstudio , Kile, LyX, TeXworks, Gummi, MiKTeX ...
+
 
 > @read https://www.latex-project.org/get/
 
