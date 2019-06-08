@@ -14,7 +14,7 @@ The book for a tutorial on ET Programming Language.
 2. For option: Nodejs, Python, Script
 3. Require: 7zip & Wget or similar tools
 
-- **Linux**
+#### **Linux**
 
 - Centos : `sudo yum install p7zip wget git`
 - Fedora : `sudo dnf install p7zip wget git`
@@ -36,7 +36,7 @@ cd content/en-us
 pdflatex main.tex
 ```
 
-- **Mac**
+#### **Mac**
 
 ```
 wget https://codeload.github.com/pglapds/et/zip/master
@@ -45,7 +45,7 @@ cd content/en-us
 pdflatex main.tex
 ```
 
-- **Windows**
+#### **Windows**
 
 Unzip : Peazip, 7zip , Winrar ...
 Latex : Texmaker, TeXstudio, TeXstudio , Kile, LyX, TeXworks, Gummi, MiKTeX ...
