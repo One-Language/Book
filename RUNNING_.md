@@ -1,4 +1,6 @@
 
+### Warnings 
+
 1. Automatic Decompiler: option: a.nodejs, b.python c.script
 2. a.nodejs, b.python, c.script Require: 7zip & Wget 
 3. [How install or have 7zip, Wget ?](how.md)
@@ -20,8 +22,7 @@ pdflatex main.tex
 <br>
 <br>
 
-
-## Windows
+## [WINDOWS](WINDOWS.md)
 
 start wget https://codeload.github.com/ET-Lang/book/zip/master
 
@@ -47,22 +48,4 @@ cd content/en-us
 pdflatex main.tex
 
 
-**& : -view -test:**  MAC, WINDOWS, GNULINUX access here: https://pt.overleaf.com/project
 
-
-REQUIRE
-
-
-Texmaker
-TeXstudio
-TeXstudio
-Kile
-Kile
-LyX
-LyX
-TeXworks
-TeXworks
-Gummi
-Gummi
-MiKTeX
-MiKTeX
