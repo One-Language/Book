@@ -2,30 +2,20 @@
 
 The book for a tutorial on ET Programming Language.
 
-# Test, Modify
+### Test, change
 
-## Online
+### Online: Web Base Editor
 
-### Web Base Editor
-
-- [Overleaf](https://overleaf.com)
-
-1. Open a web base editor (web page)
-2. Create account or Login
-3. Import URL
-4. Test
+1. [Open a web base editor (web page).: Overleaf](https://overleaf.com)
+2. Create account or Login.
+3. Import URL.
+4. Test.
 
 ## Offline
 
 ### Editor, IDE
 
-- [Texmaker](http://www.xm1math.net/texmaker/)
-- [TeXstudio](https://www.texstudio.org/)
-- [Kile](https://kile.sourceforge.io/)
-- [LyX](https://www.lyx.org/)
-- [TeXworks](http://www.tug.org/texworks/)
-- [Gummi](https://github.com/alexandervdm/gummi)
-- [MiKTeX](https://miktex.org/)
+
 - ...
 
 
@@ -61,7 +51,7 @@ pdflatex main.tex
 #### **Windows**
 
 - **Unzip :** Peazip, 7zip , Winrar ...
-- **Latex :** Use a IDE or editor
+- **Latex :** Use a IDE or editor : [Texmaker](http://www.xm1math.net/texmaker/) , [TeXstudio](https://www.texstudio.org/) , [Kile](https://kile.sourceforge.io/) , [LyX](https://www.lyx.org/) , [TeXworks](http://www.tug.org/texworks/) , [Gummi](https://github.com/alexandervdm/gummi) , [MiKTeX](https://miktex.org/)
 
 ```
 start wget https://codeload.github.com/ET-Lang/book/zip/master
