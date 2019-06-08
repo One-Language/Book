@@ -26,16 +26,21 @@
 > @read https://superuser.com/questions/406915/extract-7z-files-with-standard-linux-tools
 
 
-
+<br>
+<br>
 
 ## Mac
 
+<br>
 
 ## Windows
 
-#### READ THIS! **:: unzip :** Peazip, 7zip , Winrar ... 
+<br>
+<br>
 
-#### READ THIS! **:: latex :** Texmaker, TeXstudio, TeXstudio , Kile, LyX, TeXworks, Gummi, MiKTeX ...
+#### @read-this! **:: unzip :** Peazip, 7zip , Winrar ... 
+
+#### @read-this! **:: latex :** Texmaker, TeXstudio, TeXstudio , Kile, LyX, TeXworks, Gummi, MiKTeX ...
 
 
 > @read https://www.latex-project.org/get/
