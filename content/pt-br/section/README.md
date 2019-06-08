@@ -1,3 +1,4 @@
-# Section
+# Seção
 
-**en-us :** Translate the table of contents into the language. 'content/en-us/section/' 
+**pt-br:** Traduza o conteúdo dentro da pasta **'section' para traduzir o livro da linguagem de programação et. 
+
