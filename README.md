@@ -32,7 +32,7 @@ Useful links :
 > @read https://superuser.com/questions/406915/extract-7z-files-with-standard-linux-tools
 
 ```
-wget https://codeload.github.com/pglapds/et/zip/master
+wget https://codeload.github.com/ET-Lang/book/zip/master
 7za et.zip 
 cd content/en-us
 pdflatex main.tex
@@ -41,7 +41,7 @@ pdflatex main.tex
 #### **Mac**
 
 ```
-wget https://codeload.github.com/pglapds/et/zip/master
+wget https://codeload.github.com/ET-Lang/book/zip/master
 7za et.zip 
 cd content/en-us
 pdflatex main.tex
