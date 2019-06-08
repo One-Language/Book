@@ -1,6 +1,6 @@
-### VERSIONS & CONTRIBUTORS
+## VERSIONS & CONTRIBUTORS
 
-#### English - United State
+### English - United State
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
@@ -24,7 +24,7 @@
 
 
 
-#### Brazilian - Portuguese
+### Brazilian - Portuguese
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
@@ -47,7 +47,7 @@
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-#### Persian - Iran
+### Persian - Iran
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
