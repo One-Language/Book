@@ -14,7 +14,7 @@ The book for a tutorial on ET Programming Language.
 2. For option: Nodejs, Python, Script
 3. Require: 7zip & Wget or similar tools
 
-## Linux
+- Linux
 
 #### @read-this! **:: unzip :** Peazip, 7zip ... 
 
@@ -54,7 +54,7 @@ yum install p7zip
 
 
 
-### Linux
+- Linux
 
 ```
 wget https://codeload.github.com/pglapds/et/zip/master
@@ -63,7 +63,7 @@ cd content/en-us
 pdflatex main.tex
 ```
 
-### WINDOWS
+- WINDOWS
 
 ```
 start wget https://codeload.github.com/ET-Lang/book/zip/master
@@ -72,7 +72,7 @@ cd content/en-us
 start pdflatex main.tex
 ```
 
-### Mac
+- Mac
 
 ```
 wget https://codeload.github.com/pglapds/et/zip/master
