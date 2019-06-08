@@ -1,12 +1,9 @@
-## Versions
+### VERSIONS & CONTRIBUTORS
 
-**English - United State :**
+1. **English - United State :** [@Max Base](#anchors-in-markdown) , [@pglapds](#anchors-in-markdown) ... 
 
-Max Base, Pglapds, ...
 
-**Brazilian - Portuguese :**
-
-Pglapds
+2. **Brazilian - Portuguese :** Pglapds
 
 **Persian - Farsi :**
 
