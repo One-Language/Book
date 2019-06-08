@@ -9,7 +9,7 @@ The book for a tutorial on ET Programming Language. Test, change too.
 3. Import URL.
 4. Test.
 
-## Offline **Linux**
+### Offline **Linux**
 
 - **Centos :** `sudo yum install p7zip wget git`
 - **Fedora :** `sudo dnf install p7zip wget git`
@@ -29,7 +29,7 @@ Useful links :
 - https://askubuntu.com/questions/219392/how-can-i-uncompress-a-7z-file
 - https://superuser.com/questions/406915/extract-7z-files-with-standard-linux-tools
 
-#### **Mac**
+### Offline **Mac**
 
 ```
 wget https://codeload.github.com/ET-Lang/book/zip/master
@@ -38,7 +38,7 @@ cd content/en-us
 pdflatex main.tex
 ```
 
-#### **Windows**
+### Offline **Windows**
 
 - **Unzip :** Peazip, 7zip , Winrar ...
 - **Latex :** Use a IDE or editor : [Texmaker](http://www.xm1math.net/texmaker/) , [TeXstudio](https://www.texstudio.org/) , [Kile](https://kile.sourceforge.io/) , [LyX](https://www.lyx.org/) , [TeXworks](http://www.tug.org/texworks/) , [Gummi](https://github.com/alexandervdm/gummi) , [MiKTeX](https://miktex.org/)
