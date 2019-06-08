@@ -1,7 +1,7 @@
 
 ### Warnings 
 
-1. Automatic Decompiler: option: a.nodejs, b.python c.script
+1. For automatic decompiler: your option is **a.** Nodejs, **b.** Python **c.** click & or execute script
 2. a.nodejs, b.python, c.script Require: 7zip & Wget 
 3. [How install or have 7zip, Wget ?](how.md)
 
