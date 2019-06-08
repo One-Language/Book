@@ -2,12 +2,18 @@
 
 The book for a tutorial on ET Programming Language. Test, change too.
 
+<br>
+<br>
+
 ### Online: Web Base Editor
 
 1. [Open a web base editor (web page).: Overleaf](https://overleaf.com)
 2. Create account or Login.
 3. Import URL.
 4. Test.
+
+<br>
+<br>
 
 ### Offline **Linux**
 
@@ -25,7 +31,9 @@ wget https://codeload.github.com/ET-Lang/book/zip/master
 cd content/en-us
 pdflatex main.tex
 ```
- 
+<br>
+<br>
+
 ### Offline **Mac**
 
 ```
@@ -34,6 +42,9 @@ wget https://codeload.github.com/ET-Lang/book/zip/master
 cd content/en-us
 pdflatex main.tex
 ```
+
+<br>
+<br>
 
 ### Offline **Windows**
 
@@ -49,8 +60,8 @@ cd content/en-us
 start pdflatex main.tex
 ```
 
-
-------------
+<br>
+<br>
 
 ## Versions 
 
