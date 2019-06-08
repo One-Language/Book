@@ -1,7 +1,7 @@
 
 ### Warnings 
 
-1. **To decompile automatically:** options:: **a.** Nodejs , **b.** Python , **c.** click or execute script
+1. **To decompile automatically , options::** a. **Nodejs ,**  b. **Python ,** c. **Click or execute script**
 2. For option **a.** Nodejs, **b.** Python, **c.** Script @require: 7zip & Wget or similar tools
 3. [How install or have 7zip, Wget ?](how.md)
 
