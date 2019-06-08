@@ -8,8 +8,7 @@ The book for a tutorial on ET Programming Language.
 
  [**TEST, VIEW ONLINE**](RUNNING-.md)
 
-<br>
-<br>
+#
 
  [**TEST, VIEW OFFLINE**](RUNNING_.md)
 
