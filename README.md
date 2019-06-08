@@ -16,23 +16,16 @@ The book for a tutorial on ET Programming Language.
 
 - Linux
 
-#### @read-this! **:: unzip :** Peazip, 7zip ... 
+Centos : `sudo yum install p7zip`
 
-1. #### Install p7zip to unzip *.7z files on Fedora
+Fedora : `sudo dnf install p7zip`
 
-```
-yum install p7zip 
-```
-> @read https://www.thegeekstuff.com/2010/04/7z-7zip-7za-file-compression
-> @read https://askubuntu.com/questions/219392/how-can-i-uncompress-a-7z-file
-> @read https://superuser.com/questions/406915/extract-7z-files-with-standard-linux-tools
+Debian, Ubuntu : `sudo apt-get install p7zip-full`
 
+Arch :  `sudo pacman -S p7zip`
 
-2. #### Install p7zip to unzip *.7z files on Debian and Ubuntu
+Useful links :
 
-```
-yum install p7zip
-```
 > @read https://www.thegeekstuff.com/2010/04/7z-7zip-7za-file-compression
 > @read https://askubuntu.com/questions/219392/how-can-i-uncompress-a-7z-file
 > @read https://superuser.com/questions/406915/extract-7z-files-with-standard-linux-tools
@@ -42,16 +35,14 @@ yum install p7zip
 
 ## Windows
 
-#### @read-this! **:: unzip :** Peazip, 7zip , Winrar ... 
-
-#### @read-this! **:: latex :** Texmaker, TeXstudio, TeXstudio , Kile, LyX, TeXworks, Gummi, MiKTeX ...
+**Unzip :** Peazip, 7zip , Winrar ...
+**Latex :** Texmaker, TeXstudio, TeXstudio , Kile, LyX, TeXworks, Gummi, MiKTeX ...
 
 
 > @read https://www.latex-project.org/get/
 > @read https://groups.google.com/forum/#!topic/latexusersgroup/EuCCOS0iowY
 > @read https://tex.stackexchange.com/questions/441658/latex-from-command-line-windows
 > @read https://tex.stackexchange.com/questions/78178/miktex-how-to-run-pdflatex-from-cmd-prompt-on-windows-7-compared-to-windows-xp
-
 
 
 - Linux
