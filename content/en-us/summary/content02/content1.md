@@ -1,8 +1,8 @@
 # CONTENT
 
-1. C Programs
-2. ENVIORNMENT SETUP
-3. Try it Option Online
+1. The ET Compiler
+2. Source-Code Compiler 
+3. Installation on UNIX/Linux
 
 
 .................................................................................................................................................................
