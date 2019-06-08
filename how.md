@@ -35,14 +35,13 @@
 
 ## Windows
 
-<br>
-<br>
-
 #### @read-this! **:: unzip :** Peazip, 7zip , Winrar ... 
 
 #
 
 #### @read-this! **:: latex :** Texmaker, TeXstudio, TeXstudio , Kile, LyX, TeXworks, Gummi, MiKTeX ...
+
+<br>
 
 
 > @read https://www.latex-project.org/get/
