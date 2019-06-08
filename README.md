@@ -2,17 +2,6 @@
 
 The book for a tutorial on ET Programming Language.
 
-
-# Editor, IDE
-
-- [Texmaker](http://www.xm1math.net/texmaker/)
-- [TeXstudio](https://www.texstudio.org/)
-- [Kile](https://kile.sourceforge.io/)
-- [LyX](https://www.lyx.org/)
-- [TeXworks](http://www.tug.org/texworks/)
-- [Gummi](https://github.com/alexandervdm/gummi)
-- [MiKTeX](https://miktex.org/), ...
-
 # Test, Modify
 
 ## Online
@@ -21,6 +10,18 @@ The book for a tutorial on ET Programming Language.
 2. Now: Create account & import URL & test ^^
 
 ## Offline
+
+### Editor, IDE
+
+- [Texmaker](http://www.xm1math.net/texmaker/)
+- [TeXstudio](https://www.texstudio.org/)
+- [Kile](https://kile.sourceforge.io/)
+- [LyX](https://www.lyx.org/)
+- [TeXworks](http://www.tug.org/texworks/)
+- [Gummi](https://github.com/alexandervdm/gummi)
+- [MiKTeX](https://miktex.org/)
+- ...
+
 
 #### **Linux**
 
