@@ -1,1 +1,1 @@
- MAC, WINDOWS, GNULINUX access here: https://pt.overleaf.com/project
+ MAC, WINDOWS or GNU-LINUX access here: https://pt.overleaf.com/project
