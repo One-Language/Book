@@ -1,8 +1,8 @@
 # CONTENT
 
-1. C Programs
-2. ENVIORNMENT SETUP
-3. Try it Option Online
+1. Installation on Mac OS
+2. Installation on Windows
+3. PROGRAM STRUCTURE
 
 
 .................................................................................................................................................................
