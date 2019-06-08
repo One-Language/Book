@@ -8,7 +8,7 @@ The book for a tutorial on ET Programming Language.
 
 ### Web Base Editor
 
-- [overleaf!](https://overleaf.com)
+- [Overleaf](https://overleaf.com)
 
 1. Open a web base editor (web page)
 2. Create account or Login
