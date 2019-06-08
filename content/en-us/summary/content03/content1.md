@@ -1,8 +1,8 @@
-# 
+# CONTENT
 
-1. C Programs
-2. ENVIORNMENT SETUP
-3. Try it Option Online
+1. BASIC SYNTAX
+2. Compile and Execute C Program
+3. DATA TYPES
 
 
 .................................................................................................................................................................
