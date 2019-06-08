@@ -12,16 +12,12 @@ The book for a tutorial on ET Programming Language.
 
 ## Offline
 
-1. To decompile automatically
-2. For option: Nodejs, Python, Script
-3. Require: 7zip & Wget or similar tools
-
 #### **Linux**
 
-- Centos : `sudo yum install p7zip wget git`
-- Fedora : `sudo dnf install p7zip wget git`
-- Debian, Ubuntu : `sudo apt-get install p7zip-full wget git`
-- Arch :  `sudo pacman -S p7zip wget git`
+- **Centos :** `sudo yum install p7zip wget git`
+- **Fedora :** `sudo dnf install p7zip wget git`
+- **Debian, Ubuntu :** `sudo apt-get install p7zip-full wget git`
+- **Arch :**  `sudo pacman -S p7zip wget git`
 
 Useful links :
 
@@ -49,8 +45,8 @@ pdflatex main.tex
 
 #### **Windows**
 
-Unzip : Peazip, 7zip , Winrar ...
-Latex : Texmaker, TeXstudio, TeXstudio , Kile, LyX, TeXworks, Gummi, MiKTeX ...
+- **Unzip :** Peazip, 7zip , Winrar ...
+- **Latex :** Texmaker, TeXstudio, TeXstudio , Kile, LyX, TeXworks, Gummi, MiKTeX ...
 
 > @read https://www.latex-project.org/get/
 
