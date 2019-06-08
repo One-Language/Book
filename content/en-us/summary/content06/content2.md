@@ -1,8 +1,8 @@
 # CONTENT
 
-1. C Programs
-2. ENVIORNMENT SETUP
-3. Try it Option Online
+1. EVENTS
+2. MEMORY MANAGEMENT
+3. COMMANDLINE ARGUMENTS
 
 
 .................................................................................................................................................................
