@@ -1,6 +1,6 @@
 # Book
 
-The book for a tutorial on ET Programming Language. Test, change too.
+The book for a tutorial on **ET Programming Language**.
 
 <br>
 <br>
