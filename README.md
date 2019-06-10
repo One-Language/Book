@@ -25,7 +25,7 @@ Useful links : [Link 1](https://www.thegeekstuff.com/2010/04/7z-7zip-7za-file-co
 - **Debian, Ubuntu :** `sudo apt-get install p7zip-full wget git`
 - **Arch :**  `sudo pacman -S p7zip wget git`
 
-```
+```haskell 
 wget https://codeload.github.com/ET-Lang/book/zip/master
 7za et.zip 
 cd content/en-us
@@ -36,7 +36,7 @@ pdflatex main.tex
 
 ### Offline **Mac**
 
-```
+```haskell 
 wget https://codeload.github.com/ET-Lang/book/zip/master
 7za et.zip 
 cd content/en-us
@@ -53,7 +53,7 @@ Useful links: [Link 1](https://www.latex-project.org/get/), [Link 2](https://gro
 - **Unzip :** Peazip, 7zip , Winrar ...
 - **Latex :** Use a IDE or editor : [Texmaker](http://www.xm1math.net/texmaker/) , [TeXstudio](https://www.texstudio.org/) , [Kile](https://kile.sourceforge.io/) , [LyX](https://www.lyx.org/) , [TeXworks](http://www.tug.org/texworks/) , [Gummi](https://github.com/alexandervdm/gummi) , [MiKTeX](https://miktex.org/)
 
-```
+```haskell 
 start wget https://codeload.github.com/ET-Lang/book/zip/master
 start 7zip et.zip unzip 
 cd content/en-us
