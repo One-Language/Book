@@ -118,8 +118,12 @@ start pdflatex main.tex
 <br>
 <br>
 
-- **Unzip :** Peazip, 7zip , Winrar ...
-- **Latex :** Use a IDE or editor : [Texmaker](http://www.xm1math.net/texmaker/) , [TeXstudio](https://www.texstudio.org/) , [Kile](https://kile.sourceforge.io/) , [LyX](https://www.lyx.org/) , [TeXworks](http://www.tug.org/texworks/) , [Gummi](https://github.com/alexandervdm/gummi) , [MiKTeX](https://miktex.org/)
+
+**Unzip :** Peazip, 7zip , Winrar ...
+
+#
+
+**Latex :** Use a IDE or editor : [Texmaker](http://www.xm1math.net/texmaker/) , [TeXstudio](https://www.texstudio.org/) , [Kile](https://kile.sourceforge.io/) , [LyX](https://www.lyx.org/) , [TeXworks](http://www.tug.org/texworks/) , [Gummi](https://github.com/alexandervdm/gummi) , [MiKTeX](https://miktex.org/)
 
 <br>
 <br>
