@@ -15,7 +15,7 @@ The book for a tutorial on **ET Programming Language**.
 <br>
 <br>
 
-### Offline **Linux**
+### Offline **GNU/Linux**
 
 Useful links : [Link 1](https://www.thegeekstuff.com/2010/04/7z-7zip-7za-file-compression) , [Link 2](https://askubuntu.com/questions/219392/how-can-i-uncompress-a-7z-file) , [Link 3](https://superuser.com/questions/406915/extract-7z-files-with-standard-linux-tools)
 
@@ -28,23 +28,23 @@ pdflatex main.tex
 <br>
 <br>
 
+
+### Arch 
+
+```haskell 
+
+sudo pacman -S p7zip wget git
+
+```
+
+<br>
+<br>
+
 ### Centos 
 
 ```haskell 
 
 sudo yum install p7zip wget git
-
-```
-<br>
-<br>
-
-
-### Fedora
-
-
-```haskell 
-
-sudo dnf install p7zip wget git
 
 ```
 <br>
@@ -63,6 +63,18 @@ sudo apt-get install p7zip-full wget git
 <br>
 
 
+### Fedora
+
+
+```haskell 
+
+sudo dnf install p7zip wget git
+
+```
+<br>
+<br>
+
+
 ### Ubuntu
 
 
@@ -75,17 +87,6 @@ sudo apt-get install p7zip-full wget git
 <br>
 <br>
 
-
-**Arch :**  
-
-```haskell 
-
-sudo pacman -S p7zip wget git
-
-```
-
-<br>
-<br>
 
 
 ### Offline **Mac**
