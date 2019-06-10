@@ -39,6 +39,9 @@ pdflatex main.tex
 
 ### Offline **Mac**
 
+Useful links : [Link 1](https://www.thegeekstuff.com/2010/04/7z-7zip-7za-file-compression) , [Link 2](https://askubuntu.com/questions/219392/how-can-i-uncompress-a-7z-file) , [Link 3](https://superuser.com/questions/406915/extract-7z-files-with-standard-linux-tools)
+
+
 ```haskell 
 wget https://codeload.github.com/ET-Lang/book/zip/master
 7za et.zip 
