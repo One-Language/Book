@@ -28,7 +28,7 @@ pdflatex main.tex
 <br>
 <br>
 
-**Centos :** 
+### Centos 
 
 ```haskell 
 
@@ -39,9 +39,7 @@ sudo yum install p7zip wget git
 <br>
 
 
-`sudo yum install p7zip wget git`
-
-**Fedora :** 
+### Fedora
 
 
 ```haskell 
@@ -53,7 +51,7 @@ sudo dnf install p7zip wget git
 <br>
 
 
-**Debian :** 
+### Debian 
 
 
 ```haskell 
@@ -65,7 +63,7 @@ sudo apt-get install p7zip-full wget git
 <br>
 
 
-**Ubuntu :** 
+### Ubuntu
 
 
 ```haskell 
