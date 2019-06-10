@@ -28,13 +28,63 @@ pdflatex main.tex
 <br>
 <br>
 
-**Centos :** `sudo yum install p7zip wget git`
+**Centos :** 
 
-**Fedora :** `sudo dnf install p7zip wget git`
+```haskell 
 
-**Debian, Ubuntu :** `sudo apt-get install p7zip-full wget git`
+sudo yum install p7zip wget git
 
-**Arch :**  `sudo pacman -S p7zip wget git`
+```
+<br>
+<br>
+
+
+`sudo yum install p7zip wget git`
+
+**Fedora :** 
+
+
+```haskell 
+
+sudo dnf install p7zip wget git
+
+```
+<br>
+<br>
+
+
+**Debian :** 
+
+
+```haskell 
+
+sudo apt-get install p7zip-full wget git
+
+```
+<br>
+<br>
+
+
+**Ubuntu :** 
+
+
+```haskell 
+
+sudo apt-get install p7zip-full wget git
+
+```
+
+<br>
+<br>
+
+
+**Arch :**  
+
+```haskell 
+
+sudo pacman -S p7zip wget git
+
+```
 
 <br>
 <br>
