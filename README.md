@@ -28,10 +28,13 @@ pdflatex main.tex
 <br>
 <br>
 
-- **Centos :** `sudo yum install p7zip wget git`
-- **Fedora :** `sudo dnf install p7zip wget git`
-- **Debian, Ubuntu :** `sudo apt-get install p7zip-full wget git`
-- **Arch :**  `sudo pacman -S p7zip wget git`
+**Centos :** `sudo yum install p7zip wget git`
+
+**Fedora :** `sudo dnf install p7zip wget git`
+
+**Debian, Ubuntu :** `sudo apt-get install p7zip-full wget git`
+
+**Arch :**  `sudo pacman -S p7zip wget git`
 
 <br>
 <br>
