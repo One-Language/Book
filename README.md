@@ -99,7 +99,7 @@
      **Step 4.**                    
      Go to “Tools”>”Commands”>”PDFLaTex”. The TEX file will be compiled to PDF automatically. You will find the output PDF in the “Recent files” folder.
 
-[Link 1](https://www.latex-project.org/get/), [Link 2](https://groups.google.com/forum/#!topic/latexusersgroup/EuCCOS0iowY), [Link 3](https://tex.stackexchange.com/questions/441658/latex-from-command-line-windows), [Link 4](https://tex.stackexchange.com/questions/78178/miktex-how-to-run-pdflatex-from-cmd-prompt-on-windows-7-compared-to-windows-xp)
+     Useful links : [Link 1](https://www.latex-project.org/get/), [Link 2](https://groups.google.com/forum/#!topic/latexusersgroup/EuCCOS0iowY), [Link 3](https://tex.stackexchange.com/questions/441658/latex-from-command-line-windows), [Link 4](https://tex.stackexchange.com/questions/78178/miktex-how-to-run-pdflatex-from-cmd-prompt-on-windows-7-compared-to-windows-xp)
 
 <br>
 <br>
