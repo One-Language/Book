@@ -13,10 +13,9 @@
 
 #
  - ### Versions 
-
-1. [English](/content/en-us) (Not complete yet)
-2. [Portuguese](/content/pt-br) (Soon)
-3. [Persian](/content/fa-ir) (Soon)
+   1. [English](/content/en-us) (Not complete yet)
+   2. [Portuguese](/content/pt-br) (Soon)
+   3. [Persian](/content/fa-ir) (Soon)
 
 
 <br>
