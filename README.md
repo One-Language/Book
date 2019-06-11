@@ -123,10 +123,7 @@
    **Option 1:**  Installation Manual Process  
    
    **Step 1:** Install package or utility and use script specific. Arch? Centos? Ubuntu? Slackware? Debian? Fedora? ... [Access this list here.](https://github.com/ET-Lang/book/Installing.md)
-
-<br>
-<br>
-
+   
    **Option 2:**  Installation Automatic Process  
    
    **Step 1:** Automatic install with general script of use. [Access this list here.](https://github.com/ET-Lang/book/Running.md)
@@ -134,9 +131,9 @@
 <br>
 <br>
 
- - ### Version Offline **Windows**
-
-Work: Windows 7, Windows XP, Windows 10, Windows Vista, Windows 8 ... 
+ - ### Version Offline **Windows**      
+ 
+   Work: Windows 7, Windows XP, Windows 10, Windows Vista, Windows 8 ... 
 
    **Option 1:**  Installation Manual Process  
    
