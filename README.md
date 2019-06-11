@@ -4,10 +4,6 @@
 
 #
 
- - ### Requirements 
-     Latex ( packages: pagenumber, markdown, color ... )
-
-#
  - ### Versions 
    
    [English](/content/en-us) (Not complete yet)
@@ -15,6 +11,12 @@
    [Portuguese](/content/pt-br) (Soon)
    
    [Persian](/content/fa-ir) (Soon)
+
+#
+
+ - ### Requirements 
+     Latex ( packages: pagenumber, markdown, color ... )
+
 
 #
 
