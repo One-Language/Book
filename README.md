@@ -9,8 +9,8 @@
 
 #
 
-- 1. **Available file comprehension versions** .zip, .rar, .tar, .gz, .targz, .tgz, .bz2, tar.bz2  
--
+ - ### Available file comprehension versions**: .zip, .rar, .tar, .gz, .targz, .tgz, .bz2, tar.bz2  
+
 - 1. ## Versions 
 -
 - 1. [English](/content/en-us) (Not complete yet)
