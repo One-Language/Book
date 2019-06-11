@@ -8,14 +8,14 @@
      Latex ( packages: pagenumber, markdown, color ... )
 
 #
-
- - ### Available file comprehension versions**: .zip, .rar, .tar, .gz, .targz, .tgz, .bz2, tar.bz2  
-
-#
  - ### Versions 
    [English](/content/en-us) (Not complete yet)
    [Portuguese](/content/pt-br) (Soon)
    [Persian](/content/fa-ir) (Soon)
+
+#
+
+ - ### Available file comprehension versions**: .zip, .rar, .tar, .gz, .targz, .tgz, .bz2, tar.bz2  
 
 
 <br>
