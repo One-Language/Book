@@ -4,7 +4,8 @@
 
 <br>
 
-2. - **Requirements:** Latex ( packages: pagenumber, markdown, color ... )
+2. - ### Requirements 
+     Latex ( packages: pagenumber, markdown, color ... )
 - 1. **Available file comprehension versions** .zip, .rar, .tar, .gz, .targz, .tgz, .bz2, tar.bz2  
 -
 - 1. ## Versions 
