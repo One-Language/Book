@@ -6,11 +6,11 @@
 
  - ### Versions 
    
-   [English](/content/en-us) (Not complete yet)
+   [English](src/content/en-us) (Not complete yet)
    
-   [Portuguese](/content/pt-br) (Soon)
+   [Portuguese](src/content/pt-br) (Soon)
    
-   [Persian](/content/fa-ir) (Soon)
+   [Persian](src/content/fa-ir) (Soon)
 
 #
 
