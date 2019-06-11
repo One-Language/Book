@@ -2,8 +2,15 @@
 - ### Book/ About
 - The book for a tutorial on **ET Programming Language**.
 
-- **Requirements:** Latex ( packages: pagenumber, markdown, color ... )
-- **Available file comprehension versions** .zip, .rar, .tar, .gz, .targz, .tgz, .bz2, tar.bz2  
+- 1. **Requirements:** Latex ( packages: pagenumber, markdown, color ... )
+- 1. **Available file comprehension versions** .zip, .rar, .tar, .gz, .targz, .tgz, .bz2, tar.bz2  
+-
+- 1. ## Versions 
+-
+- 1. [English](/content/en-us) (Not complete yet)
+- 1. [Portuguese](/content/pt-br) (Soon)
+- 1. [Persian](/content/fa-ir) (Soon)
+
 
 <br>
 <br>
@@ -162,8 +169,3 @@ Arch? Centos? Ubuntu? Slackware? Debian? Fedora? ... Access this list here.
 <br>
 
 
-## Versions 
-
-- [English](/content/en-us) (Not complete yet)
-- [Portuguese](/content/pt-br) (Soon)
-- [Persian](/content/fa-ir) (Soon)
