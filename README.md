@@ -48,9 +48,7 @@
      **Step 4.**                    
      Go to “Tools”>”Commands”>”PDFLaTex”. The TEX file will be compiled to PDF automatically. You will find the output PDF in the “Recent files” folder.
      
-     Useful links : 
-     
-     [ Link 1 ](https://www.mkyong.com/mac/wget-on-mac-os-x/) , [ Link 2 ](https://www.maketecheasier.com/install-wget-mac/) , [ Link 3 ](https://stackoverflow.com/questions/10308110/simplest-way-to-download-and-unzip-files-in-node-js-cross-platform) , [ Link 4 ](https://forum.keka.io/viewtopic.php?t=1553) , [ Link 5 ](https://github.com/aonez/Keka/wiki/Extracting-with-Keka ) , [ Link 6 ](https://gist.github.com/wangyuchen/5604929) , [ Link 7 ](https://apple.stackexchange.com/questions/307377/how-can-i-unpack-7z-files-via-macos-terminal) , [ Link 8 ](http://osxdaily.com/2012/01/10/how-to-zip-files-in-mac-os-x/) 
+     Useful links : [ Link 1 ](https://www.mkyong.com/mac/wget-on-mac-os-x/) , [ Link 2 ](https://www.maketecheasier.com/install-wget-mac/) , [ Link 3 ](https://stackoverflow.com/questions/10308110/simplest-way-to-download-and-unzip-files-in-node-js-cross-platform) , [ Link 4 ](https://forum.keka.io/viewtopic.php?t=1553) , [ Link 5 ](https://github.com/aonez/Keka/wiki/Extracting-with-Keka ) , [ Link 6 ](https://gist.github.com/wangyuchen/5604929) , [ Link 7 ](https://apple.stackexchange.com/questions/307377/how-can-i-unpack-7z-files-via-macos-terminal) , [ Link 8 ](http://osxdaily.com/2012/01/10/how-to-zip-files-in-mac-os-x/) 
 
 <br>
 <br>
