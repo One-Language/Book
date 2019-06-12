@@ -13,8 +13,6 @@
    <br>
    <br>
    
-   #
-
    ### & / Versions 
    
    [English](src/content/en-us) (Not complete yet)
