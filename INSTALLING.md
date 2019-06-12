@@ -61,7 +61,13 @@ sudo apt-get install p7zip-full wget git
 
 ```
 
-#### Option 1: Choice and extract-file .zip, .rar, .tar, .gz, .targz, .tgz,  bz2, tar.bz2
+<br>
+<br>
+
+### &/ GNULINUX
+----
+
+### Option 2: Choice and extract-file .zip, .rar, .tar, .gz, .targz, .tgz,  bz2, tar.bz2
 
 ```haskell
 
