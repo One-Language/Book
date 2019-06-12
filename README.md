@@ -10,7 +10,7 @@
    <br>
    <br> 
    
-   ### & / Versions 
+   ### & / Versions: Windows, Gnulinux, Mac
    --------
    [English](src/content/en-us) (Not complete yet)
    
