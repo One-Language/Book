@@ -1,4 +1,8 @@
-https://www.macs.hw.ac.uk/~hwloidl/docs/abs-guide/sample-bashrc.html
+```sh
+
+# READ ME!
+
+# READ : https://www.macs.hw.ac.uk/~hwloidl/docs/abs-guide/sample-bashrc.html
 
 https://stackoverflow.com/questions/7131670/make-a-bash-alias-that-takes-a-parameter
 
@@ -31,3 +35,5 @@ https://andreaferretti.github.io/factor-tutorial/
 https://softwareengineering.stackexchange.com/questions/167431/status-of-stack-based-languages
 
 https://news.ycombinator.com/item?id=9008472
+
+```
