@@ -1,6 +1,6 @@
 ```pascal
 
-# READ ME!
+# READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH
 
 # READ : https://www.macs.hw.ac.uk/~hwloidl/docs/abs-guide/sample-bashrc.html
 
@@ -115,5 +115,27 @@
 # READ : https://stackoverflow.com/questions/4651437/how-do-i-set-a-variable-to-the-output-of-a-command-in-bash
 
 # READ : https://www.shellscript.sh/echo.html
+
+# READ : https://tex.stackexchange.com/questions/344081/how-to-automatically-generate-bibtex-data
+
+# READ : https://github.com/shelljs/shelljs
+
+# READ : https://www.linuxquestions.org/questions/linux-general-1/shell-script-displaying-multiple-variables-855232/
+
+# READ : https://unix.stackexchange.com/questions/88452/concatenating-two-variables-with-an-underscore
+
+# READ : https://askubuntu.com/questions/1066396/how-to-print-multiline-variables-in-side-by-side-columns-bash
+
+# READ : https://linuxhint.com/bash_command_output_variable/
+
+# READ : https://linuxhint.com/variables-bash-programming/
+
+# READ : http://linuxcommand.org/lc3_wss0010.php
+
+# READ : https://medium.com/tech-tajawal/writing-shell-scripts-the-beginners-guide-4778e2c4f609
+
+# READ : https://superuser.com/questions/536496/capturing-the-console-output
+
+# READ : https://www.cyberciti.biz/faq/how-to-write-output-to-terminal/
 
 ```
