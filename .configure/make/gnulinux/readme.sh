@@ -1,6 +1,8 @@
 #!/bin/sh
 # #!/bin/bash 
 
+# STEP 0- RESEARCH 
+
 # READ ME !
 # READ: https://web.fe.up.pt/~jmcruz/etc/unix/sh-vs-csh.html
 # READ: https://superuser.com/questions/935374/difference-between-and-in-shell-script
@@ -10,6 +12,7 @@
 # READ: http://www.lostsaloon.com/technology/what-is-the-difference-between-single-quotes-and-double-quotes-in-bash/
 # READ: https://stackoverflow.com/questions/4651437/how-do-i-set-a-variable-to-the-output-of-a-command-in-bash
 
+# STEP 1- DESIGN, OUTPUT
 
 # @OPTION 3 is dcop status soon 
 # ----------------------------------------------
@@ -48,7 +51,7 @@
 # msg3="&msg2 three"
 # echo &msg3
 
-# 2- SCREEN DESIGN - BUILD ^^ commandline options and parameters
+# STEP 2-  SCREEN DESIGN - BUILD ^^ commandline options and parameters
 
 # @OPTION 1 figlet 
 # ----------------------------------------------
@@ -87,7 +90,7 @@
 # & OPTION 6 -r
 
 
-3- STRUCT AND DESIGN
+# STEP 3- STRUCT AND DESIGN
 
 # & -h is help 
 # & -r is running
