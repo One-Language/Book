@@ -1,9 +1,7 @@
 ### &/ GNULINUX
 ----
 
-### Option 1: Manual Process
-
-### Step 1: Choice Distro and Utility
+### Option 1: Manual Process and Step 1: Choice Distro and Utility
 
 <br>
 <br>
