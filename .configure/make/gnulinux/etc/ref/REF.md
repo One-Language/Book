@@ -138,4 +138,6 @@
 
 # READ : https://www.cyberciti.biz/faq/how-to-write-output-to-terminal/
 
+# READ : https://unix.stackexchange.com/questions/2690/how-to-redirect-output-of-wget-as-input-to-unzip
+
 ```
