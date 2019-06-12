@@ -1,5 +1,13 @@
 <br>
 
+### READ ME! 
+   
+   [WARNINGS](WARNINGS.md) 
+   
+   [REPORT](REPORT.md) 
+   
+   [RULES](RULES.md) 
+
    ### Book/ About
    ### The book for a tutorial on **ET Programming Language**. 
    
