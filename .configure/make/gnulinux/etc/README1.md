@@ -1,4 +1,4 @@
-```pascal
+```markdown
 
 # READ ME!
 
@@ -87,5 +87,15 @@
 # READ : https://linuxhint.com/variables-bash-programming/
 
 # READ : https://linuxhint.com/bash_command_output_variable/
+
+# READ : http://factor-language.blogspot.com/2007/08/smalltalk-is-dying.html
+
+# READ : https://tecadmin.net/pass-command-line-arguments-in-shell-script/
+
+# READ : https://askubuntu.com/questions/33252/how-to-make-my-own-command-with-parameters
+
+# READ : https://unix.stackexchange.com/questions/84686/how-to-create-custom-commands-in-unix-linux
+
+# READ : https://www.quora.com/How-do-I-make-my-own-command-in-Linux
 
 ```
