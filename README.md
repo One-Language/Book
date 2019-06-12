@@ -21,7 +21,6 @@
    <br>
    <br> 
    
-   ### & Book/ 
    ### READ ME! [RULES](RULES.md) , [PATH](PATH.md) , [REPORT](REPORT.md) , [REFERENCE](REFERENCE.md) 
    #
    
