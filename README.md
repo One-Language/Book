@@ -181,11 +181,10 @@
 
   ###  &/ Warnings
   --------
-   
-1. The .rar, .tar, .gz, .targz, .tgz, .bz2, and tar.bz2 versions files also work and are no different - The code is the same ^^.
-
-2. If you do not have or do not work
-
+  
+  1. The .rar, .tar, .gz, .targz, .tgz, .bz2, and tar.bz2 versions files also work and are no different.
+  2. If you do not have or do not work.
+  3. Versions: Windows, GnuLinux, Mac
 
   ###  &/ For Windows
   --------
@@ -193,9 +192,6 @@
   **Step 1:** Download and install to Unpack and Extract File Zip
 
 **Unzip :**  [ Winrar ](http://www.peazip.org/) ,   [ WinZip ](http://www.peazip.org/) ,   [ 7zip ](http://www.peazip.org/) and [ Others Alternatives ](https://alternativeto.net/browse/search/?q=extract%20files&platform=windows)
-
-<br>
-<br>
 
   **Step 2:** Download and install to IDE or Editor LaTeX and generate PDF
 
@@ -212,9 +208,6 @@
 
 **Unzip :**  [ Winrar ](http://www.peazip.org/) ,   [ WinZip ](http://www.peazip.org/) ,   [ 7zip ](http://www.peazip.org/) and [ Others Alternatives ](https://alternativeto.net/browse/search/?q=extract%20files&platform=windows)
 
-<br>
-<br>
-
   **Step 2:** Download and install to IDE or Editor LaTeX and generate PDF
 
 **Latex :** Use a IDE or editor : [Texmaker](http://www.xm1math.net/texmaker/) , [TeXstudio](https://www.texstudio.org/) , [Kile](https://kile.sourceforge.io/) , [LyX](https://www.lyx.org/) , [TeXworks](http://www.tug.org/texworks/) , [Gummi](https://github.com/alexandervdm/gummi) , [MiKTeX](https://miktex.org/)
@@ -229,10 +222,8 @@
 
 **Unzip :**  [ Winrar ](http://www.peazip.org/) ,   [ WinZip ](http://www.peazip.org/) ,   [ 7zip ](http://www.peazip.org/) and [ Others Alternatives ](https://alternativeto.net/browse/search/?q=extract%20files&platform=windows)
 
-<br>
-<br>
 
-   **Step 2:** Download and install to IDE or Editor LaTeX and generate PDF
+ **Step 2:** Download and install to IDE or Editor LaTeX and generate PDF
 
 **Latex :** Use a IDE or editor : [Texmaker](http://www.xm1math.net/texmaker/) , [TeXstudio](https://www.texstudio.org/) , [Kile](https://kile.sourceforge.io/) , [LyX](https://www.lyx.org/) , [TeXworks](http://www.tug.org/texworks/) , [Gummi](https://github.com/alexandervdm/gummi) , [MiKTeX](https://miktex.org/)
 
