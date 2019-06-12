@@ -156,6 +156,7 @@
 
 <br>
 <br>
+
   ###  & /  Version Offline **Windows**
   --------
  
@@ -181,15 +182,16 @@
    
    3. Click and generate PDF.
 
+   ----------
+   
    **Option 2:**  Installation Automatic Process  
    
    **Step 1:** 
-   
-   1. Option 1: Download and click install.bat or  
-   2. Option 2: Download and click install.exe  or
-   3. Option 3: Download and click install.vbs or
-   4. Option 4: Download Nodejs and click install.js or
-   5. Option 5: Download Python and click install.py or
+     1. Option 1: Download and click install.bat or  
+     2. Option 2: Download and click install.exe  or
+     3. Option 3: Download and click install.vbs or
+     4. Option 4: Download Nodejs and click install.js or
+     5. Option 5: Download Python and click install.py or
   
 <br>
 <br>
