@@ -58,14 +58,14 @@
    for mac.
      
    **Step 1:** Download File 
-   <!-- **Option 1:** Or Click in button "Download" 'Color Green' for download file book.zip -->
-   <!-- **Option 2:** Or Download and Install Program Wget, Curl or Language Programming as Nodejs, Python for download ... -->
-   <!-- **Option 3:** Or Download and Click Script for this process ... -->
+   <!--- **Option 1:** Or Click in button "Download" 'Color Green' for download file book.zip -->
+   <!--- **Option 2:** Or Download and Install Program Wget, Curl or Language Programming as Nodejs, Python for download ... -->
+   <!--- **Option 3:** Or Download and Click Script for this process ... -->
      
    **Step 2:** Unpack and Extract File 
-   <!-- **Option 1:** Or Download and Install Program Winzip, Winrar, 7zip or Pzip ... -->
-   <!-- **Option 2:** Or Download and Install Language Programming as Nodejs, Python for Download, Unpack, Extract File ... -->
-   <!-- **Option 3:** Or Download and Click Script for this process ... -->
+   <!--- **Option 1:** Or Download and Install Program Winzip, Winrar, 7zip or Pzip ... -->
+   <!--- **Option 2:** Or Download and Install Language Programming as Nodejs, Python for Download, Unpack, Extract File ... -->
+   <!--- **Option 3:** Or Download and Click Script for this process ... -->
      
    **Step 3.** Drag and drop the TEX file into the program.                                
      
