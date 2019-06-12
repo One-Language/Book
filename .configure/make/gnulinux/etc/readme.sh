@@ -12,6 +12,7 @@
 # READ: https://stackoverflow.com/questions/29576815/difference-between-echo-and-echo-in-unix-shells
 # READ: http://www.lostsaloon.com/technology/what-is-the-difference-between-single-quotes-and-double-quotes-in-bash/
 # READ: https://stackoverflow.com/questions/4651437/how-do-i-set-a-variable-to-the-output-of-a-command-in-bash
+# READ: https://www.shellscript.sh/echo.html
 
 # STEP 1- DESIGN, OUTPUT
 
