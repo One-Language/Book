@@ -1,4 +1,12 @@
+   ### & Book/ 
 
+   ### ABOUT!
+   #### The book for a tutorial on **ET Programming Language**. 
+   #
+   
+   <br>
+   <br>  
+   
    ### & Book/ 
    
    ### READ ME! [RULES](RULES.md) , [PATH](PATH.md) , [REPORT](REPORT.md) , [REFERENCE](REFERENCE.md) 
@@ -11,13 +19,6 @@
 
    <br>
    <br>
-   
-   ### & / About
-   #### The book for a tutorial on **ET Programming Language**. 
-   #
-   
-   <br>
-   <br>  
    
    ### & / About
    Available file comprehension versions: .zip, .rar, .tar, .gz, .targz, .tgz, .bz2, tar.bz2  
