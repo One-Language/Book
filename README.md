@@ -15,7 +15,7 @@
 
 #
 
-   ### Versions 
+   ### & / Versions 
    
    [English](src/content/en-us) (Not complete yet)
    
@@ -25,14 +25,14 @@
 
 #
 
-  ### Requirements 
+  ### & / Requirements 
   Latex ( packages: pagenumber, markdown, color ... )
 
 #
 
 <br>
 
-  ### Book/ Tutorial - How to compile LaTeX to PDF on Mac with TeXstudio.                                                                                                                  
+ ### & / Book/ Tutorial - How to compile LaTeX to PDF on Mac with TeXstudio.                                                                                                                  
 TeXstudio for Mac converts LaTeX to PDF using “pdflatex” command but does not come with the “pdflatex” extension itself. To acquire the extension, you need to install a TeX distribution for Mac OS like MacTeX. When this is done, run TeXstudio for mac.
      
    **Step 1:** Download File             
@@ -57,7 +57,7 @@ Useful links : [ Link 1 ](https://www.mkyong.com/mac/wget-on-mac-os-x/) , [ Link
 <br>
 <br>
 
-  ### Book/ Tutorial - How to compile LaTeX to PDF on GnuLinux with TeXstudio.                                                                                                                  
+ ### & / Book/ Tutorial - How to compile LaTeX to PDF on GnuLinux with TeXstudio.                                                                                                                  
 TeXstudio for Mac converts LaTeX to PDF using “pdflatex” command but does not come with the “pdflatex” extension itself. To acquire the extension, you need to install a TeX distribution for Mac OS like MacTeX. When this is done, run TeXstudio for mac.
      
    **Step 1:** Download File             
@@ -77,13 +77,12 @@ TeXstudio for Mac converts LaTeX to PDF using “pdflatex” command but does no
      
  Useful links : [Link 1](https://www.thegeekstuff.com/2010/04/7z-7zip-7za-file-compression) , [Link 2](https://askubuntu.com/questions/219392/how-can-i-uncompress-a-7z-file) , [Link 3](https://superuser.com/questions/406915/extract-7z-files-with-standard-linux-tools)
 
-
 <br>
 <br>
 <br>
 <br>
 
-  ### Book/ Tutorial - How to compile LaTeX to PDF on Windows with TeXstudio.                                                                                                                  
+ ### & / Book/ Tutorial - How to compile LaTeX to PDF on Windows with TeXstudio.                                                                                                                  
 TeXstudio for Mac converts LaTeX to PDF using “pdflatex” command but does not come with the “pdflatex” extension itself. To acquire the extension, you need to install a TeX distribution for Mac OS like MacTeX. When this is done, run TeXstudio for mac.
      
    **Step 1:** Download File             
@@ -106,7 +105,7 @@ Useful links : [Link 1](https://www.latex-project.org/get/), [Link 2](https://gr
 <br>
 <br>
 
-  ### Version Online: Web Base Editor
+  ### & / Version Online: Web Base Editor
 
    **Step 1:** [Open a web base editor (web page).: Overleaf](https://overleaf.com)
    
@@ -117,7 +116,7 @@ Useful links : [Link 1](https://www.latex-project.org/get/), [Link 2](https://gr
 <br>
 <br>
 
-  ### Version Offline **GNU/Linux**
+  ###  & /  Version Offline **GNU/Linux**
 
    **Option 1:**  Installation Manual Process  
    
@@ -130,7 +129,7 @@ Useful links : [Link 1](https://www.latex-project.org/get/), [Link 2](https://gr
 <br>
 <br>
 
-  ### Version Offline **Windows**      
+  ###  & /  Version Offline **Windows**      
  
    Work: Windows 7, Windows XP, Windows 10, Windows Vista, Windows 8 ... 
 
@@ -172,14 +171,14 @@ Useful links : [Link 1](https://www.latex-project.org/get/), [Link 2](https://gr
 <br>
 
 
- ### Warnings
+ ###  &/ Warnings
 
 1. The .rar, .tar, .gz, .targz, .tgz, .bz2, and tar.bz2 versions files also work and are no different - The code is the same ^^.
 
 2. If you do not have or do not work
 
 
- ### For Windows
+ ###  &/ For Windows
 
   **Step 1:** Download and install to Unpack and Extract File Zip
 
@@ -196,7 +195,7 @@ Useful links : [Link 1](https://www.latex-project.org/get/), [Link 2](https://gr
 <br>
 
 
- ### For GnuLinux
+ ###  &/ For GnuLinux
 
  **Step 1:** Download and install to Unpack and Extract File Zip
 
@@ -212,7 +211,7 @@ Useful links : [Link 1](https://www.latex-project.org/get/), [Link 2](https://gr
 <br>
 <br>
 
- ### For Mac
+ ###  &/ For Mac
 
   **Step 1:** Download and install to Unpack and Extract File Zip
 
