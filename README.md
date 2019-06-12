@@ -5,7 +5,6 @@
    
    #### Available file comprehension versions: .zip, .rar, .tar, .gz, .targz, .tgz, .bz2, tar.bz2  
 
-
 #
 
    ### Versions 
@@ -21,13 +20,8 @@
   ### Requirements 
   Latex ( packages: pagenumber, markdown, color ... )
 
-
 #
 
-
-<br>
-<br>
-<br>
 <br>
 
   ### Book/ Tutorial - How to compile LaTeX to PDF on Mac with TeXstudio.                                                                                                                  
