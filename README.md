@@ -21,6 +21,9 @@
    <br>
    <br> 
    
+   ### & / Contribution 
+   --------
+   
    ### READ ME! [RULES](RULES.md) , [PATH](PATH.md) , [REPORT](REPORT.md) , [REFERENCE](REFERENCE.md) 
    #
    
@@ -30,7 +33,14 @@
    ### & / Requirements 
    --------
    
-   ### READ ME! [Requirements](Requirements.md) , [GnuLinux](GnuLinux.md) , [Mac](Mac.md) , [Windows](Windows.md) 
+   [Requirements](Requirements.md) 
+   
+   [GnuLinux](GnuLinux.md) 
+   
+   [Mac](Mac.md) 
+   
+   [Windows](Windows.md) 
+   
    
    <br>
    <br> 
