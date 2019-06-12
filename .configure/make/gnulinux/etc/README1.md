@@ -68,4 +68,14 @@
 
 # READ : https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/New_in_JavaScript/1.1
 
+# READ : https://stackoverflow.com/questions/31929621/echo-multiple-variables-in-same-line-bash
+
+# READ : https://unix.stackexchange.com/questions/88452/concatenating-two-variables-with-an-underscore
+
+# READ : https://www.linuxquestions.org/questions/linux-general-1/shell-script-displaying-multiple-variables-855232/
+
+# READ : https://linuxhint.com/variables-bash-programming/
+
+# READ : https://linuxhint.com/bash_command_output_variable/
+
 ```
