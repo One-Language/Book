@@ -1,7 +1,7 @@
 ### &/ GNULINUX
 ----
 
-### Option 1: Manual Process and Step 1: Choice Distro and Utility
+#### Option 1: Manual Process and Step 1: Choice Distro and Utility
 
 <br>
 <br>
@@ -67,7 +67,7 @@ sudo apt-get install p7zip-full wget git
 ### &/ GNULINUX
 ----
 
-###  Option 1: Manual Process and Step 2: Extract-file .zip, .rar, .tar, .gz, .targz, .tgz,  bz2, tar.bz2
+#### Option 1: Manual Process and Step 2: Extract-file .zip, .rar, .tar, .gz, .targz, .tgz,  bz2, tar.bz2
 
 <br>
 <br>
@@ -103,7 +103,7 @@ sudo apt-get install p7zip-full wget git
 ### &/ GNULINUX
 ----
 
-### Option 1: Manual Process and Step 3: Acess and generate file PDF "Book.pdf"
+#### Option 1: Manual Process and Step 3: Acess and generate file PDF "Book.pdf"
 
 <br>
 <br>
@@ -120,7 +120,7 @@ sudo apt-get install p7zip-full wget git
 ### &/ GNULINUX
 ----
 
-### Option 2: Automatic Process and [ Step 1: General Purpose Script ](.configure/make/gnulinux)
+#### Option 2: Automatic Process and [ Step 1: General Purpose Script ](.configure/make/gnulinux)
 
 <details>
  <summary>Source-Code</summary>
