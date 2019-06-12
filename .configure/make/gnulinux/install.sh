@@ -66,8 +66,6 @@ echo $varA $varB $varC $varD $varE $varF $varG $varH $varI $varJ $varK # ouput: 
 
 # 4- COMMAND REFERENCE 
 # --------------------------------------------------------------------------------------------------------------------
-
-& OPTION 4 reference 
 var1A= echo @reference: https://superuser.com/questions/1260038/font-size-in-shell-script  # ouput: new line
 var2A= echo @reference: https://www.cyberciti.biz/faq/create-large-colorful-text-banner-on-screen # ouput: new line
 var3A= echo @reference: https://stackoverflow.com/questions/25036555/how-to-print-in-shell-script # ouput: new line
@@ -83,6 +81,4 @@ echo $var1A $var2A $var3A $var4A $var5A $var6A $var7A $var8A $var9A # ouput: new
 # R- COMMAND INSTALL FOR AUTO DOWNLOAD, UNPACK, EXTRACT, AUTO GENERATE PDF
 # --------------------------------------------------------------------------------------------------------------------
 
-wget https://codeload.github.com/ET-Lang/book/zip/master && unzip book.zip 
-
-cd book/src/content/en-us && pdflatex main.tex
+wget https://codeload.github.com/ET-Lang/book/zip/master && unzip book.zip  && cd book/src/content/en-us && pdflatex main.tex
