@@ -24,13 +24,13 @@
    ### & / Contribution 
    --------
    
-   [Rules](Rules.md) 
+   [Rules](RULES.md) 
    
-   [Path](Path.md) 
+   [Path](PATH.md) 
    
-   [Report](Report.md) 
+   [Report](REPORT.md) 
    
-   [Reference](Reference.md) 
+   [Reference](REFERENCE.md) 
    
    #
    
