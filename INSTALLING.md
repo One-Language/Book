@@ -67,7 +67,7 @@ sudo apt-get install p7zip-full wget git
 ### &/ GNULINUX
 ----
 
-### Step 2: Extract-file .zip, .rar, .tar, .gz, .targz, .tgz,  bz2, tar.bz2
+###  Option 1: Manual Process and Step 2: Extract-file .zip, .rar, .tar, .gz, .targz, .tgz,  bz2, tar.bz2
 
 <br>
 <br>
