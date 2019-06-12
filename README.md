@@ -40,13 +40,13 @@
    ### & / Requirements 
    --------
    
-   [Requirements](Requirements.md) 
+   [REQUIREMENTS](REQUIREMENTS.md) 
    
-   [GnuLinux](GnuLinux.md) 
+   [GNULINUX](GNULINUX.md) 
    
-   [Mac](Mac.md) 
+   [MAC](MAC.md) 
    
-   [Windows](Windows.md) 
+   [WINDOWS](WINDOWS.md) 
    
    
    <br>
