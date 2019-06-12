@@ -64,4 +64,8 @@
 
 # READ : https://apps.dtic.mil/dtic/tr/fulltext/u2/a096556.pdf
 
+# READ : http://livescript.net/
+
+# READ : https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/New_in_JavaScript/1.1
+
 ```
