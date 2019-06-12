@@ -5,6 +5,7 @@
 
 # READ ME !
 # READ: https://web.fe.up.pt/~jmcruz/etc/unix/sh-vs-csh.html
+# READ: http://faculty.salina.k-state.edu/tim/unix_sg/shell/variables.html
 # READ: https://superuser.com/questions/935374/difference-between-and-in-shell-script
 # READ: https://www.quora.com/What-is-the-main-difference-between-echo-and-cat-in-Linux-shell
 # READ: https://unix.stackexchange.com/questions/58310/difference-between-printf-and-echo-in-bash
