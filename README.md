@@ -183,12 +183,9 @@
    
    **Step 1:**  Installation Automatic Process  
    
-   **Option 1:** 
-     1. Option 1: Download and click install.bat or  
-     2. Option 2: Download and click install.exe  or
-     3. Option 3: Download and click install.vbs or
-     4. Option 4: Download Nodejs and click install.js or
-     5. Option 5: Download Python and click install.py or
+   **Option 1:** Download and click install.bat or Download and click install.exe  or
+   **Option 2:** Download and click install.vbs or Download Nodejs and click install.js pr
+   **Option 3:** Download Python and click install.py 
   
 <br>
 <br>
