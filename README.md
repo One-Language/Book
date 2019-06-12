@@ -1,6 +1,12 @@
 <br>
 
-### READ ME! [REPORT](REPORT.md) , [RULES](RULES.md) , [REFERENCE](REFERENCE.md) , [PATH](PATH.md)
+### READ ME! [RULES](RULES.md) , [PATH](PATH.md) , [REPORT](REPORT.md) , [REFERENCE](REFERENCE.md) 
+
+Rules: For Contribution, Development ...  General Scheme.
+Report: For Contribution... 
+Reference: Links for source code.
+Path: Before source-code.
+
 
 #
 
