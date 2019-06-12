@@ -54,4 +54,12 @@
 
 # READ : https://tecadmin.net/pass-command-line-arguments-in-shell-script/
 
+# READ : http://talby.rcs.manchester.ac.uk/~ri/_course_latex_intro/_bibtex/index.bibtexandkile.
+
+# READ : https://tex.stackexchange.com/questions/164760/strangely-abbreviated-russian-bibtex-entry-name
+
+# READ : https://www.sciencedirect.com/science/article/pii/S0924013602002959
+
+# READ : https://www.sciencedirect.com/science/article/pii/030438009190114G
+
 ```
