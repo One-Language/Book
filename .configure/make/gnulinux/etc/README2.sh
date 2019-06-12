@@ -1,0 +1,9 @@
+https://askubuntu.com/questions/97469/what-is-the-default-debian-ubuntu-console-tty-font-called
+https://www.cyberciti.biz/faq/how-to-write-output-to-terminal/
+https://unix.stackexchange.com/questions/37260/change-font-in-echo-command
+http://zsh.sourceforge.net/Doc/Release/User-Contributions.html#index-colors
+https://www.quora.com/Bash-shell-What-are-ways-to-increase-font-size-while-printing-from-unix
+https://askubuntu.com/questions/849081/how-to-change-the-font-size-of-just-the-prompt-in-bash
+https://www.linux.com/learn/intro-to-linux/2018/1/how-change-your-linux-console-fonts
+https://stackoverflow.com/questions/25036555/how-to-print-in-shell-script
+https://tecadmin.net/pass-command-line-arguments-in-shell-script/
