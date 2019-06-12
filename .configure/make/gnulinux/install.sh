@@ -2,50 +2,38 @@
 
 # ECHO BUILD 
 # --------------------------------------------------------------------------------------------------------------------
-echo '& Book!' # Sample in browser Javascript : console.log("& Book!")
 echo # ouput: new line
-echo Author @pglapds # ouput: new line Author @pglapds
-echo @url https://github.com/ET-Lang/book/ # ouput: new line @url https://github.com/ET-Lang/book/
+echo "& Book!" # ouput: new line: Sample in browser Javascript : console.log("& Book!")
+echo "-" # ouput: new line
 echo # ouput: new line
-echo CONTRIBUTOR @pglapds # ouput: new line  CONTRIBUTOR @pglapds
-echo @url https://github.com/ET-Lang/book/  # ouput: new line @url https://github.com/ET-Lang/book/
+echo OPTION 1 # ouput: new line
+# read OPTION1
+echo OPTION 2 # ouput: new line
+# read OPTION 2
+echo OPTION 3 # ouput: new line
+# read OPTION 3
+echo OPTION 4 # ouput: new line
+# read OPTION 4
+echo OPTION 5 # ouput: new line
+# read OPTION 5
+echo OPTION 6 # ouput: new line
+# read OPTION 6
 echo # ouput: new line
-echo CONTRIBUTION # ouput: new line CONTRIBUTION
-echo @url https://github.com/ET-Lang/book/  # ouput: new line @url https://github.com/ET-Lang/book/
 echo # ouput: new line
-echo SPECIFIC CONTRIBUTION : book/*  # ouput: new line SPECIFIC CONTRIBUTION : book/* 
-echo @url https://github.com/ET-Lang/book/  # ouput: new line @url https://github.com/ET-Lang/book/
+echo # ouput: new line
+echo # ouput: new line
+echo "All Arguments are: -r (running) , -h (help) , -v (version) , reference (readme)" # ouput: new line
+echo # ouput: new line
+echo # ouput: new line
+echo # ouput: new line
+echo # ouput: new line
+echo "& username: $(whoami)" # ouput: new line
+echo "-" # ouput: new line
+echo # ouput: new line
+echo "& here the directory, path: $(pwd)" # ouput: new line: Sample in browser Javascript : console.log("& Book!")
+echo "-" # ouput: new line
+echo # ouput: new line
+echo # ouput: new line
+echo # ouput: new line
+echo "& et" # ouput: new line
 
-# COMMAND PATH  - Show Directory and Path Here
-# --------------------------------------------------------------------------------------------------------------------
-$path=`pwd`
-echo "& path $path"
-
-# COMMAND VERSION 
-# --------------------------------------------------------------------------------------------------------------------
-v1 = echo "OS                      :  Gnulinux"
-v2 = echo "License                 :  Copyright, ET-STD, ET-BOOK ... "
-v3 = echo "Reference               :  https://github.com/ET-Lang/book "
-v4 = echo "Version, Year, Date     :  2019 , Wednesday, June 12th 2019 @ 01:47:23 PM https://github.com/ET-Lang/book"
-echo "${V1, V2, V3, V4}"
-
-
-# COMMAND REFERENCE
-# --------------------------------------------------------------------------------------------------------------------
-
-#reference=$(ls \
- #  -1)
-#echo "&{reference}"
-
-
-# COMMAND INSTALL FOR AUTO DOWNLOAD, UNPACK, EXTRACT, AUTO GENERATE PDF
-# --------------------------------------------------------------------------------------------------------------------
-
-
-> wget https://codeload.github.com/ET-Lang/book/zip/master
-
-> unzip book.zip 
-
-> cd book/src/content/en-us
-
-> pdflatex main.tex
