@@ -49,25 +49,25 @@ Useful links : [ Link 1 ](https://www.mkyong.com/mac/wget-on-mac-os-x/) , [ Link
 <br>
 <br>
 
-  - ### Book/ Tutorial - How to compile LaTeX to PDF on GnuLinux with TeXstudio.                                                                                                                  
-     TeXstudio for Mac converts LaTeX to PDF using “pdflatex” command but does not come with the “pdflatex” extension itself. To acquire the extension, you need to install a TeX distribution for Mac OS like MacTeX. When this is done, run TeXstudio for mac.
+  ### Book/ Tutorial - How to compile LaTeX to PDF on GnuLinux with TeXstudio.                                                                                                                  
+TeXstudio for Mac converts LaTeX to PDF using “pdflatex” command but does not come with the “pdflatex” extension itself. To acquire the extension, you need to install a TeX distribution for Mac OS like MacTeX. When this is done, run TeXstudio for mac.
      
-     **Step 1:** Download File             
+   **Step 1:** Download File             
      
-     Click in button "Download" 'Color Green' for download file book.zip 
+   Click in button "Download" 'Color Green' for download file book.zip 
      
-     **Step 2:**        
+   **Step 2:**        
      
-     Unpack and Extract File 
+   Unpack and Extract File 
      
-     **Step 3.**             
+   **Step 3.**             
      
-     Drag and drop the TEX file into the program.                                
+   Drag and drop the TEX file into the program.                                
      
-     **Step 4.**                    
-     Go to “Tools”>”Commands”>”PDFLaTex”. The TEX file will be compiled to PDF automatically. You will find the output PDF in the “Recent files” folder.
+   **Step 4.**                    
+   Go to “Tools”>”Commands”>”PDFLaTex”. The TEX file will be compiled to PDF automatically. You will find the output PDF in the “Recent files” folder.
      
-     Useful links : [Link 1](https://www.thegeekstuff.com/2010/04/7z-7zip-7za-file-compression) , [Link 2](https://askubuntu.com/questions/219392/how-can-i-uncompress-a-7z-file) , [Link 3](https://superuser.com/questions/406915/extract-7z-files-with-standard-linux-tools)
+ Useful links : [Link 1](https://www.thegeekstuff.com/2010/04/7z-7zip-7za-file-compression) , [Link 2](https://askubuntu.com/questions/219392/how-can-i-uncompress-a-7z-file) , [Link 3](https://superuser.com/questions/406915/extract-7z-files-with-standard-linux-tools)
 
 
 <br>
@@ -75,33 +75,30 @@ Useful links : [ Link 1 ](https://www.mkyong.com/mac/wget-on-mac-os-x/) , [ Link
 <br>
 <br>
 
-  - ### Book/ Tutorial - How to compile LaTeX to PDF on Windows with TeXstudio.                                                                                                                  
-     TeXstudio for Mac converts LaTeX to PDF using “pdflatex” command but does not come with the “pdflatex” extension itself. To acquire the extension, you need to install a TeX distribution for Mac OS like MacTeX. When this is done, run TeXstudio for mac.
+  ### Book/ Tutorial - How to compile LaTeX to PDF on Windows with TeXstudio.                                                                                                                  
+TeXstudio for Mac converts LaTeX to PDF using “pdflatex” command but does not come with the “pdflatex” extension itself. To acquire the extension, you need to install a TeX distribution for Mac OS like MacTeX. When this is done, run TeXstudio for mac.
      
-     **Step 1:** Download File             
+   **Step 1:** Download File             
      
-     Click in button "Download" 'Color Green' for download file book.zip 
+   Click in button "Download" 'Color Green' for download file book.zip 
      
-     **Step 2:**        
+   **Step 2:**        
      
-     Unpack and Extract File 
+   Unpack and Extract File 
      
-     **Step 3.**             
+   **Step 3.**             
      
-     Drag and drop the TEX file into the program.                                
+   Drag and drop the TEX file into the program.                                
      
-     **Step 4.**                    
-     Go to “Tools”>”Commands”>”PDFLaTex”. The TEX file will be compiled to PDF automatically. You will find the output PDF in the “Recent files” folder.
+   **Step 4.**                    
+   Go to “Tools”>”Commands”>”PDFLaTex”. The TEX file will be compiled to PDF automatically. You will find the output PDF in the “Recent files” folder.
 
-     Useful links : [Link 1](https://www.latex-project.org/get/), [Link 2](https://groups.google.com/forum/#!topic/latexusersgroup/EuCCOS0iowY), [Link 3](https://tex.stackexchange.com/questions/441658/latex-from-command-line-windows), [Link 4](https://tex.stackexchange.com/questions/78178/miktex-how-to-run-pdflatex-from-cmd-prompt-on-windows-7-compared-to-windows-xp)
+Useful links : [Link 1](https://www.latex-project.org/get/), [Link 2](https://groups.google.com/forum/#!topic/latexusersgroup/EuCCOS0iowY), [Link 3](https://tex.stackexchange.com/questions/441658/latex-from-command-line-windows), [Link 4](https://tex.stackexchange.com/questions/78178/miktex-how-to-run-pdflatex-from-cmd-prompt-on-windows-7-compared-to-windows-xp)
 
 <br>
 <br>
-<br>
-<br>
 
-
- - ### Version Online: Web Base Editor
+  ### Version Online: Web Base Editor
 
    **Step 1:** [Open a web base editor (web page).: Overleaf](https://overleaf.com)
    
@@ -112,7 +109,7 @@ Useful links : [ Link 1 ](https://www.mkyong.com/mac/wget-on-mac-os-x/) , [ Link
 <br>
 <br>
 
-- ### Version Offline **GNU/Linux**
+  ### Version Offline **GNU/Linux**
 
    **Option 1:**  Installation Manual Process  
    
@@ -125,7 +122,7 @@ Useful links : [ Link 1 ](https://www.mkyong.com/mac/wget-on-mac-os-x/) , [ Link
 <br>
 <br>
 
- - ### Version Offline **Windows**      
+  ### Version Offline **Windows**      
  
    Work: Windows 7, Windows XP, Windows 10, Windows Vista, Windows 8 ... 
 
@@ -167,23 +164,23 @@ Useful links : [ Link 1 ](https://www.mkyong.com/mac/wget-on-mac-os-x/) , [ Link
 <br>
 
 
-- ### Warnings
+ ### Warnings
 
 1. The .rar, .tar, .gz, .targz, .tgz, .bz2, and tar.bz2 versions files also work and are no different - The code is the same ^^.
 
 2. If you do not have or do not work
 
 
-- ### For Windows
+ ### For Windows
 
-- **Step 1:** Download and install to Unpack and Extract File Zip
+  **Step 1:** Download and install to Unpack and Extract File Zip
 
 **Unzip :**  [ Winrar ](http://www.peazip.org/) ,   [ WinZip ](http://www.peazip.org/) ,   [ 7zip ](http://www.peazip.org/) and [ Others Alternatives ](https://alternativeto.net/browse/search/?q=extract%20files&platform=windows)
 
 <br>
 <br>
 
-- **Step 2:** Download and install to IDE or Editor LaTeX and generate PDF
+  **Step 2:** Download and install to IDE or Editor LaTeX and generate PDF
 
 **Latex :** Use a IDE or editor : [Texmaker](http://www.xm1math.net/texmaker/) , [TeXstudio](https://www.texstudio.org/) , [Kile](https://kile.sourceforge.io/) , [LyX](https://www.lyx.org/) , [TeXworks](http://www.tug.org/texworks/) , [Gummi](https://github.com/alexandervdm/gummi) , [MiKTeX](https://miktex.org/)
 
@@ -191,32 +188,32 @@ Useful links : [ Link 1 ](https://www.mkyong.com/mac/wget-on-mac-os-x/) , [ Link
 <br>
 
 
-- ### For GnuLinux
+ ### For GnuLinux
 
-- **Step 1:** Download and install to Unpack and Extract File Zip
+ **Step 1:** Download and install to Unpack and Extract File Zip
 
 **Unzip :**  [ Winrar ](http://www.peazip.org/) ,   [ WinZip ](http://www.peazip.org/) ,   [ 7zip ](http://www.peazip.org/) and [ Others Alternatives ](https://alternativeto.net/browse/search/?q=extract%20files&platform=windows)
 
 <br>
 <br>
 
-- **Step 2:** Download and install to IDE or Editor LaTeX and generate PDF
+  **Step 2:** Download and install to IDE or Editor LaTeX and generate PDF
 
 **Latex :** Use a IDE or editor : [Texmaker](http://www.xm1math.net/texmaker/) , [TeXstudio](https://www.texstudio.org/) , [Kile](https://kile.sourceforge.io/) , [LyX](https://www.lyx.org/) , [TeXworks](http://www.tug.org/texworks/) , [Gummi](https://github.com/alexandervdm/gummi) , [MiKTeX](https://miktex.org/)
 
 <br>
 <br>
 
-- ### For Mac
+ ### For Mac
 
-- **Step 1:** Download and install to Unpack and Extract File Zip
+  **Step 1:** Download and install to Unpack and Extract File Zip
 
 **Unzip :**  [ Winrar ](http://www.peazip.org/) ,   [ WinZip ](http://www.peazip.org/) ,   [ 7zip ](http://www.peazip.org/) and [ Others Alternatives ](https://alternativeto.net/browse/search/?q=extract%20files&platform=windows)
 
 <br>
 <br>
 
-- **Step 2:** Download and install to IDE or Editor LaTeX and generate PDF
+   **Step 2:** Download and install to IDE or Editor LaTeX and generate PDF
 
 **Latex :** Use a IDE or editor : [Texmaker](http://www.xm1math.net/texmaker/) , [TeXstudio](https://www.texstudio.org/) , [Kile](https://kile.sourceforge.io/) , [LyX](https://www.lyx.org/) , [TeXworks](http://www.tug.org/texworks/) , [Gummi](https://github.com/alexandervdm/gummi) , [MiKTeX](https://miktex.org/)
 
