@@ -1,5 +1,5 @@
-   ### & Book/ ABOUT!
-   #### The book for a tutorial on **ET Programming Language**. 
+   ### & Book/ 
+   **About:** The book for a tutorial on **ET Programming Language**. 
    #
    
    <br>
