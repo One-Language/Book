@@ -29,7 +29,7 @@
    
    ### & / Requirements 
    --------
-   Latex ( packages: pagenumber, markdown, color ... )
+   Latex ( packages: Pagenumber, Markdown, Color , BibTeX ... )
    
    <br>
    <br> 
