@@ -1,4 +1,4 @@
-```sh
+```pascal
 
 # READ ME!
 
