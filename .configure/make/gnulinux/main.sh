@@ -46,7 +46,10 @@ var1= echo "OS                      :  Gnulinux" # ouput: new line
 var2= echo "License                 :  Copyright, ET-STD, ET-BOOK ... " # ouput: new line
 var3= echo "Reference               :  https://github.com/ET-Lang/book " # ouput: new line
 var4= echo "Version, Year, Date     :  2019 , Wednesday, June 12th 2019 @ 01:47:23 PM https://github.com/ET-Lang/book" # ouput: new line
-echo $var1 $var2 $var3 $var4 # ouput: new lines
+var5 = echo $var1 $var2 $var3 $var4 # ouput: new lines
+
+alias version='echo $var5'
+
 
 # B-  COMMAND LICENSE 
 # --------------------------------------------------------------------------------------------------------------------
@@ -64,6 +67,9 @@ varJ= echo SPECIFIC CONTRIBUTION : book/*  # ouput: new line SPECIFIC CONTRIBUTI
 varK= echo @url https://github.com/ET-Lang/book/  # ouput: new line @url https://github.com/ET-Lang/book/
 echo $varA $varB $varC $varD $varE $varF $varG $varH $varI $varJ $varK # ouput: new lines
 
+alias license='echo $var5'
+
+
 # 4- COMMAND REFERENCE 
 # --------------------------------------------------------------------------------------------------------------------
 var1A= echo @reference: https://superuser.com/questions/1260038/font-size-in-shell-script  # ouput: new line
@@ -76,6 +82,8 @@ var7A= echo @reference: https://unix.stackexchange.com/questions/398766/how-do-i
 var8A= echo @reference: https://unix.stackexchange.com/questions/77049/how-do-i-change-the-screen-font-size-when-using-a-virtual-console # ouput: new line
 var9A= echo @reference: https://www.linuxquestions.org/questions/linux-newbie-8/can-i-increase-font-size-through-shell-scripts-4175502369 # ouput: new line
 echo $var1A $var2A $var3A $var4A $var5A $var6A $var7A $var8A $var9A # ouput: new lines
+
+alias reference='echo $var5'
 
 
 # 5- COMMAND INSTALL FOR AUTO DOWNLOAD, UNPACK, EXTRACT, AUTO GENERATE PDF
@@ -92,3 +100,6 @@ wget $URL -O book.zip; unzip book.zip; rm book.zip -o $LOGFILE
 
 # start  pdflatex and generate PDF
 pdflatex main.tex
+
+alias generatePDF='echo $var5'
+
