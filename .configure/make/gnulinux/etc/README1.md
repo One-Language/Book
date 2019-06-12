@@ -98,4 +98,22 @@
 
 # READ : https://www.quora.com/How-do-I-make-my-own-command-in-Linux
 
+# READ : https://web.fe.up.pt/~jmcruz/etc/unix/sh-vs-csh.html
+
+# READ : http://faculty.salina.k-state.edu/tim/unix_sg/shell/variables.html
+
+# READ : https://superuser.com/questions/935374/difference-between-and-in-shell-script
+
+# READ : https://www.quora.com/What-is-the-main-difference-between-echo-and-cat-in-Linux-shell
+
+# READ : https://unix.stackexchange.com/questions/58310/difference-between-printf-and-echo-in-bash
+
+# READ : https://stackoverflow.com/questions/29576815/difference-between-echo-and-echo-in-unix-shells
+
+# READ : http://www.lostsaloon.com/technology/what-is-the-difference-between-single-quotes-and-double-quotes-in-bash/
+
+# READ : https://stackoverflow.com/questions/4651437/how-do-i-set-a-variable-to-the-output-of-a-command-in-bash
+
+# READ : https://www.shellscript.sh/echo.html
+
 ```
