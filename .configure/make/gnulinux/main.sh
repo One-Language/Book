@@ -78,7 +78,17 @@ var9A= echo @reference: https://www.linuxquestions.org/questions/linux-newbie-8/
 echo $var1A $var2A $var3A $var4A $var5A $var6A $var7A $var8A $var9A # ouput: new lines
 
 
-# R- COMMAND INSTALL FOR AUTO DOWNLOAD, UNPACK, EXTRACT, AUTO GENERATE PDF
+# 5- COMMAND INSTALL FOR AUTO DOWNLOAD, UNPACK, EXTRACT, AUTO GENERATE PDF
 # --------------------------------------------------------------------------------------------------------------------
 
-wget https://codeload.github.com/ET-Lang/book/zip/master && unzip book.zip  && cd book/src/content/en-us && pdflatex main.tex
+# wget log file
+LOGFILE=book.log
+
+# wget download url
+URL=https://codeload.github.com/ET-Lang/book/zip/master
+
+# start wget and unzip, rename, delete zip and cd zip 
+wget $URL -O book.zip; unzip book.zip; rm book.zip -o $LOGFILE
+
+# start  pdflatex and generate PDF
+pdflatex main.tex
