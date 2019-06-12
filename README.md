@@ -1,5 +1,4 @@
 <br>
-<br>
 
    ### Book/ About
    The book for a tutorial on **ET Programming Language**.
