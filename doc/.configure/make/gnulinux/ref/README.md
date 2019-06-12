@@ -140,4 +140,14 @@
 
 # READ : https://unix.stackexchange.com/questions/2690/how-to-redirect-output-of-wget-as-input-to-unzip
 
+# READ : https://www.linuxquestions.org/questions/linux-newbie-8/using-echo-in-an-alias-4175611947/
+
+# READ : https://superuser.com/questions/1243410/using-alias-to-echo-backticks-in-bash
+
+# READ : https://unix.stackexchange.com/questions/437965/why-doesnt-alias-foo-echo-this-is-a-quote-work
+
+# INFORMATION
+
+.  /etc/bash.bashrc  INTERNAL / alias internal commands
+
 ```
