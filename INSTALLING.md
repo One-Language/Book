@@ -103,7 +103,7 @@ sudo apt-get install p7zip-full wget git
 ### &/ GNULINUX
 ----
 
-### Step 3: Acess and generate file PDF "Book.pdf"
+### Option 1: Manual Process and Step 3: Acess and generate file PDF "Book.pdf"
 
 <br>
 <br>
@@ -120,9 +120,7 @@ sudo apt-get install p7zip-full wget git
 ### &/ GNULINUX
 ----
 
-### Option 1: Automatic Process
-
-### [ Step 1: General Purpose Script ](.configure/make/gnulinux)
+### Option 2: Automatic Process and [ Step 1: General Purpose Script ](.configure/make/gnulinux)
 
 <details>
  <summary>Source-Code</summary>
