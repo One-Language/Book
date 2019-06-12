@@ -57,17 +57,17 @@
    To acquire the extension, you need to install a TeX distribution for Mac OS like MacTeX. When this is done, run TeXstudio 
    for mac.
      
-   **Step 1:** Download File             
+   **Step 1:** Download File 
+   <!-- **Option 1:** Or Click in button "Download" 'Color Green' for download file book.zip -->
+   <!-- **Option 2:** Or Download and Install Program Wget, Curl or Language Programming as Nodejs, Python for download ... -->
+   <!-- **Option 3:** Or Download and Click Script for this process ... -->
      
-   Click in button "Download" 'Color Green' for download file book.zip 
+   **Step 2:** Unpack and Extract File 
+   <!-- **Option 1:** Or Download and Install Program Winzip, Winrar, 7zip or Pzip ... -->
+   <!-- **Option 2:** Or Download and Install Language Programming as Nodejs, Python for Download, Unpack, Extract File ... -->
+   <!-- **Option 3:** Or Download and Click Script for this process ... -->
      
-   **Step 2:**        
-     
-   Unpack and Extract File 
-     
-   **Step 3.**             
-     
-   Drag and drop the TEX file into the program.                                
+   **Step 3.** Drag and drop the TEX file into the program.                                
      
    **Step 4.** 
    Go to “Tools”>”Commands”>”PDFLaTex”. The TEX file will be compiled to PDF automatically. 
