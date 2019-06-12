@@ -146,6 +146,29 @@
 
 # READ : https://unix.stackexchange.com/questions/437965/why-doesnt-alias-foo-echo-this-is-a-quote-work
 
+# READ : https://www.computerworld.com/article/2598087/how-to-use-aliases-in-linux-shell-commands.html
+
+# READ : https://stackoverflow.com/questions/6361163/making-an-alias-for-ls-that-includes-echo-in-csh
+
+# READ : https://askubuntu.com/questions/1139470/echo-the-alias-command-before-running-it
+
+# READ : https://www.linuxquestions.org/questions/linux-newbie-8/using-echo-in-an-alias-4175611947/
+
+# READ : http://mywiki.wooledge.org/CommandSubstitution
+
+# READ : http://linux-training.be/funhtml/ch12.html
+
+# READ : https://bash.cyberciti.biz/guide/Setting_up_permissions_on_a_script
+
+# READ : https://stackoverflow.com/questions/11403135/how-do-you-use-chmod-inside-a-shell-script
+
+# READ : https://askubuntu.com/questions/443789/what-does-chmod-x-filename-do-and-how-do-i-use-it
+
+# READ : https://askubuntu.com/questions/484718/how-to-make-a-file-executable
+
+# READ :
+
+
 # INFORMATION
 
 .  /etc/bash.bashrc  INTERNAL / alias internal commands
