@@ -4,36 +4,36 @@
 
 # READ : https://www.macs.hw.ac.uk/~hwloidl/docs/abs-guide/sample-bashrc.html
 
-https://stackoverflow.com/questions/7131670/make-a-bash-alias-that-takes-a-parameter
+# READ : https://stackoverflow.com/questions/7131670/make-a-bash-alias-that-takes-a-parameter
 
-https://tecadmin.net/pass-command-line-arguments-in-shell-script/
+# READ : https://tecadmin.net/pass-command-line-arguments-in-shell-script/
 
-https://stackoverflow.com/questions/4823468/comments-in-markdown
+# READ : https://stackoverflow.com/questions/4823468/comments-in-markdown
 
-https://www.fontsquirrel.com/fonts/list/classification/display
+# READ : https://www.fontsquirrel.com/fonts/list/classification/display
 
-https://en.wikipedia.org/wiki/Factor_(programming_language)
+# READ : https://en.wikipedia.org/wiki/Factor_(programming_language)
 
-http://progopedia.com/language/factor/
+# READ : http://progopedia.com/language/factor/
 
-http://progopedia.com/language/smalltalk/
+# READ : http://progopedia.com/language/smalltalk/
 
-http://progopedia.com/language/forth/
+# READ : http://progopedia.com/language/forth/
 
-https://github.com/crcx/toka
+# READ : https://github.com/crcx/toka
 
-http://toka.s3.amazonaws.com/index.html
+# READ : http://toka.s3.amazonaws.com/index.html
 
-https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9
+# READ : https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9
 
-https://www.vbtutor.net/webrowser.htm
+# READ : https://www.vbtutor.net/webrowser.htm
 
-https://insights.dice.com/2017/08/10/5-programming-languages-die/
+# READ : https://insights.dice.com/2017/08/10/5-programming-languages-die/
 
-https://andreaferretti.github.io/factor-tutorial/
+# READ : https://andreaferretti.github.io/factor-tutorial/
 
-https://softwareengineering.stackexchange.com/questions/167431/status-of-stack-based-languages
+# READ : https://softwareengineering.stackexchange.com/questions/167431/status-of-stack-based-languages
 
-https://news.ycombinator.com/item?id=9008472
+# READ : https://news.ycombinator.com/item?id=9008472
 
 ```
