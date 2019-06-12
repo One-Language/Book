@@ -1,7 +1,10 @@
 <br>
 
    ### Book/ About
-   The book for a tutorial on **ET Programming Language**.
+   ### The book for a tutorial on **ET Programming Language**. 
+   
+   #### Available file comprehension versions: .zip, .rar, .tar, .gz, .targz, .tgz, .bz2, tar.bz2  
+
 
 #
 
@@ -20,8 +23,6 @@
 
 
 #
-
-  ### Available file comprehension versions: .zip, .rar, .tar, .gz, .targz, .tgz, .bz2, tar.bz2  
 
 
 <br>
