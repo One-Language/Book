@@ -1,16 +1,14 @@
-<br>
 
-### READ ME! [RULES](RULES.md) , [PATH](PATH.md) , [REPORT](REPORT.md) , [REFERENCE](REFERENCE.md) 
+   ### & Book/ 
+   
+   ### READ ME! [RULES](RULES.md) , [PATH](PATH.md) , [REPORT](REPORT.md) , [REFERENCE](REFERENCE.md) 
+   
+   Rules: For Contribution, Development ...  General Scheme.
+   Report: For Contribution... 
+   Reference: Links for source code.
+   Path: Before source-code.
 
-Rules: For Contribution, Development ...  General Scheme.
-Report: For Contribution... 
-Reference: Links for source code.
-Path: Before source-code.
-
-
-#
-
-   ### Book/ About
+   ### & Book/ About
    ### The book for a tutorial on **ET Programming Language**. 
    
    #### Available file comprehension versions: .zip, .rar, .tar, .gz, .targz, .tgz, .bz2, tar.bz2  
