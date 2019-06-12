@@ -29,7 +29,8 @@
    
    ### & / Requirements 
    --------
-   Latex ( packages: Pagenumber, Markdown, Color , BibTeX ... )
+   
+   ### READ ME! [Requirements](Requirements.md) , [GnuLinux](GnuLinux.md) , [Mac](Mac.md) , [Windows](Windows.md) 
    
    <br>
    <br> 
