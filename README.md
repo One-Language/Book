@@ -169,11 +169,9 @@
       
    **Step 2:** Click in button Download 'Color Green' for download file book.zip 
 
-   **Step 3:** 
-   
-   1. Unpack and Extract File Zip
+   **Step 3:** Unpack and Extract File Zip
   
-   2. Open the File Explorer and locate the zipped folder.
+   **Step 4:** Open the File Explorer and locate the zipped folder.
    
    To unzip the entire folder, right-click to select Extract All and follow the instructions.
    To unzip a single file or folder, double-click the zipped folder to open it. Then drag or copy the zipped folder item to a 
