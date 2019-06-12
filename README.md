@@ -143,6 +143,19 @@
 <br>
 <br>
 
+  ###  & /  Version Offline **Mac**
+  --------
+  
+   **Option 1:**  Installation Manual Process  
+   
+   **Step 1:** Install package or utility and use script specific. MacOSX? ... [Access this list here.](https://github.com/ET-Lang/book/Installing.md)
+   
+   **Option 2:**  Installation Automatic Process  
+   
+   **Step 1:** Automatic install with general script of use. [Access this list here.](https://github.com/ET-Lang/book/Running.md)
+
+<br>
+<br>
   ###  & /  Version Offline **Windows**
   --------
  
