@@ -1,15 +1,15 @@
-**EN-US**
+**LaTeX/en-us**
 
-1. [content/en-us/summary/content](#anchors-in-markdown)
-2. [content/en-us/section](#anchors-in-markdown)
+1. [src/content/en-us/summary/content](#anchors-in-markdown)
+2. [src/content/en-us/section](#anchors-in-markdown)
 
-**PT-BR**
+**LaTeX/pt-br**
 
-1. [content/pt-br/summary/content](#anchors-in-markdown)
-2. [content/pt-br/section](#anchors-in-markdown)
+1. [src/content/pt-br/summary/content](#anchors-in-markdown)
+2. [src/content/pt-br/section](#anchors-in-markdown)
 
-**FA-IR**
+**LaTeX/fa-ir**
 
-1. [content/fa-ir/summary/content](#anchors-in-markdown)
-2. [content/fa-ir/section](#anchors-in-markdown)
+1. [src/content/fa-ir/summary/content](#anchors-in-markdown)
+2. [src/content/fa-ir/section](#anchors-in-markdown)
 
