@@ -24,17 +24,18 @@
 
    #
 
-  ### & / Requirements 
-  Latex ( packages: pagenumber, markdown, color ... )
+   ### & / Requirements 
+   --------
+   Latex ( packages: pagenumber, markdown, color ... )
 
   #
 
   <br>
 
-  ### & / Book/ Tutorial - How to compile LaTeX to PDF on Mac with TeXstudio.                                                                                                                  
-  TeXstudio for Mac converts LaTeX to PDF using “pdflatex” command but does not come with the “pdflatex” extension itself. 
-  To acquire the extension, you need to install a TeX distribution for Mac OS like MacTeX. When this is done, run TeXstudio 
-  for mac.
+   ### & / Book/ Tutorial - How to compile LaTeX to PDF on Mac with TeXstudio.                                                                                                                  
+   TeXstudio for Mac converts LaTeX to PDF using “pdflatex” command but does not come with the “pdflatex” extension itself. 
+   To acquire the extension, you need to install a TeX distribution for Mac OS like MacTeX. When this is done, run TeXstudio 
+   for mac.
      
    **Step 1:** Download File             
      
@@ -85,10 +86,10 @@
 <br>
 <br>
 
- ### & / Book/ Tutorial - How to compile LaTeX to PDF on Windows with TeXstudio.                                                                                                                    
- TeXstudio for Mac converts LaTeX to PDF using “pdflatex” command but does not come with the “pdflatex” extension itself. 
- To acquire the extension, you need to install a TeX distribution for Mac OS like MacTeX. When this is done, run TeXstudio 
- for mac.
+  ### & / Book/ Tutorial - How to compile LaTeX to PDF on Windows with TeXstudio.                                                                                                                    
+  TeXstudio for Mac converts LaTeX to PDF using “pdflatex” command but does not come with the “pdflatex” extension itself. 
+  To acquire the extension, you need to install a TeX distribution for Mac OS like MacTeX. When this is done, run TeXstudio 
+  for mac.
      
    **Step 1:** Download File             
      
@@ -109,7 +110,8 @@
 <br>
 <br>
 
-  ### & / Version Online: Web Base Editor
+   ### & / Version Online: Web Base Editor
+   --------
 
    **Step 1:** [Open a web base editor (web page).: Overleaf](https://overleaf.com)
    
@@ -121,7 +123,8 @@
 <br>
 
   ###  & /  Version Offline **GNU/Linux**
-
+  --------
+  
    **Option 1:**  Installation Manual Process  
    
    **Step 1:** Install package or utility and use script specific. Arch? Centos? Ubuntu? Slackware? Debian? Fedora? ... [Access this list here.](https://github.com/ET-Lang/book/Installing.md)
@@ -133,9 +136,10 @@
 <br>
 <br>
 
-  ###  & /  Version Offline **Windows**      
+  ###  & /  Version Offline **Windows**
+  --------
  
-   Work: Windows 7, Windows XP, Windows 10, Windows Vista, Windows 8 ... 
+   ***Work:*** Windows 7, Windows XP, Windows 10, Windows Vista, Windows 8 ... 
 
    **Option 1:**  Installation Manual Process  
    
@@ -175,14 +179,16 @@
 <br>
 
 
- ###  &/ Warnings
-
+  ###  &/ Warnings
+  --------
+   
 1. The .rar, .tar, .gz, .targz, .tgz, .bz2, and tar.bz2 versions files also work and are no different - The code is the same ^^.
 
 2. If you do not have or do not work
 
 
- ###  &/ For Windows
+  ###  &/ For Windows
+  --------
 
   **Step 1:** Download and install to Unpack and Extract File Zip
 
@@ -200,6 +206,7 @@
 
 
  ###  &/ For GnuLinux
+ --------
 
  **Step 1:** Download and install to Unpack and Extract File Zip
 
@@ -216,6 +223,7 @@
 <br>
 
  ###  &/ For Mac
+ --------
 
   **Step 1:** Download and install to Unpack and Extract File Zip
 
