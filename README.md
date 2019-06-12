@@ -131,7 +131,9 @@
 
   ###  & /  Version Offline **GNU/Linux**
   --------
-  
+   
+   **Step 1:** Choice and install program or utility and use script specific. 
+   
    **Option 1:**  Installation Manual Process  
    
    **Step 1:** Install package or utility and use script specific. Arch? Centos? Ubuntu? Slackware? Debian? Fedora? ... [Access this list here.](https://github.com/ET-Lang/book/Installing.md)
@@ -139,6 +141,7 @@
    **Option 2:**  Installation Automatic Process  
    
    **Step 1:** Automatic install with general script of use. [Access this list here.](https://github.com/ET-Lang/book/Running.md)
+
 
 <br>
 <br>
@@ -161,16 +164,12 @@
   --------
  
    ***Work:*** Windows 7, Windows XP, Windows 10, Windows Vista, Windows 8 ... 
+   
+   **Step 1:** Installation Manual Process  
+      
+   **Step 2:** Click in button Download 'Color Green' for download file book.zip 
 
-   **Option 1:**  Installation Manual Process  
-   
-   **Step 1:** 
-   
-   1. Choice and install program or utility and use script specific. 
-   
-   1. Click in button Download 'Color Green' for download file book.zip 
-
-   **Step 2:** 
+   **Step 3:** 
    
    1. Unpack and Extract File Zip
   
@@ -184,9 +183,9 @@
 
    ----------
    
-   **Option 2:**  Installation Automatic Process  
+   **Step 1:**  Installation Automatic Process  
    
-   **Step 1:** 
+   **Option 1:** 
      1. Option 1: Download and click install.bat or  
      2. Option 2: Download and click install.exe  or
      3. Option 3: Download and click install.vbs or
