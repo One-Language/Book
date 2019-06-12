@@ -177,7 +177,7 @@
    To unzip a single file or folder, double-click the zipped folder to open it. Then drag or copy the zipped folder item to a 
    new location.
    
-   3. Click and generate PDF.
+   **Step 5:** Click and generate PDF.
 
    ----------
    
