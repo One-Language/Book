@@ -1,18 +1,14 @@
-# WARNINGS !
+#!/bin/sh
+# #!/bin/bash 
 
-# @OPTION 1 is figlet status soon 
-# @OPTION 1 ' > $ figlet & BOOK'
-# if select @OPTION figlet
-
-# @OPTION 2 is toilet status soon 
-# @OPTION 2 ' > $ toilet & BOOK'
-# if select @OPTION 2 toilet
-
-# REQUIRE AND USE 
-# $ sudo apt-get update
-# $ sudo apt-get install toilet figlet
-# $ figlet & BOOK
-# $ figlist -h 
+# READ ME !
+# READ: https://web.fe.up.pt/~jmcruz/etc/unix/sh-vs-csh.html
+# READ: https://superuser.com/questions/935374/difference-between-and-in-shell-script
+# READ: https://www.quora.com/What-is-the-main-difference-between-echo-and-cat-in-Linux-shell
+# READ: https://unix.stackexchange.com/questions/58310/difference-between-printf-and-echo-in-bash
+# READ: https://stackoverflow.com/questions/29576815/difference-between-echo-and-echo-in-unix-shells
+# READ: http://www.lostsaloon.com/technology/what-is-the-difference-between-single-quotes-and-double-quotes-in-bash/
+# READ: https://stackoverflow.com/questions/4651437/how-do-i-set-a-variable-to-the-output-of-a-command-in-bash
 
 
 # @OPTION 3 is dcop status soon 
