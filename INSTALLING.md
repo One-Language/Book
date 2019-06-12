@@ -1,6 +1,10 @@
+### &/ GNULINUX
 
 
 ### Option 1: Choice Distro and Utility
+
+<br>
+<br>
 
 ### Arch 
 
