@@ -7,14 +7,6 @@
    <br>
    <br> 
    
-      
-   ### & Book/ 
-   ### READ ME! [RULES](RULES.md) , [PATH](PATH.md) , [REPORT](REPORT.md) , [REFERENCE](REFERENCE.md) 
-   #
-   
-   <br>
-   <br>
-   
    ### & / Versions 
    --------
    [English](src/content/en-us) (Not complete yet)
@@ -25,6 +17,14 @@
 
    #
 
+      
+   ### & Book/ 
+   ### READ ME! [RULES](RULES.md) , [PATH](PATH.md) , [REPORT](REPORT.md) , [REFERENCE](REFERENCE.md) 
+   #
+   
+   <br>
+   <br>
+   
    ### & / Requirements 
    --------
    Latex ( packages: pagenumber, markdown, color ... )
