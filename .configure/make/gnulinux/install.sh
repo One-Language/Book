@@ -4,9 +4,24 @@
 
 msg1=&
 ms="&msg1 msg1"
-msg2="$ms two"
-msg3="$msg2 three"
-echo $msg3
+msg2="&ms two"
+msg3="&msg2 three"
+echo &msg3
+
+# Author @pglapds
+# @url https://github.com/ET-Lang/book/ 
+
+# CONTRIBUTOR @pglapds 
+# @url https://github.com/ET-Lang/book/ 
+
+# CONTRIBUTION 
+# @url https://github.com/ET-Lang/book/ 
+
+# SPECIFIC CONTRIBUTION : book/*  
+# @url https://github.com/ET-Lang/book/ 
+
+
+# OUTPUT
 
 # Author @pglapds
 # @url https://github.com/ET-Lang/book/ 
@@ -35,29 +50,74 @@ echo $msg3
 # Reference               :  https://github.com/ET-Lang/book
 # Version, Year, Date     :  2019 , Wednesday, June 12th 2019 @ 01:47:23 PM https://github.com/ET-Lang/book
       
+      
+# @OPTION 1 is figlet status soon 
+# @OPTION 1 ' > $ figlet & BOOK'
+# if select @OPTION figlet
 
-# @OPTION 1 is figlet
-# @OPTION 2 is toilet
-# @OPTION 3 is dcop 
-# @OPTION 4 is Shell Script 
-# @OPTION 5 is Nodejs 
+# @OPTION 2 is toilet status soon 
+# @OPTION 2 ' > $ toilet & BOOK'
+# if select @OPTION 2 toilet
+
+# @OPTION 3 is dcop   status soon 
+# @OPTION 3 ' > $ dcop & BOOK'
+# if select @OPTION 3 dcop utility  
+
+# @OPTION 4 is Nodejs  soon 
+# @OPTION 4 ' > $ nodejs book.js'
+# if select @OPTION 4 nodejs 
+
+# @OPTION 5 is Python  soon 
+# @OPTION 5 ' > $ python book.py'
+# if select @OPTION 5 Python 
+
+# @OPTION 6 is Shell Script  Not complete yet
+# if select @OPTION 6 Shell Script 
 
 # OUTPUT
 
-# @OPTION 1 ' > $ figlet & BOOK'
-# if select @OPTION figlet , ' > $ figlet & BOOK'
+# & BOOK !
 
-# @OPTION toilet ,   ' > $ figlet & BOOK'
-# if select @OPTION figlet , ' > $ figlet & BOOK'
+# @OPTION 1 figlet 
+# & OPTION 1
+# & OPTION 1 -h 
+# & OPTION 1 -r
+ 
+# @OPTION 2 toilet 
+# & OPTION 2 
+# & OPTION 2 -h 
+# & OPTION 2 -r
 
-# @OPTION toilet ,   ' > $ figlet & BOOK'
-# if select @OPTION figlet , ' > $ figlet & BOOK'
+# @OPTION 3 dcop 
+# & OPTION 3
+# & OPTION 3 -h 
+# & OPTION 3 -r
 
+# @OPTION 4 Nodejs 
+# & OPTION 4 
+# & OPTION 4 -h 
+# & OPTION 4 -r
 
-# @OPTION toilet ,   ' > $ figlet & BOOK'
-# if select @OPTION figlet , ' > $ figlet & BOOK'
+# @OPTION 5 Python 
+# & OPTION 5
+# & OPTION 5 -h 
+# & OPTION 5 -r
 
-# @OPTION dcop 
+# @OPTION 6 Shell Script 
+# & OPTION 6
+# & OPTION 6 -h 
+# & OPTION 6 -r
+
+# & -h is help 
+# & -r is running
+
+# & OPTION 1 -h -r
+# & OPTION 2 -h -r
+# & OPTION 3 -h -r
+# & OPTION 4 -h -r
+# & OPTION 5 -h -r
+
+# & OPTION 6 -h -r reference
 
 > $ sudo apt-get update
 > $ sudo apt-get install toilet figlet
@@ -66,10 +126,6 @@ echo $msg3
 
 > $ figlist -h 
 
-> & OPTION 1 -h 
-> & OPTION 2 -h 
-> & OPTION 3 -h 
-> & OPTION 4 reference
 
 ! dcop konsole-8540 session-6 setFont Monospace,100,-1,5,50,0,0,0,0,0
 ! 
@@ -96,7 +152,9 @@ echo " & @reference: https://www.linuxquestions.org/questions/linux-newbie-8/can
   # & @reference: https://unix.stackexchange.com/questions/398766/how-do-i-increase-the-font-size-of-the-centos-7-console         
   # & @reference: https://unix.stackexchange.com/questions/77049/how-do-i-change-the-screen-font-size-when-using-a-virtual-console
   # & @reference: https://www.linuxquestions.org/questions/linux-newbie-8/can-i-increase-font-size-through-shell-scripts-4175502369
-                                                        
+
+> https://github.com/shelljs/shelljs
+
 > wget https://codeload.github.com/ET-Lang/book/zip/master
 
 > unzip book.zip 
