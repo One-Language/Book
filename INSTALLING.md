@@ -1,7 +1,9 @@
 ### &/ GNULINUX
 ----
 
-### Option 1: Choice Distro and Utility
+### Option 1: Manual Process
+
+### Step 1: Choice Distro and Utility
 
 <br>
 <br>
@@ -67,7 +69,7 @@ sudo apt-get install p7zip-full wget git
 ### &/ GNULINUX
 ----
 
-### Option 2: Choice and extract-file .zip, .rar, .tar, .gz, .targz, .tgz,  bz2, tar.bz2
+### Step 2: Extract-file .zip, .rar, .tar, .gz, .targz, .tgz,  bz2, tar.bz2
 
 <br>
 <br>
@@ -99,28 +101,51 @@ sudo apt-get install p7zip-full wget git
 <br>
 <br>
 
-```haskell 
 
-cd book/src/content/en-us
+### &/ GNULINUX
+----
+
+### Step 3: Acess and generate file PDF "Book.pdf"
+
+<br>
+<br>
+
+```haskell
+
+> $ cd book/src/content/en-us
 
 ```
 
 <br>
 <br>
 
+### &/ GNULINUX
+----
 
-### Option 2: General Purpose Script
+### Option 1: Automatic Process
+
+### [ Step 1: General Purpose Script ](.configure/make/gnulinux)
+
+<details>
+ <summary>Source-Code</summary>
 
 ```haskell 
 
-> $ wget https://codeload.github.com/ET-Lang/book/zip/master
+> wget https://codeload.github.com/ET-Lang/book/zip/master
 
-> $ unzip book.zip 
+> unzip book.zip 
 
-> $ pdflatex main.tex
+> cd book/src/content/en-us
+
+> pdflatex main.tex
 
 ```
 
+</details>
+
+
+<br>
+<br>
 <br>
 <br>
 
