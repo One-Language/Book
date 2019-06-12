@@ -24,7 +24,14 @@
    ### & / Contribution 
    --------
    
-   ### READ ME! [RULES](RULES.md) , [PATH](PATH.md) , [REPORT](REPORT.md) , [REFERENCE](REFERENCE.md) 
+   [Rules](Rules.md) 
+   
+   [Path](Path.md) 
+   
+   [Report](Report.md) 
+   
+   [Reference](Reference.md) 
+   
    #
    
    <br>
