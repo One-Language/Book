@@ -17,26 +17,25 @@
    [Portuguese](src/content/pt-br) (Soon)
    
    [Persian](src/content/fa-ir) (Soon)
-
-   #
-
-      
+   
+   <br>
+   <br> 
+   
    ### & Book/ 
    ### READ ME! [RULES](RULES.md) , [PATH](PATH.md) , [REPORT](REPORT.md) , [REFERENCE](REFERENCE.md) 
    #
    
    <br>
-   <br>
+   <br> 
    
    ### & / Requirements 
    --------
    Latex ( packages: pagenumber, markdown, color ... )
-
-  #
-
-  <br>
-
-   ### & / Book/ Tutorial - How to compile LaTeX to PDF on Mac with TeXstudio.                                                                                                                  
+   
+   <br>
+   <br> 
+   
+   ### & Book/ Tutorial - How to compile LaTeX to PDF on Mac with TeXstudio.                                                                                                                  
    TeXstudio for Mac converts LaTeX to PDF using “pdflatex” command but does not come with the “pdflatex” extension itself. 
    To acquire the extension, you need to install a TeX distribution for Mac OS like MacTeX. When this is done, run TeXstudio 
    for mac.
@@ -63,7 +62,7 @@
    <br>
    <br>
 
-   ### & / Book/ Tutorial - How to compile LaTeX to PDF on GnuLinux with TeXstudio.                                                                                                              
+   ### & Book/  Tutorial - How to compile LaTeX to PDF on GnuLinux with TeXstudio.                                                                                                              
    TeXstudio for Mac converts LaTeX to PDF using “pdflatex” command but does not come with the “pdflatex” extension itself. 
    To acquire the extension, you need to install a TeX distribution for Mac OS like MacTeX. When this is done, run TeXstudio 
    for mac.
@@ -90,7 +89,7 @@
 <br>
 <br>
 
-  ### & / Book/ Tutorial - How to compile LaTeX to PDF on Windows with TeXstudio.                                                                                                                    
+   ### & Book/  Tutorial - How to compile LaTeX to PDF on Windows with TeXstudio.                                                                                                                    
   TeXstudio for Mac converts LaTeX to PDF using “pdflatex” command but does not come with the “pdflatex” extension itself. 
   To acquire the extension, you need to install a TeX distribution for Mac OS like MacTeX. When this is done, run TeXstudio 
   for mac.
