@@ -1,5 +1,5 @@
 ### &/ GNULINUX
-
+----
 
 ### Option 1: Choice Distro and Utility
 
