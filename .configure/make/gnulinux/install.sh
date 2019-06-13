@@ -32,17 +32,12 @@ etBOOK() {
   echo # ouput: new line
   echo OPTION 1 - INSTALL WITH Shell Script # ouput: new line
   # read OPTION1
-  # echo OPTION 2 - INSTALL WITH Nodejs # ouput: new line
-  # read OPTION 2
-  # echo OPTION 3 - INSTALL WITH Python # ouput: new line
-  # read OPTION 3
   echo OPTION 2 - SHOW VERSION # ouput: new line
   # ead OPTION 2
   echo OPTION 3 - SHOW LICENSE # ouput: new line
   # read OPTION 2
   echo OPTION 4 - SHOW REFERENCE # ouput: new line
   # read OPTION 4
-  # read OPTION 9
   echo # ouput: new line
   echo # ouput: new line
   echo # ouput: new line
