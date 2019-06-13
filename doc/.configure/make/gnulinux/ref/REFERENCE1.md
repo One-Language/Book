@@ -5,7 +5,7 @@
 <br>
 <br>
 
-**1. Reference,  Errors**
+### Reference,  Errors
 
 ```pascal
 
@@ -21,7 +21,7 @@
 
 <br>
 
-**2. Reference, Resources: Echo ( Define Font )**
+### Reference, Resources: Echo ( Define Font )
 
 ```pascal
 
@@ -45,7 +45,7 @@
 
 <br>
 
-**3. Resources ( Define Variables )**
+###  Resources ( Define Variables )
 
 ```pascal
 
@@ -84,7 +84,7 @@
 
 #
 
-**4. Resources: Alias ( Define Commandline )**
+### Resources: Alias ( Define Commandline )
 
 ```pascal
 
@@ -111,7 +111,7 @@
 
 #
 
-**5. Resources: Echo ( Define Echo )**
+### Resources: Echo ( Define Echo )
 
 ```pascal
 
@@ -139,7 +139,7 @@
 
 #
 
-**6. Resources: Steps - TUTORIAL ( Setting Up Permissions On A Script )** 
+### Resources: Steps - TUTORIAL ( Setting Up Permissions On A Script ) 
 
 ```pascal
 
@@ -161,7 +161,7 @@
 
 #
 
-**7. Resources: Steps - TUTORIAL ( Commandline Arguments  )** 
+### Resources: Steps - TUTORIAL ( Commandline Arguments  )
 
 ```pascal 
 
@@ -185,8 +185,7 @@
 
 <br>
 
-#
-**8. Resources: Steps - TUTORIAL ( Commandline Custom  )** 
+###  Resources: Steps - TUTORIAL ( Commandline Custom  )
 
 ```pascal 
 
