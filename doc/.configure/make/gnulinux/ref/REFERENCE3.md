@@ -20,8 +20,6 @@
 #
 
 <br>
-<br>
-
 
 **2. Reference, Resources: Echo ( Define Font )**
 
@@ -46,8 +44,6 @@
 #
 
 <br>
-<br>
-
 
 **3. Resources ( Define Variables )**
 
@@ -84,11 +80,9 @@
 
 ```
 
+<br>
 
 #
-
-<br>
-<br>
 
 **4. Resources: Alias ( Define Commandline )**
 
@@ -113,11 +107,9 @@
 
 ```
 
+<br>
+
 #
-
-<br>
-<br>
-
 
 **5. Resources: Echo ( Define Echo )**
 
@@ -143,10 +135,9 @@
 
 ```
 
-#
+<br>
 
-<br>
-<br>
+#
 
 **6. Resources: Steps - TUTORIAL ( Setting Up Permissions On A Script )** 
 
@@ -166,6 +157,7 @@
 # READ : https://stackoverflow.com/questions/11403135/how-do-you-use-chmod-inside-a-shell-script
 
 ```
+<br>
 
 #
 
@@ -191,8 +183,9 @@
 
 ```
 
-#
+<br>
 
+#
 **8. Resources: Steps - TUTORIAL ( Commandline Custom  )** 
 
 ```pascal 
