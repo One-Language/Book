@@ -106,6 +106,8 @@ https://bash.cyberciti.biz/guide/A_progress_bar_(gauge_box)
 
 https://github.com/nachoparker/progress_bar.sh
 
+https://www.shellscript.sh/tips/progressbar/
+
 https://ownyourbits.com/2017/07/16/a-progress-bar-for-the-shell/
 
 https://www.codementor.io/aviaryan/downloading-files-from-urls-in-python-77q3bs0un
@@ -124,7 +126,33 @@ https://docs.python.org/3/library/ftplib.html
 
 https://stackoverflow.com/questions/11573817/how-to-download-a-file-via-ftp-with-python-ftplib
 
+https://chocolatey.org/
 
+https://askubuntu.com/questions/854373/how-to-create-a-desktop-shortcut
+
+https://www.howtogeek.com/287014/how-to-create-and-use-symbolic-links-aka-symlinks-on-linux/
+
+https://askubuntu.com/questions/38661/how-do-i-run-sh-files
+
+https://stackoverflow.com/questions/16828035/linux-command-to-check-if-a-shell-script-is-running-or-not
+
+https://www.shellcheck.net/
+
+https://www.npmjs.com/
+
+https://www.vivaolinux.com.br/topico/Shell-Script/progress-bar-1
+
+https://stackoverflow.com/questions/238073/how-to-add-a-progress-bar-to-a-shell-script
+
+https://unix.stackexchange.com/questions/415421/linux-how-to-create-simple-progress-bar-in-bash
+
+https://unix.stackexchange.com/questions/487557/basic-progress-bar-for-each-line-of-output-in-an-async-bash-script
+
+https://unix.stackexchange.com/questions/325589/progress-bar-to-know-how-much-output-of-shell-script-has-been-done
+
+https://unix.stackexchange.com/questions/184737/how-to-show-a-progress-bar-while-tar-a-folder-recursively
+
+https://unix.stackexchange.com/questions/92919/progressbar-in-bash-to-visualize-the-time-to-wait
 License
 
 https://opensource.stackexchange.com/questions/2318/using-open-source-sample-code-provided-by-microsoft-for-commercial-software
