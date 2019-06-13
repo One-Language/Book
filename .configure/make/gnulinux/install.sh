@@ -1,11 +1,10 @@
 #!/bin/bash 
+# -
 # import bash 
-# Copyright 2019 @pglapds, & Book All rights reserved
-
-
 # -
 # - Author:  @contribution
 # - License: & Book 2019 , © https://github.com/ET-Lang/book/ 
+# - Copyright 2019 @pglapds, & Book All rights reserved
 # -
 # -
 # - Shell Scripiting(Bash): Installation Automatic Process
