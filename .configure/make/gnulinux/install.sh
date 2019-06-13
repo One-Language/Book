@@ -42,11 +42,6 @@ etBOOK() {
   # read OPTION 2
   echo OPTION 4 - SHOW REFERENCE # ouput: new line
   # read OPTION 4
-  # echo OPTION 7 - SHOW PRINT Figlet  # ouput: new line
-  # read OPTION 7
-  # echo OPTION 8 - SHOW PRINT Toilet  # ouput: new line
-  # read OPTION 8
-  # echo OPTION 9 - SHOW PRINT DCOP # ouput: new line
   # read OPTION 9
   echo # ouput: new line
   echo # ouput: new line
