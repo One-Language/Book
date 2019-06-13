@@ -1,3 +1,5 @@
+#### NO IMPORT, READ!
+
 ```pascal
 
 #!/bin/bash 
