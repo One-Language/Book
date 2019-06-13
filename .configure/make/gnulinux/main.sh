@@ -19,7 +19,7 @@
 etBOOK() {
   # -
   # - 
-  # ECHO BUILD
+  # 1 - ECHO BUILD
   # - 
   # -
   echo # ouput: new line
@@ -77,65 +77,13 @@ etBOOK() {
     esac
 }
 
-# def ( etBOOK ): VERSION
-VERSION() {
-   # - 
-   # - 
-   # COMMAND VERSION 
-   # - 
-   # - 
-   echo "OS                      :  Gnulinux" # ouput: new line
-   echo "License                 :  Copyright, ET-STD, ET-BOOK ... " # ouput: new line
-   echo "Reference               :  https://github.com/ET-Lang/book " # ouput: new line
-   echo "Version, Year, Date     :  2019 , Wednesday, June 12th 2019 @ 01:47:23 PM https://github.com/ET-Lang/book" # ouput: new line
-   etBOOK
-}
-
-# def ( etBOOK ): LICENSE 
-LICENSE() {
-   # - 
-   # - 
-   # COMMAND LICENSE 
-   # - 
-   # - 
-   echo Author @pglapds # ouput: new line Author @pglapds
-   echo @url https://github.com/ET-Lang/book/ # ouput: new line @url https://github.com/ET-Lang/book/
-   echo # ouput: new line
-   echo CONTRIBUTOR @pglapds # ouput: new line  CONTRIBUTOR @pglapds
-   echo @url https://github.com/ET-Lang/book/  # ouput: new line @url https://github.com/ET-Lang/book/
-   echo # ouput: new line
-   echo CONTRIBUTION # ouput: new line CONTRIBUTION
-   echo @url https://github.com/ET-Lang/book/  # ouput: new line @url https://github.com/ET-Lang/book/
-   echo # ouput: new line
-   echo SPECIFIC CONTRIBUTION : book/*  # ouput: new line SPECIFIC CONTRIBUTION : book/* 
-   echo @url https://github.com/ET-Lang/book/  # ouput: new line @url https://github.com/ET-Lang/book/ 
-   etBOOK
-}
-
-# def ( etBOOK ): REFERENCE
-REFERENCE() {
-   # - 
-   # - 
-   # COMMAND REFERENCE 
-   # - 
-   # - 
-   echo @reference: https://superuser.com/questions/1260038/font-size-in-shell-script  # ouput: new line
-   echo @reference: https://www.cyberciti.biz/faq/create-large-colorful-text-banner-on-screen # ouput: new line
-   echo @reference: https://stackoverflow.com/questions/25036555/how-to-print-in-shell-script # ouput: new line
-   echo @reference: https://stackoverflow.com/questions/996158/modifying-font-size-using-shell-script # ouput: new line
-   echo @reference: https://www.unix.com/shell-programming-and-scripting/96575-change-font-size-bash.html # ouput: new line
-   echo @reference: https://it.toolbox.com/question/how-to-change-font-size-of-text-in-a-file-using-a-shell-script-071608  # ouput: new line                                                                   
-   echo @reference: https://unix.stackexchange.com/questions/398766/how-do-i-increase-the-font-size-of-the-centos-7-console  # ouput: new line        
-   echo @reference: https://unix.stackexchange.com/questions/77049/how-do-i-change-the-screen-font-size-when-using-a-virtual-console # ouput: new line
-   echo @reference: https://www.linuxquestions.org/questions/linux-newbie-8/can-i-increase-font-size-through-shell-scripts-4175502369 # ouput: new line
-  etBOOK
-}
-
+# - 
 # def ( etBOOK ): INSTALL
+# -
 INSTALL() {
    # - 
    # - 
-   # COMMAND INSTALL 
+   # 2 - ECHO BUILD, COMMAND INSTALL 
    # - 
    # - 
    # start WGET with log-file
@@ -155,5 +103,67 @@ INSTALL() {
   etBOOK
 }
 
+# - 
+# def ( etBOOK ): LICENSE 
+# - 
+LICENSE() {
+   # - 
+   # - 
+   # 2 - ECHO BUILD, COMMAND LICENSE 
+   # - 
+   # - 
+   echo Author @pglapds # ouput: new line Author @pglapds
+   echo @url https://github.com/ET-Lang/book/ # ouput: new line @url https://github.com/ET-Lang/book/
+   echo # ouput: new line
+   echo CONTRIBUTOR @pglapds # ouput: new line  CONTRIBUTOR @pglapds
+   echo @url https://github.com/ET-Lang/book/  # ouput: new line @url https://github.com/ET-Lang/book/
+   echo # ouput: new line
+   echo CONTRIBUTION # ouput: new line CONTRIBUTION
+   echo @url https://github.com/ET-Lang/book/  # ouput: new line @url https://github.com/ET-Lang/book/
+   echo # ouput: new line
+   echo SPECIFIC CONTRIBUTION : book/*  # ouput: new line SPECIFIC CONTRIBUTION : book/* 
+   echo @url https://github.com/ET-Lang/book/  # ouput: new line @url https://github.com/ET-Lang/book/ 
+   etBOOK
+}
+
+# - 
+# def ( etBOOK ): VERSION
+# - 
+VERSION() {
+   # - 
+   # - 
+   # 2 - ECHO BUILD, COMMAND VERSION 
+   # - 
+   # - 
+   echo "OS                      :  Gnulinux" # ouput: new line
+   echo "License                 :  Copyright, ET-STD, ET-BOOK ... " # ouput: new line
+   echo "Reference               :  https://github.com/ET-Lang/book " # ouput: new line
+   echo "Version, Year, Date     :  2019 , Wednesday, June 12th 2019 @ 01:47:23 PM https://github.com/ET-Lang/book" # ouput: new line
+   etBOOK
+}
+
+# - 
+# def ( etBOOK ): REFERENCE
+# - 
+REFERENCE() {
+   # - 
+   # - 
+   # 2 - ECHO BUILD, COMMAND REFERENCE 
+   # - 
+   # - 
+   echo @reference: https://superuser.com/questions/1260038/font-size-in-shell-script  # ouput: new line
+   echo @reference: https://www.cyberciti.biz/faq/create-large-colorful-text-banner-on-screen # ouput: new line
+   echo @reference: https://stackoverflow.com/questions/25036555/how-to-print-in-shell-script # ouput: new line
+   echo @reference: https://stackoverflow.com/questions/996158/modifying-font-size-using-shell-script # ouput: new line
+   echo @reference: https://www.unix.com/shell-programming-and-scripting/96575-change-font-size-bash.html # ouput: new line
+   echo @reference: https://it.toolbox.com/question/how-to-change-font-size-of-text-in-a-file-using-a-shell-script-071608  # ouput: new line                                                                   
+   echo @reference: https://unix.stackexchange.com/questions/398766/how-do-i-increase-the-font-size-of-the-centos-7-console  # ouput: new line        
+   echo @reference: https://unix.stackexchange.com/questions/77049/how-do-i-change-the-screen-font-size-when-using-a-virtual-console # ouput: new line
+   echo @reference: https://www.linuxquestions.org/questions/linux-newbie-8/can-i-increase-font-size-through-shell-scripts-4175502369 # ouput: new line
+  etBOOK
+}
+
+# - 
 # def ( etBOOK ): VERSION, LICENSE, REFERENCE, INSTALL bash in ( _main_ ): 
+# - 
 etBOOK
