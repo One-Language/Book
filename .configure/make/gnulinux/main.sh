@@ -15,10 +15,13 @@
 # -
 
 
-# def etBOOK, bash 
+# def ( etBOOK ): bash 
 etBOOK() {
-  # ECHO BUILD 
-  # --------------------------------------------------------------------------------------------------------------------
+  # -
+  # - 
+  # ECHO BUILD
+  # - 
+  # -
   echo # ouput: new line
   echo "& Book!" # ouput: new line: Sample in browser Javascript : console.log("& Book!")
   echo "-" # ouput: new line
@@ -73,8 +76,8 @@ etBOOK() {
      *) "option no find." ; echo ; etBOOK ;;
     esac
 }
- 
-# def etBOOK, VERSION, bash 
+
+# def ( etBOOK ): VERSION
 VERSION() {
    # - 
    # - 
@@ -88,7 +91,7 @@ VERSION() {
    etBOOK
 }
 
-# def etBOOK, VERSION, LICENSE, bash 
+# def ( etBOOK ): LICENSE 
 LICENSE() {
    # - 
    # - 
@@ -109,7 +112,7 @@ LICENSE() {
    etBOOK
 }
 
-# def etBOOK, VERSION, LICENSE, REFERENCE, bash 
+# def ( etBOOK ): REFERENCE
 REFERENCE() {
    # - 
    # - 
@@ -128,7 +131,7 @@ REFERENCE() {
   etBOOK
 }
 
-# def etBOOK, VERSION, LICENSE, REFERENCE, INSTALL, bash 
+# def ( etBOOK ): INSTALL
 INSTALL() {
    # - 
    # - 
@@ -152,6 +155,5 @@ INSTALL() {
   etBOOK
 }
 
- 
-# def etBOOK, VERSION, LICENSE, REFERENCE, INSTALL, bash ( _main_ ): 
+# def ( etBOOK ): VERSION, LICENSE, REFERENCE, INSTALL bash in ( _main_ ): 
 etBOOK
