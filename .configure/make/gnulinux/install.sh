@@ -152,7 +152,7 @@ etBOOK() {
   echo # ouput: new line
   echo # ouput: new line
   echo # ouput: new line (readme-1) , (readme-2) , (readme-3)
-  echo "All Arguments are: -r (running), VERSION, REFERENCE, LICENSE, INTERFACE" # ouput: new line
+  echo "All Arguments are: -r (running), VERSION, REFERENCE, LICENSE" # ouput: new line INTERFACE
   echo # ouput: new line
   echo # ouput: new line
   echo # ouput: new line
