@@ -1,41 +1,33 @@
 #!/bin/bash
-# Exemplo Final de Script Shell
-#
  
 etBOOK() {
-  # 1- ECHO BUILD 
+  # ECHO BUILD 
   # --------------------------------------------------------------------------------------------------------------------
-
-  echo "Options:"
-  echo
-  echo "1. Trasformar nomes de arquivos"
-  echo "2. Adicionar um usuário no sistema"
-  echo "3. Deletar um usuário no sistema"
-  echo "4. Fazer backup dos arquivos do /etc"
-  echo "5. Sair do exemplo"
-  echo
-  echo -n "Qual a opção desejada? "
   echo # ouput: new line
   echo "& Book!" # ouput: new line: Sample in browser Javascript : console.log("& Book!")
   echo "-" # ouput: new line
   echo # ouput: new line
+  echo "Options:"
+  echo # ouput: new line
+  echo # ouput: new line
+  echo # ouput: new line
   echo OPTION 1 - INSTALL WITH Shell Script # ouput: new line
   # read OPTION1
-  echo OPTION 2 - INSTALL WITH Nodejs # ouput: new line
+  # echo OPTION 2 - INSTALL WITH Nodejs # ouput: new line
   # read OPTION 2
-  echo OPTION 3 - INSTALL WITH Python # ouput: new line
+  # echo OPTION 3 - INSTALL WITH Python # ouput: new line
   # read OPTION 3
-  echo OPTION 4 - SHOW VERSION # ouput: new line
+  echo OPTION 2 - SHOW VERSION # ouput: new line
   # read OPTION 4
-  echo OPTION 5 - SHOW LICENSE # ouput: new line
+  echo OPTION 3 - SHOW LICENSE # ouput: new line
   # read OPTION 5
-  echo OPTION 6 - SHOW REFERENCE # ouput: new line
+  echo OPTION 4 - SHOW REFERENCE # ouput: new line
   # read OPTION 6
-  echo OPTION 7 - SHOW PRINT Figlet  # ouput: new line
+  # echo OPTION 7 - SHOW PRINT Figlet  # ouput: new line
   # read OPTION 7
-  echo OPTION 8 - SHOW PRINT Toilet  # ouput: new line
+  # echo OPTION 8 - SHOW PRINT Toilet  # ouput: new line
   # read OPTION 8
-  echo OPTION 9 - SHOW PRINT DCOP # ouput: new line
+  # echo OPTION 9 - SHOW PRINT DCOP # ouput: new line
   # read OPTION 9
   echo # ouput: new line
   echo # ouput: new line
@@ -55,52 +47,27 @@ etBOOK() {
   echo # ouput: new line
   echo # ouput: new line
   echo "& et" # ouput: new line
-  read option
-  case $opcao in
-    1) OPTION1 ;;
-    2) OPTION2 ;;
-    3) VERSION ;;
-    4) LICENSE ;; 
-    5) REFERENCE ;;
-    6) INSTALL ;;
-    7) OPTION6 ;;
-    8) exit ;;
-    *) "Opção desconhecida." ; echo ; etBOOK ;;
-  esac
+  read options
+  case $options in
+   # //  1) OPTION1 ;;
+   # //  2) OPTION2 ;;
+     1) INSTALL ;;
+     2) LICENSE ;;
+     3) VERSION ;;
+     4) REFERENCE ;;
+   # // 5) OPTION6 ;;
+     5) exit ;;
+     *) "option no find." ; echo ; etBOOK ;;
+    esac
 }
  
-OPTION1() {
-  echo -n "Para Maiúsculo ou minúsculo? [M/m] "
-  read var
-  if [ $var = "M" ]; then
-    echo -n "Que diretório? "
-    read dir
- 
-    for x in `/bin/ls` $dir; do
-      y=`echo $x | tr '[:lower:]' '[:upper:]'`
-      if [ ! -e $y ]; then
-        mv $x $y
-      fi
-    done
- 
-  elif [ $var = "m" ]; then
-    echo -n "Que diretório? "
-    read dir
- 
-    for x in `/bin/ls` $dir; do
-      y=`echo $x | tr '[:upper:]' '[:lower:]'`
-      if [ ! -e $y ]; then
-        mv $x $y
-      fi
-    done
- 
-  fi
-}
- 
-OPTION2() {
-  // python
-  etBOOK
-}
+    # // OPTION1() {
+    # //
+    # // }
+    # // OPTION2() {
+    # // python
+    # // etBOOK
+    # // }
  
 VERSION() {
    echo "OS                      :  Gnulinux" # ouput: new line
@@ -158,16 +125,14 @@ INSTALL() {
   etBOOK
 }
 
-OPTION4() {
-  // figlet
-  // toilet
-  etBOOK
-}
-
-OPTION5() {
-  // dcop  
-  etBOOK
-}
-
+  # // OPTION4() {
+  # // figlet
+  # // toilet
+  # // etBOOK
+  # // }
+  # // OPTION5() {
+  # // dcop  
+  # // etBOOK
+  # // }
 
 etBOOK
