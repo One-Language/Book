@@ -109,7 +109,7 @@ INSTALL() {
 LICENSE() {
    # - 
    # - 
-   # 2 - ECHO BUILD, COMMAND LICENSE 
+   # 3 - ECHO BUILD, COMMAND LICENSE 
    # - 
    # - 
    echo Author @pglapds # ouput: new line Author @pglapds
@@ -132,7 +132,7 @@ LICENSE() {
 VERSION() {
    # - 
    # - 
-   # 2 - ECHO BUILD, COMMAND VERSION 
+   # 4 - ECHO BUILD, COMMAND VERSION 
    # - 
    # - 
    echo "OS                      :  Gnulinux" # ouput: new line
@@ -148,7 +148,7 @@ VERSION() {
 REFERENCE() {
    # - 
    # - 
-   # 2 - ECHO BUILD, COMMAND REFERENCE 
+   # 5 - ECHO BUILD, COMMAND REFERENCE 
    # - 
    # - 
    echo @reference: https://superuser.com/questions/1260038/font-size-in-shell-script  # ouput: new line
