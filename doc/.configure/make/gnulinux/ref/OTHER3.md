@@ -39,7 +39,7 @@
 
 ```
 
-**1.** Inspiration: Syntax
+###  Inspiration: Syntax
 
 #
 
@@ -62,7 +62,7 @@
 
 ```
 
-**Resources**
+### Resources
 
 #
 
@@ -73,7 +73,7 @@
 
 ```
 
-** Inspiration: Design PDF**
+### Inspiration: Design PDF
 
 ```pascal
 
@@ -81,6 +81,8 @@
 
 
 ```
+
+#
 
 ```pascal 
 #
