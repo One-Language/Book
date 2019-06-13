@@ -1,6 +1,12 @@
 # import bash 
 #!/bin/bash
 
+# -
+# Shell Scripiting(Bash): Função para mostrar qual seu IP na internet
+# @use: &  -install -version ( 1- ECHO BUILD  ) -r ( running ) -h ( help ) reference ( 2- ECHO BUILD  ) 
+# -
+
+
 # def etBOOK, bash 
 etBOOK() {
   # ECHO BUILD 
@@ -130,33 +136,6 @@ INSTALL() {
   etBOOK
 }
 
-  # NEW RESOURCES :
-  # --------------------------------------------------------------------------------------------------------------------
-
-  # - // OPTION1() {   #  Python
-  # - // Python
-  # - // etBOOK
-  # - // }
-  
-  # - // OPTION2() {  #  Python
-  # - // Nodejs
-  # - // etBOOK
-  # - // }
-  
-  # - // OPTION3() {  #  Python
-  # - // Figlet
-  # - // etBOOK
-  # - // }
-  
-  # - // OPTION4() {  #  Python
-  # - // Toilet
-  # - // etBOOK
-  # - // }
-  
-  # - // OPTION5() {  #  Python
-  # - // Dcop 
-  # - // etBOOK
-  # - // }
  
 # def etBOOK, VERSION, LICENSE, REFERENCE, INSTALL, bash ( _main_ ): 
 etBOOK
