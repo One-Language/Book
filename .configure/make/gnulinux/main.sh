@@ -65,13 +65,10 @@ etBOOK() {
   echo "& et" # ouput: new line
   read options
   case $options in
-   # //  1) OPTION1 ;;
-   # //  2) OPTION2 ;;
      1) INSTALL ;;
      2) LICENSE ;;
      3) VERSION ;;
      4) REFERENCE ;;
-   # // 5) OPTION6 ;;
      5) exit ;;
      *) "option no find." ; echo ; etBOOK ;;
     esac
