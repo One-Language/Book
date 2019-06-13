@@ -77,6 +77,9 @@
 
 https://github.com/koalaman/shellcheck/wiki/SC2162
 
+https://stackabuse.com/download-files-with-python/
+
+
 http://linuxcommand.org/lc3_wss0120.php
 
 https://likegeeks.com/linux-bash-scripting-awesome-guide-part3/
