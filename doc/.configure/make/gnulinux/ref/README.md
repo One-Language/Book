@@ -166,11 +166,32 @@
 
 # READ : https://askubuntu.com/questions/484718/how-to-make-a-file-executable
 
-# READ :
+# READ : https://unix.stackexchange.com/questions/415268/echo-a-string-with-a-string-inside-of-it
+
+# READ : https://linuxize.com/post/bash-concatenate-strings/
+
+# READ : https://www.computerworld.com/article/2598087/how-to-use-aliases-in-linux-shell-commands.html
+
+# READ : https://askubuntu.com/questions/537984/difference-between-echo-e-string-and-echo-string
+
+# READ : https://www.cyberciti.biz/faq/bash-localization-with-echo-command/
+
+# READ : https://www.linuxquestions.org/questions/linux-software-2/echo-multiple-lines-of-text-312048/
+
+# READ : https://linux.die.net/abs-guide/aliases.html
+
+# READ : https://stackoverflow.com/questions/11403135/how-do-you-use-chmod-inside-a-shell-script
+
+# READ : http://linuxcommand.org/lc3_lts0090.php
+
 
 
 # INFORMATION
 
 .  /etc/bash.bashrc  INTERNAL / alias internal commands
+
+. sh, ksh ou csh -> #!/bin/sh  , #!/bin/ksh , #!/bin/bash ,  #!/bin/csh
+
+
 
 ```
