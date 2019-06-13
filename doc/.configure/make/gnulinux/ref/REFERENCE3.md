@@ -147,11 +147,10 @@
 <br>
 <br>
 
-**6.** Resources: Echo ( Setting_up_permissions_on_a_script ) 
+**6.** Resources: Steps - TUTORIAL ( Setting Up Permissions On A Script ) 
 
 ```pascal
 
-# STEPS: TUTORIAL - Setting Up Permissions On A Script 
 
 # READ : https://bash.cyberciti.biz/guide/Setting_up_permissions_on_a_script
 
@@ -169,9 +168,9 @@
 
 #
 
-```pascal 
+**7.** Resources: Steps - TUTORIAL ( Commandline Arguments  ) 
 
-# STEPS: TUTORIAL - Commandline Arguments
+```pascal 
 
 # READ : https://tecadmin.net/pass-command-line-arguments-in-shell-script/
 
@@ -193,9 +192,10 @@
 
 #
 
+**8.** Resources: Steps - TUTORIAL ( Commandline Custom  ) 
+
 ```pascal 
 
-# STEPS: TUTORIAL - Commandline Arguments ( Custom )
 
 # READ : https://stackoverflow.com/questions/4651437/how-do-i-set-a-variable-to-the-output-of-a-command-in-bash
 
