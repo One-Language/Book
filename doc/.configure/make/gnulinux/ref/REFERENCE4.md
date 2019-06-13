@@ -1,24 +1,17 @@
 #### NO IMPORT, READ!
 
- "READ BEFORE CLICK INSTALL.SH"
+READ BEFORE CLICK INSTALL.SH
 
-#### if select @OPTION figlet
-
-```markdown
-
-# > $ figlet & BOOK
 
 ```
-
-#### if select @OPTION toilet
-
-```markdown
-# > $ toilet & BOOK
+#### https://kb.iu.edu/d/acge
+#### https://www.guru99.com/file-permissions.html
+#### https://ubuntuforums.org/showthread.php?t=2260192
 ```
 
-#### if select @OPTION figlet, toilet
 
-#### REQUIRE AND USE 
+#### REQUIRE AND USE : if select @OPTION figlet, toilet
+
 
 ```
 # > $ sudo apt-get update
@@ -35,8 +28,18 @@
 ```
 # > $ figlist -h 
 ```
+
+#### if select @OPTION figlet
+
+```markdown
+
+# > $ figlet & BOOK
+
 ```
-#### https://kb.iu.edu/d/acge
-#### https://www.guru99.com/file-permissions.html
-#### https://ubuntuforums.org/showthread.php?t=2260192
+
+#### if select @OPTION toilet
+
+```markdown
+# > $ toilet & BOOK
 ```
+
