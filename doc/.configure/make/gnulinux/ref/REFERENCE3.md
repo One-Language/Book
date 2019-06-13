@@ -15,32 +15,47 @@
 **2.** Errors
 
 ```pascal
+
 #### https://kb.iu.edu/d/acge
+
 #### https://www.guru99.com/file-permissions.html
+
 #### https://ubuntuforums.org/showthread.php?t=2260192
+
 ```
 
 **3.** Custom
 
 ```pascal
+
 #### https://
+
 #### https://
+
 ```
 
 **4.** Reference
 
 ```pascal
+
 #### https://
+
 #### https://
+
 ```
 
 **5.** Reference
 
 ```pascal
+
 # READ : https://www.cyberciti.biz/faq/how-to-write-output-to-terminal/
+
 # READ : https://unix.stackexchange.com/questions/37260/change-font-in-echo-command
+
 # READ : http://zsh.sourceforge.net/Doc/Release/User-Contributions.html#index-colors
+
 # READ : https://www.linux.com/learn/intro-to-linux/2018/1/how-change-your-linux-console-fonts
+
 # READ : https://askubuntu.com/questions/97469/what-is-the-default-debian-ubuntu-console-tty-font-called
 
 ```
@@ -50,17 +65,26 @@
 ```pascal
 
 # READ : https://linuxhint.com/variables-bash-programming
-# READ : https://linuxhint.com/bash_command_output_variable
-# READ : https://www.daveeddy.com/2010/09/20/import-source-files-in-bash
-# READ : https://tecadmin.net/pass-command-line-arguments-in-shell-script
-# READ : https://www.macs.hw.ac.uk/~hwloidl/docs/abs-guide/sample-bashrc.html
-# READ : https://stackoverflow.com/questions/25036555/how-to-print-in-shell-script
-# READ : https://stackoverflow.com/questions/7131670/make-a-bash-alias-that-takes-a-parameter
-# READ : http://talby.rcs.manchester.ac.uk/~ri/_course_latex_intro/_bibtex/index.bibtexandkile
-# READ : https://stackoverflow.com/questions/31929621/echo-multiple-variables-in-same-line-bash
-# READ : https://unix.stackexchange.com/questions/88452/concatenating-two-variables-with-an-underscore
-# READ : https://www.linuxquestions.org/questions/linux-general-1/shell-script-displaying-multiple-variables-855232/
 
+# READ : https://linuxhint.com/bash_command_output_variable
+
+# READ : https://www.daveeddy.com/2010/09/20/import-source-files-in-bash
+
+# READ : https://tecadmin.net/pass-command-line-arguments-in-shell-script
+
+# READ : https://www.macs.hw.ac.uk/~hwloidl/docs/abs-guide/sample-bashrc.html
+
+# READ : https://stackoverflow.com/questions/25036555/how-to-print-in-shell-script
+
+# READ : https://stackoverflow.com/questions/7131670/make-a-bash-alias-that-takes-a-parameter
+
+# READ : http://talby.rcs.manchester.ac.uk/~ri/_course_latex_intro/_bibtex/index.bibtexandkile
+
+# READ : https://stackoverflow.com/questions/31929621/echo-multiple-variables-in-same-line-bash
+
+# READ : https://unix.stackexchange.com/questions/88452/concatenating-two-variables-with-an-underscore
+
+# READ : https://www.linuxquestions.org/questions/linux-general-1/shell-script-displaying-multiple-variables-855232/
 
 ```
 
@@ -70,15 +94,20 @@
 ```pascal
 
 # READ : http://progopedia.com/language/factor/
+
 # READ : http://progopedia.com/language/forth/
+
 # READ : http://progopedia.com/language/smalltalk/
+
 # READ : https://andreaferretti.github.io/factor-tutorial/
+
 # READ : https://en.wikipedia.org/wiki/Factor_(programming_language)
+
 # READ : https://insights.dice.com/2017/08/10/5-programming-languages-die/
+
 # READ : https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/New_in_JavaScript/1.1
+
 # READ : http://factor-language.blogspot.com/2007/08/smalltalk-is-dying.html
-
-
 
 ```
 
@@ -238,7 +267,10 @@
 
 # READ : https://stackoverflow.com/questions/10823635/how-to-include-file-in-a-bash-shell-script
 
+```
 
+
+```pascal 
 PT-BR
 # READ : https://terminalroot.com.br/2013/07/shell-scripitingbash-funcao-para.html
 # READ : https://imasters.com.br/desenvolvimento/bash-for-loop-primeiro-passo-na-automacao-no-linux
@@ -250,6 +282,5 @@ PT-BR
 # READ : https://e-tinet.com/linux/programacao-shell-script/
 # READ : http://coral.ufsm.br/unitilince/index.php/2015-11-13-10-48-41/178-criando-comandos-personalizados-do-terminal-bash-do-linux
 
-
-
 ```
+
