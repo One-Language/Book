@@ -1,3 +1,3 @@
 
 
-Readme.sh  and Warnings.sh "READ BEFORE CLICK INSTALL.SH"
+Main.sh "CLICK Main.SH"
