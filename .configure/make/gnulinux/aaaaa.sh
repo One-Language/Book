@@ -61,14 +61,7 @@ etBOOK() {
     esac
 }
  
-    # // OPTION1() {
-    # //
-    # // }
-    # // OPTION2() {
-    # // python
-    # // etBOOK
-    # // }
- 
+
 VERSION() {
 # COMMAND VERSION 
 # --------------------------------------------------------------------------------------------------------------------
@@ -133,14 +126,33 @@ INSTALL() {
   etBOOK
 }
 
-  # // OPTION4() {
-  # // figlet
-  # // toilet
-  # // etBOOK
-  # // }
-  # // OPTION5() {
-  # // dcop  
-  # // etBOOK
-  # // }
+  # NEW RESOURCES :
+  # --------------------------------------------------------------------------------------------------------------------
+
+  # - // OPTION1() {   #  Python
+  # - // Python
+  # - // etBOOK
+  # - // }
+  
+  # - // OPTION2() {  #  Python
+  # - // Nodejs
+  # - // etBOOK
+  # - // }
+  
+  # - // OPTION3() {  #  Python
+  # - // Figlet
+  # - // etBOOK
+  # - // }
+  
+  # - // OPTION4() {  #  Python
+  # - // Toilet
+  # - // etBOOK
+  # - // }
+  
+  # - // OPTION5() {  #  Python
+  # - // Dcop 
+  # - // etBOOK
+  # - // }
+ 
 
 etBOOK
