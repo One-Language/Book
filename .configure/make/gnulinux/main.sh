@@ -1,5 +1,5 @@
-
-#!/bin/bash # import bash 
+# import bash 
+#!/bin/bash 
 
 # -
 # - Author:  @contribution
