@@ -13,19 +13,19 @@ READ BEFORE CLICK INSTALL.SH
 #### REQUIRE AND USE : if select @OPTION figlet, toilet
 
 
-```
+```markdown
 # > $ sudo apt-get update
 ```
 
-```
+```markdown
 # > $ sudo apt-get install toilet figlet
 ```
 
-```
+```markdown
 # > $ figlet & BOOK
 ```
 
-```
+```markdown
 # > $ figlist -h 
 ```
 
