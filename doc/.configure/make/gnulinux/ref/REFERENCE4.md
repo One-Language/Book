@@ -8,7 +8,7 @@
 
 ```
 
-# if select @OPTION figlet
+#### if select @OPTION figlet
 
 ```markdown
 # > $ toilet & BOOK
