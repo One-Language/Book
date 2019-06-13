@@ -1,5 +1,18 @@
 
 #### NO IMPORT, READ!
+
+1. Create a symbolic link to etBook inside a folder which is on your system PATH
+
+```sh 
+
+sudo ln -s <where you extracted the etook archive>/bin/etbook /usr/local/bin/etbook
+
+``` 
+
+2. Add & etBook bin folder to your system PATH environment variable
+
+3. Invoke the julia executable by using its full path, as in /bin/julia
+
  "READ BEFORE CLICK INSTALL.SH"
 
 <br>
