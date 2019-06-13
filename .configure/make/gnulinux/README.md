@@ -72,9 +72,9 @@
 
 -->
 
-gnulinux. Main.sh "CLICK Main.SH"
+Gnulinux - Shell Scripting ( Repl). Main.sh "Download, Extract, Unpack zip file and Generate file book.pdf from main.tex"
 
-Screenshoot, snapshot ...
+### Screenshoot, snapshot ...
 
 <a href="https://repl.it/@pglapds/et-book">
   
