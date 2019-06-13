@@ -2,10 +2,10 @@
 #!/bin/bash
 
 # -
-# Shell Scripiting(Bash): Função para mostrar qual seu IP na internet
-# @use: &  -install -version ( 1- ECHO BUILD  ) -r ( running ) -h ( help ) reference ( 2- ECHO BUILD  ) 
+# - Shell Scripiting(Bash): Função para mostrar qual seu IP na internet
+# - @use: & OPTION1 , OPTION2, OPTION3, OPTION4 ...   
+# - @use: & -install -version ( 1- ECHO BUILD  ) -r ( running ) -h ( help ) reference ( 2- ECHO BUILD  ) 
 # -
-
 
 # def etBOOK, bash 
 etBOOK() {
