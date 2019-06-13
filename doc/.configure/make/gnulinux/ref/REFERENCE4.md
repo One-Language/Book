@@ -15,9 +15,13 @@
 # > $ sudo apt-get update
 ```
 
+#### REQUIRE AND USE : if select @OPTION figlet, toilet
+
 ```markdown
 # > $ sudo apt-get install toilet figlet
 ```
+
+#### if select @OPTION figlet
 
 ```markdown
 # > $ figlet & BOOK
@@ -27,17 +31,13 @@
 # > $ figlist -h 
 ```
 
-#### if select @OPTION figlet
-
-```markdown
-
-# > $ figlet & BOOK
-
-```
-
 #### if select @OPTION toilet
 
 ```markdown
 # > $ toilet & BOOK
 ```
+
+
+
+
 
