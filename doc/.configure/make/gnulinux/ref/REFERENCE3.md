@@ -179,11 +179,9 @@
 
 # READ : https://askubuntu.com/questions/537984/difference-between-echo-e-string-and-echo-string
 
-# READ : 
-# https://www.cyberciti.biz/faq/bash-localization-with-echo-command/
+# READ : https://www.cyberciti.biz/faq/bash-localization-with-echo-command/
 
-# READ : 
-# https://www.linuxquestions.org/questions/linux-software-2/echo-multiple-lines-of-text-312048/
+# READ : https://www.linuxquestions.org/questions/linux-software-2/echo-multiple-lines-of-text-312048/
 
 # READ : https://linux.die.net/abs-guide/aliases.html
 
@@ -203,20 +201,15 @@
 
 # READ : https://www.diolinux.com.br/2017/03/criando-comandos-personalizados-do-terminal-linux.html
 
-# READ : 
-https://www.vivaolinux.com.br/topico/Shell-Script/E-Possivel-criar-um-comando
+# READ : https://www.vivaolinux.com.br/topico/Shell-Script/E-Possivel-criar-um-comando
 
-# READ : 
-https://www.vivaolinux.com.br/dica/Criando-um-comando
+# READ : https://www.vivaolinux.com.br/dica/Criando-um-comando
 
-# READ : 
-http://coral.ufsm.br/unitilince/index.php/noticias/193-saiba-como-criar-seus-proprios-comandos-no-linux-usando-alias
+# READ : http://coral.ufsm.br/unitilince/index.php/noticias/193-saiba-como-criar-seus-proprios-comandos-no-linux-usando-alias
 
-# READ : 
-https://e-tinet.com/linux/programacao-shell-script/
+# READ : https://e-tinet.com/linux/programacao-shell-script/
 
-# READ : 
-http://coral.ufsm.br/unitilince/index.php/2015-11-13-10-48-41/178-criando-comandos-personalizados-do-terminal-bash-do-linux
+# READ : http://coral.ufsm.br/unitilince/index.php/2015-11-13-10-48-41/178-criando-comandos-personalizados-do-terminal-bash-do-linux
 
 # READ : 
 # INFORMATION
