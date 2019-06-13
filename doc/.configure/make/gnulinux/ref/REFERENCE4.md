@@ -1,14 +1,6 @@
 
-#### 1. ( NO IMPORT, READ! READ BEFORE CLICK INSTALL.SH ) 
-
-2. ( REQUIRE AND USE, BEFORE  )  **`` $ sudo apt-get update ``** 
-
-
-```markdown
-#### https://kb.iu.edu/d/acge
-#### https://www.guru99.com/file-permissions.html
-#### https://ubuntuforums.org/showthread.php?t=2260192
-```
+**1. ( NO IMPORT, READ! READ BEFORE CLICK INSTALL.SH )** 
+**2.** ( REQUIRE AND USE, BEFORE  )  **`` $ sudo apt-get update ``** 
 
 #### 3. ( REQUIRE AND USE : if select @OPTION figlet, toilet ) 
 
