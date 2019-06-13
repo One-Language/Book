@@ -74,6 +74,12 @@
 
 Gnulinux - Shell Scripting ( Repl). Main.sh "Download, Extract, Unpack zip file and Generate file book.pdf from main.tex"
 
+1. Save the file on your Desktop as &Book.desktop
+
+2. Download 
+
+3. 
+
 ### Screenshoot, snapshot ...
 
 <a href="https://repl.it/@pglapds/et-book">
