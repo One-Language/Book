@@ -96,6 +96,8 @@ https://stackoverflow.com/questions/192249/how-do-i-parse-command-line-arguments
 
 https://linuxhint.com/30_bash_script_examples/#t7
 
+https://stackoverflow.com/questions/22676/how-do-i-download-a-file-over-http-using-python
+
 https://stackoverflow.com/questions/16828035/linux-command-to-check-if-a-shell-script-is-running-or-not
 
 https://www.howtogeek.com/287014/how-to-create-and-use-symbolic-links-aka-symlinks-on-linux/
@@ -105,6 +107,22 @@ https://bash.cyberciti.biz/guide/A_progress_bar_(gauge_box)
 https://github.com/nachoparker/progress_bar.sh
 
 https://ownyourbits.com/2017/07/16/a-progress-bar-for-the-shell/
+
+https://www.codementor.io/aviaryan/downloading-files-from-urls-in-python-77q3bs0un
+
+https://realpython.com/command-line-interfaces-python-argparse/ 
+
+https://www.pythoncentral.io/execute-python-script-file-shell/
+
+https://www.tutorialspoint.com/python/python_command_line_arguments.htm
+
+https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df
+
+https://stackoverflow.com/questions/22676/how-do-i-download-a-file-over-http-using-python
+
+https://docs.python.org/3/library/ftplib.html
+
+https://stackoverflow.com/questions/11573817/how-to-download-a-file-via-ftp-with-python-ftplib
 
 
 License
