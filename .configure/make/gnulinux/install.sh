@@ -1,5 +1,7 @@
-# import bash 
 #!/bin/bash 
+# import bash 
+# Copyright 2019 @pglapds, & Book All rights reserved
+
 
 # -
 # - Author:  @contribution
@@ -26,11 +28,10 @@ etBOOK() {
   echo "& Book!" # ouput: new line: Sample in browser Javascript : console.log("& Book!")
   echo "-" # ouput: new line
   echo # ouput: new line
-  echo "Options:"
   echo # ouput: new line
   echo # ouput: new line
   echo # ouput: new line
-  echo OPTION 1 - INSTALL WITH Shell Script # ouput: new line
+  echo OPTION 1 - INSTALL WITH SHELL SCRIPT # ouput: new line
   # read OPTION1
   echo OPTION 2 - SHOW VERSION # ouput: new line
   # ead OPTION 2
@@ -41,8 +42,8 @@ etBOOK() {
   echo # ouput: new line
   echo # ouput: new line
   echo # ouput: new line
-  echo # ouput: new line
-  echo "All Arguments are: -r (running) , -h (help) , -v (version) , reference (readme)" # ouput: new line
+  echo # ouput: new line (readme-1) , (readme-2) , (readme-3)
+  echo "All Arguments are: -r (running), VERSION, REFERENCE, LICENSE" # ouput: new line
   echo # ouput: new line
   echo # ouput: new line
   echo # ouput: new line
@@ -56,7 +57,7 @@ etBOOK() {
   echo # ouput: new line
   echo # ouput: new line
   echo "& et" # ouput: new line
-  read options
+  read -r options
   case $options in
      1) INSTALL ;;
      2) LICENSE ;;
@@ -83,21 +84,20 @@ INSTALL() {
    URL=https://codeload.github.com/ET-Lang/book/zip/master
    
    # start WGET and unzip, rename, delete zip and cd zip 
-   #installSHOW= $( wget $URL -O book.zip; unzip book.zip; rm book.zip -o $LOGFILE ) 
    wget $URL -O book.zip; unzip book.zip; rm book.zip -o $LOGFILE 
    
-   #if [ $installSHOW -eq 200 ]; then
-     #    echo OK
-      #   else
-      #   echo ERROR
-   # fi
+   # installSHOW= $( wget $URL -O book.zip; unzip book.zip; rm book.zip -o $LOGFILE ) 
+   # if [ $installSHOW -eq 200 ]; then
+      # echo OK
+      # else
+      # echo ERROR
+      # fi
    
    # start pdflatex and generate PDF
    pdflatex main.tex
    
-   alias generatePDF='echo $var5'
-   
-   
+   # alias generatePDF='echo $var5'
+  
   etBOOK
 }
 
