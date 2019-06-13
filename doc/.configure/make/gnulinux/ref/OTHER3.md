@@ -1,10 +1,8 @@
 ```pascal
 
-# READ : 
-# INFORMATION
-
-.  /etc/bash.bashrc  INTERNAL / alias internal commands
-. sh, ksh ou csh -> #!/bin/sh  , #!/bin/ksh , #!/bin/bash ,  #!/bin/csh
+# READ ME! INFORMATION:
+     .  /etc/bash.bashrc  INTERNAL / alias internal commands
+     . sh, ksh ou csh -> #!/bin/sh  , #!/bin/ksh , #!/bin/bash ,  #!/bin/csh
 
 ```
 #
@@ -29,6 +27,7 @@
 #
 ```pascal 
 #
+# READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH
 #
 # @Declare Shell: #!/bin/sh , #!/bin/csh , #!/bin/bash 
 # @BASE https://aurelio.net/shell/canivete/
@@ -45,7 +44,9 @@
 #
 
 ```pascal
-
+#
+# READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH
+#
 # READ : http://livescript.net/
 # READ : http://progopedia.com/language/factor/
 # READ : http://progopedia.com/language/forth/
@@ -56,10 +57,12 @@
 # READ : http://factor-language.blogspot.com/2007/08/smalltalk-is-dying.html
 # READ : https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/New_in_JavaScript/1.1
 # READ : https://softwareengineering.stackexchange.com/questions/167431/status-of-stack-based-languages
+#
+#
 
 ```
 
-**2.** Resources
+**Resources**
 
 #
 
@@ -70,7 +73,7 @@
 
 ```
 
-**3.** Inspiration: Design PDF
+** Inspiration: Design PDF**
 
 ```pascal
 
@@ -80,7 +83,9 @@
 ```
 
 ```pascal 
-
+#
+# READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH
+#
 # @Declare Shell: #!/bin/sh , #!/bin/csh , #!/bin/bash 
 # @BASE https://aurelio.net/shell/canivete/
 # @BASE http://www.devin.com.br/shell_script/
@@ -88,9 +93,9 @@
 # @BASE https://www.vivaolinux.com.br/topico/Shell-Script/Shell-script-usando-o-wget
 
 ```pascal
-
-PT-BR
-
+#
+# READ ME! PT-BR
+#
 # READ : https://terminalroot.com.br/2013/07/shell-scripitingbash-funcao-para.html
 # READ : https://imasters.com.br/desenvolvimento/bash-for-loop-primeiro-passo-na-automacao-no-linux
 # READ : http://www.dltec.com.br/blog/linux/uma-introducao-ao-uso-do-awk-no-linux/
@@ -100,6 +105,7 @@ PT-BR
 # READ : http://coral.ufsm.br/unitilince/index.php/noticias/193-saiba-como-criar-seus-proprios-comandos-no-linux-usando-alias
 # READ : https://e-tinet.com/linux/programacao-shell-script/
 # READ : http://coral.ufsm.br/unitilince/index.php/2015-11-13-10-48-41/178-criando-comandos-personalizados-do-terminal-bash-do-linux
-
+#
+#
 
 ```
