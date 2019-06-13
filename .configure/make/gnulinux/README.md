@@ -73,3 +73,12 @@
 -->
 
 gnulinux. Main.sh "CLICK Main.SH"
+
+Screenshoot, snapshot ...
+
+<a href="https://repl.it/@pglapds/et-book">
+  
+![Screenshoot 1](screenshoot/screenshoot.png)
+
+</a>
+
