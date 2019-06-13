@@ -34,11 +34,14 @@ echo # ouput: new line
 # -
 # - start chmod +x main.sh 
 # -
-$( chmod +x main.sh )
+echo $( chmod +x main.sh )
 
 # -
 # - start export PATH=$PATH:/home/@username/etBook
 # -
-$( export PATH=$PATH:/home/@username/etBook )
+echo $( export PATH=$PATH:/home/@username/etBook )
 
-
+# -
+# - start check script running PATH=$PATH:/home/@username/etBook
+# -
+echo $( ps aux | grep "main.sh" ) 
