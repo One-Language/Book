@@ -16,27 +16,30 @@
 #
 
 # -
-# @OPTION 1 Nodejs 
 # -
-# & OPTION1 
-# & OPTION1 -h 
-# & OPTION1 -r
-
+# -
+# @OPTION 1 Nodejs 
+# - & OPTION1 
+# - & OPTION1 -h 
+# - & OPTION1 -r
+# -
+# -
 # -
 # @OPTION 2 Python 
+# - & OPTION2
+# - & OPTION2 -h 
+# - & OPTION2 -r
 # -
-# & OPTION2
-# & OPTION2 -h 
-# & OPTION2 -r
-
 # -
-# & VERSION   ( 1- ECHO BUILD  )
-# & LICENSE   ( 2- ECHO BUILD  )
-# & REFERENCE ( 3- ECHO BUILD  )
 # -
-# & -install is INSTALL 
-# & -h is HELP 
-# & -r is RUNNING
+# - & -install is INSTALL 
+# - & -h is HELP 
+# - & -r is RUNNING
+# -
+# -
+# - & VERSION   ( 1- ECHO BUILD  )
+# - & LICENSE   ( 2- ECHO BUILD  )
+# - & REFERENCE ( 3- ECHO BUILD  )
 # -
 
 # -
