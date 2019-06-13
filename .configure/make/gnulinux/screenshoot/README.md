@@ -78,7 +78,7 @@ Gnulinux - Shell Scripting ( Repl). Main.sh "Download, Extract, Unpack zip file 
 
 <a href="https://repl.it/@pglapds/et-book">
   
-![Screenshoot 1](screenshoot/screenshoot.png)
+![Screenshoot 1](screenshoot.png)
 
 </a>
 
