@@ -1,22 +1,37 @@
 #!/bin/bash 
+
 # -
+# - 
 # import bash 
+# -
+# - 
+
+# -
 # -
 # - Author:  @contribution
 # - License: & Book 2019 , © https://github.com/ET-Lang/book/ 
 # - Copyright 2019 @pglapds, & Book All rights reserved
 # -
+# - 
+
 # -
+# - 
 # - Shell Scripiting(Bash): Installation Automatic Process
 # - @use: & OPTION1 , OPTION2, OPTION3, OPTION4 ...   
 # -
+# - 
+
 # -
+# - 
 # - Shell Scripiting(Bash): Installation Automatic Process
 # - @use: & -install -version ( 1- ECHO BUILD  ) -r ( running ) -h ( help ) reference ( 2- ECHO BUILD  ) 
 # -
+# -
 
-
-# def ( etBOOK ): bash 
+# ------------------------------ FUNCTION:  -----------------------------------
+# - 
+# - def ( etBOOK ): bash 
+# - 
 etBOOK() {
   # -
   # - 
@@ -38,11 +53,13 @@ etBOOK() {
   # read OPTION 2
   echo OPTION 4 - REFERENCE # ouput: SHOW REFERENCE new line
   # read OPTION 4
+  # echo OPTION 5 - INSTALL # ouput: SHOW REFERENCE new line
+  # read OPTION 5
   echo # ouput: new line
   echo # ouput: new line
   echo # ouput: new line
   echo # ouput: new line (readme-1) , (readme-2) , (readme-3)
-  echo "All Arguments are: -r (running), VERSION, REFERENCE, LICENSE" # ouput: new line
+  echo "All Arguments are: -r (running), VERSION, REFERENCE, LICENSE, INTERFACE" # ouput: new line
   echo # ouput: new line
   echo # ouput: new line
   echo # ouput: new line
@@ -66,9 +83,9 @@ etBOOK() {
      *) "option no find." ; echo ; etBOOK ;;
     esac
 }
-
+# ------------------------------ FUNCTION:  -----------------------------------
 # - 
-# def ( etBOOK ): INSTALL
+# - def ( etBOOK ): INSTALL
 # -
 INSTALL() {
    # - 
@@ -98,9 +115,9 @@ INSTALL() {
    # alias generatePDF='echo $var5'
    # etBOOK
 }
-
+# ------------------------------ FUNCTION:  -----------------------------------
 # - 
-# def ( etBOOK ): LICENSE 
+# - def ( etBOOK ): LICENSE 
 # - 
 LICENSE() {
    # - 
@@ -108,6 +125,11 @@ LICENSE() {
    # 3 - ECHO BUILD, COMMAND LICENSE 
    # - 
    # - 
+   # ouput: new line
+   echo
+   # ouput: new line
+   echo
+   # ouput: new line
    echo "Author @pglapds"
    # ouput: new line Author @pglapds
    echo "@url https://github.com/ET-Lang/book/"
@@ -128,14 +150,21 @@ LICENSE() {
    # ouput: new line SPECIFIC CONTRIBUTION : book/* 
    echo "@url https://github.com/ET-Lang/book/"  
    # ouput: new line @url https://github.com/ET-Lang/book/ 
-   echo # ouput: new line
+   # ouput: new line
+   echo
+   # ouput: new line
+   echo
+   # - 
+   # - ouput: new line
+   # - 
+   # - clear
    # - 
    # - etBOOK
    # - 
-}
-
+}  # - end.LICENSE - 
+# ------------------------------ FUNCTION:  -----------------------------------
 # - 
-# def ( etBOOK ): VERSION
+# - def ( etBOOK ): VERSION
 # - 
 VERSION() {
    # - 
@@ -143,6 +172,11 @@ VERSION() {
    # 4 - ECHO BUILD, COMMAND VERSION 
    # - 
    # - 
+   # ouput: new line
+   echo
+   # ouput: new line
+   echo
+   # ouput: new line
    echo "OS                   :  Gnulinux" 
    # ouput: new line"
    echo "License              :  Copyright, ET-STD, ET-BOOK ... " 
@@ -151,13 +185,21 @@ VERSION() {
    # ouput: new line
    echo "Version, Year, Date  :  2019 , Wednesday, June 12th 2019 @ 01:47:23 PM https://github.com/ET-Lang/book" 
    # ouput: new line
+   echo
+   # ouput: new line
+   echo
+   # - 
+   # - ouput: new line
+   # - 
+   # - clear
    # - 
    # - etBOOK
    # - 
-}
+}  # - end.VERSION - 
 
+# ------------------------------ FUNCTION:  -----------------------------------
 # - 
-# def ( etBOOK ): REFERENCE
+# - def ( etBOOK ): REFERENCE
 # - 
 REFERENCE() {
    # - 
@@ -165,6 +207,11 @@ REFERENCE() {
    # 5 - ECHO BUILD, COMMAND REFERENCE 
    # - 
    # - 
+   # ouput: new line
+   echo
+   # ouput: new line
+   echo
+   # ouput: new line
    echo "@reference: https://superuser.com/questions/1260038/font-size-in-shell-script"  
    # ouput: new line
    echo "@reference: https://www.cyberciti.biz/faq/create-large-colorful-text-banner-on-screen" 
@@ -177,18 +224,24 @@ REFERENCE() {
    # ouput: new line
    echo "@reference: https://it.toolbox.com/question/how-to-change-font-size-of-text-in-a-file-using-a-shell-script-071608" 
    # ouput: new line                                                                   
-   echo "@reference: https://unix.stackexchange.com/questions/398766/how-do-i-increase-the-font-size-of-the-centos-7-console"  
+   echo "@reference: https://unix.stackexchange.com/questions/398766/how-do-i-increase-the-font-size-of-the-centos-7-console"
    # ouput: new line        
    echo "@reference: https://unix.stackexchange.com/questions/77049/how-do-i-change-the-screen-font-size-when-using-a-virtual-console" 
    # ouput: new line
    echo "@reference: https://www.linuxquestions.org/questions/linux-newbie-8/can-i-increase-font-size-through-shell-scripts-4175502369" 
    # ouput: new line
+   echo
+   # ouput: new line
+   echo
+   # - 
+   # - ouput: new line
+   # - 
+   # - clear
    # - 
    # - etBOOK
    # - 
-}
-
+}  # - end.REFERENCE - 
 # - 
-# def ( etBOOK ): VERSION, LICENSE, REFERENCE, INSTALL bash in ( _main_ ): 
+# def ( etBOOK ): INTERFACE, VERSION, LICENSE, REFERENCE, INSTALL bash in ( _main_ ): 
 # - 
 etBOOK
