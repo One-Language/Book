@@ -125,9 +125,9 @@
 # $ lsb_release -a
 # $ hostnamectl
 # $ uname -r
-# $SHELL --version
+# $ SHELL --version
 # $ hostname 
-# clear 
+# $ clear 
 
 # ------------------------------ FUNCTION:  -----------------------------------
 # - 
