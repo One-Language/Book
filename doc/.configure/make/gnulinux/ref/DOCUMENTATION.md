@@ -1,3 +1,7 @@
+
+
+####  NO IMPORT, READ!
+
 ```pascal
 #
 #
@@ -47,6 +51,7 @@
 # NEW RESOURCES :
 # -
 
+#
 # NEW OPTION1 - INSTALL WITH Python  
 # - // OPTION1() {  
 # - // ' > $ python book.py'
@@ -55,7 +60,9 @@
 # - // etBOOK
 # - //
 # - // }
+#
 
+#
 #  NEW OPTION2 - INSTALL WITH Nodejs 
 # - // OPTION2() { 
 # - // ' > $ nodejs book.js'
@@ -70,6 +77,7 @@
 # - //
 # - // }
 
+#
 #  NEW OPTION 3 - SHOW WITH Figlet 
 # - // OPTION3() {  
 # - //
@@ -79,6 +87,7 @@
 # - //
 # - // }
 
+#
 # NEW OPTION 4 - SHOW WITH Toilet 
 # - // OPTION4() {  
 # - //
@@ -88,6 +97,7 @@
 # - //
 # - // }
 
+#
 # NEW OPTION 5 - SHOW WITH Dcop 
 # - // OPTION5() {  
 # - // if select @OPTION 5 - Dcop
@@ -95,4 +105,6 @@
 # - // Dcop 
 # - // etBOOK
 # - // }
+#
+
 ```
