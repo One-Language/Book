@@ -5,7 +5,7 @@
 
 **1.** Errors
 
-```markdown
+```pascal
 #### https://
 #### https://
 #### https://
@@ -58,7 +58,7 @@
 
 **2.** Errors
 
-```markdown
+```pascal
 #### https://kb.iu.edu/d/acge
 #### https://www.guru99.com/file-permissions.html
 #### https://ubuntuforums.org/showthread.php?t=2260192
@@ -66,7 +66,7 @@
 
 **3.** Custom
 
-```markdown
+```pascal
 #### https://
 #### https://
 #### https://
@@ -95,7 +95,7 @@
 
 **4.** Reference
 
-```markdown
+```pascal
 #### https://
 #### https://
 #### https://
@@ -148,7 +148,7 @@
 
 **5.** Reference
 
-```markdown
+```pascal
 #### https://
 #### https://
 #### https://
@@ -177,7 +177,7 @@
 
  **6.** Resources
 
-```markdown
+```pascal
 #### https://
 #### https://
 #### https://
