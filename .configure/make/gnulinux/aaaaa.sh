@@ -70,6 +70,8 @@ etBOOK() {
     # // }
  
 VERSION() {
+# COMMAND VERSION 
+# --------------------------------------------------------------------------------------------------------------------
    echo "OS                      :  Gnulinux" # ouput: new line
    echo "License                 :  Copyright, ET-STD, ET-BOOK ... " # ouput: new line
    echo "Reference               :  https://github.com/ET-Lang/book " # ouput: new line
@@ -78,6 +80,8 @@ VERSION() {
 }
  
 LICENSE() {
+# COMMAND LICENSE 
+# --------------------------------------------------------------------------------------------------------------------
    echo Author @pglapds # ouput: new line Author @pglapds
    echo @url https://github.com/ET-Lang/book/ # ouput: new line @url https://github.com/ET-Lang/book/
    echo # ouput: new line
@@ -93,6 +97,8 @@ LICENSE() {
 }
 
 REFERENCE() {
+# COMMAND REFERENCE 
+# --------------------------------------------------------------------------------------------------------------------
    echo @reference: https://superuser.com/questions/1260038/font-size-in-shell-script  # ouput: new line
    echo @reference: https://www.cyberciti.biz/faq/create-large-colorful-text-banner-on-screen # ouput: new line
    echo @reference: https://stackoverflow.com/questions/25036555/how-to-print-in-shell-script # ouput: new line
@@ -107,6 +113,8 @@ REFERENCE() {
 
 
 INSTALL() {
+# COMMAND INSTALL 
+# --------------------------------------------------------------------------------------------------------------------
 
    # wget log file
    LOGFILE=book.log
