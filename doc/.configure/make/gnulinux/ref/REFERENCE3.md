@@ -4,7 +4,7 @@
 
 
 
-1. **1.** Reference,  Errors
+1. **Reference,  Errors**
 
 ```pascal
 
@@ -22,7 +22,7 @@
 <br>
 
 
-2. **2.** Reference, Resources: Echo ( Define Font )
+2. **Reference, Resources: Echo ( Define Font )**
 
 ```pascal
 
@@ -48,7 +48,7 @@
 <br>
 
 
-3. **3.** Resources
+3. **Resources ( Define Variables )**
 
 ```pascal
 
@@ -58,20 +58,28 @@
 
 # READ : https://www.daveeddy.com/2010/09/20/import-source-files-in-bash
 
+# READ : https://www.cyberciti.biz/faq/how-to-write-output-to-terminal
+
 # READ : https://tecadmin.net/pass-command-line-arguments-in-shell-script
+
+# READ : https://superuser.com/questions/536496/capturing-the-console-output
 
 # READ : https://www.macs.hw.ac.uk/~hwloidl/docs/abs-guide/sample-bashrc.html
 
 # READ : https://stackoverflow.com/questions/25036555/how-to-print-in-shell-script
 
-
-# READ : http://talby.rcs.manchester.ac.uk/~ri/_course_latex_intro/_bibtex/index.bibtexandkile
+# READ : https://medium.com/tech-tajawal/writing-shell-scripts-the-beginners-guide-4778e2c4f609
 
 # READ : https://stackoverflow.com/questions/31929621/echo-multiple-variables-in-same-line-bash
 
 # READ : https://unix.stackexchange.com/questions/88452/concatenating-two-variables-with-an-underscore
 
+# READ : https://unix.stackexchange.com/questions/2690/how-to-redirect-output-of-wget-as-input-to-unzip
+
+# READ : https://askubuntu.com/questions/1066396/how-to-print-multiline-variables-in-side-by-side-columns-bash
+
 # READ : https://www.linuxquestions.org/questions/linux-general-1/shell-script-displaying-multiple-variables-855232/
+
 
 ```
 
@@ -183,7 +191,6 @@
 
 # READ : http://linux-training.be/funhtml/ch12.html
 
-
 # READ : http://linuxcommand.org/lc3_lts0090.php
 
 # READ : https://stackoverflow.com/questions/10823635/how-to-include-file-in-a-bash-shell-script
@@ -191,57 +198,3 @@
 ```
 
 #
-
-```pascal
-
-
-# READ : https://github.com/crcx/toka
-
-# READ : http://toka.s3.amazonaws.com/index.html
-
-# READ : https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9
-
-# READ : https://www.vbtutor.net/webrowser.htm
-
-# READ : https://news.ycombinator.com/item?id=9008472
-
-
-
-
-# READ : https://www.sciencedirect.com/science/article/pii/S0924013602002959
-
-# READ : https://www.sciencedirect.com/science/article/pii/030438009190114G
-
-
-
-# READ : https://unix.stackexchange.com/questions/88452/concatenating-two-variables-with-an-underscore
-
-# READ : https://www.linuxquestions.org/questions/linux-general-1/shell-script-displaying-multiple-variables-855232/
-
-
-
-
-
-
-
-# READ : https://www.linuxquestions.org/questions/linux-general-1/shell-script-displaying-multiple-variables-855232/
-
-# READ : https://unix.stackexchange.com/questions/88452/concatenating-two-variables-with-an-underscore
-
-# READ : https://askubuntu.com/questions/1066396/how-to-print-multiline-variables-in-side-by-side-columns-bash
-
-
-# READ : http://linuxcommand.org/lc3_wss0010.php
-
-# READ : https://medium.com/tech-tajawal/writing-shell-scripts-the-beginners-guide-4778e2c4f609
-
-# READ : https://superuser.com/questions/536496/capturing-the-console-output
-
-# READ : https://www.cyberciti.biz/faq/how-to-write-output-to-terminal/
-
-# READ : https://unix.stackexchange.com/questions/2690/how-to-redirect-output-of-wget-as-input-to-unzip
-
-
-
-
-```
