@@ -1,5 +1,7 @@
 #### NO IMPORT, READ!
 
+ "READ BEFORE CLICK INSTALL.SH"
+
 ```pascal
 
 # @OPTION 1 is figlet status soon 
