@@ -30,10 +30,14 @@ echo # ouput: new line
 echo # ouput: new line
 echo # ouput: new line
 
+# -
 # - start chmod +x main.sh 
+# -
 $( chmod +x main.sh )
 
+# -
 # - start export PATH=$PATH:/home/@username/etBook
+# -
 $( export PATH=$PATH:/home/@username/etBook )
 
 
