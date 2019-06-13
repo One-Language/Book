@@ -97,9 +97,9 @@
 # - if not, please see https://www.openhub.net/licenses/mslpl
 # -
 # - 
-# - Drupal is a registered trademark of Dries Buytaert.
+# - ET lang, Et Book is a registered trademark of Community Open Source.
 # -
-# - Drupal includes works under other copyright notices and distributed
+# - Book includes works under other copyright notices and distributed
 # - according to the terms of the GNU General Public License or a compatible
 # - license, including:
 # -
@@ -120,6 +120,14 @@
 # - 
 # - 
 # - 
+
+# $ cat /etc/os-release
+# $ lsb_release -a
+# $ hostnamectl
+# $ uname -r
+# $SHELL --version
+# $ hostname 
+# clear 
 
 # ------------------------------ FUNCTION:  -----------------------------------
 # - 
