@@ -1,7 +1,7 @@
-#### NO IMPORT, READ! READ BEFORE CLICK INSTALL.SH
 
+##### 1. ( NO IMPORT, READ! READ BEFORE CLICK INSTALL.SH ) 
+##### 2. `$ sudo apt-get update` ( before ) 
 
-##### `$ sudo apt-get update` ( before ) 
 
 ```markdown
 #### https://kb.iu.edu/d/acge
