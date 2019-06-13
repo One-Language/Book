@@ -35,3 +35,5 @@ $( chmod +x main.sh )
 
 # - start export PATH=$PATH:/home/@username/etBook
 $( export PATH=$PATH:/home/@username/etBook )
+
+
