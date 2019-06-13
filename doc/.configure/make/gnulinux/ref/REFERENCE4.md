@@ -9,12 +9,13 @@
 #### https://ubuntuforums.org/showthread.php?t=2260192
 ```
 
-
-#### REQUIRE AND USE : if select @OPTION figlet, toilet
+##### 3. ( REQUIRE AND USE : if select @OPTION figlet, toilet ) 
 
 ```markdown
 # > $ sudo apt-get install toilet figlet
 ```
+
+##### 4. ( REQUIRE AND USE : if select @OPTION figle ) 
 
 #### if select @OPTION figlet
 
@@ -26,7 +27,7 @@
 # > $ figlist -h 
 ```
 
-#### if select @OPTION toilet
+##### 5. ( REQUIRE AND USE :  if select @OPTION toilet ) 
 
 ```markdown
 # > $ toilet & BOOK
