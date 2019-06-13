@@ -1,3 +1,3 @@
 
 
-Main.sh "CLICK Main.SH"
+gnulinux. Main.sh "CLICK Main.SH"
