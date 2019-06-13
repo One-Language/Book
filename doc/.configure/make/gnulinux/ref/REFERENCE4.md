@@ -2,19 +2,21 @@
 
  "READ BEFORE CLICK INSTALL.SH"
 
+#### if select @OPTION figlet
+
 ```markdown
 
 # > $ figlet & BOOK
 
 ```
 
-#### if select @OPTION figlet
+#### if select @OPTION toilet
 
 ```markdown
 # > $ toilet & BOOK
 ```
 
- if select @OPTION 2 toilet
+#### if select @OPTION figlet, toilet
 
 #### REQUIRE AND USE 
 
