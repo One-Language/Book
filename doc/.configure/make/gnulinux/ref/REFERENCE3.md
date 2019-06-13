@@ -3,6 +3,232 @@
  "READ BEFORE CLICK INSTALL.SH"
 
 
+**1.** Errors
+
+```markdown
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+```
+
+**2.** Errors
+
+```markdown
+#### https://kb.iu.edu/d/acge
+#### https://www.guru99.com/file-permissions.html
+#### https://ubuntuforums.org/showthread.php?t=2260192
+```
+
+**3.** Custom
+
+```markdown
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+```
+
+**4.** Reference
+
+```markdown
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+```
+
+**5.** Reference
+
+```markdown
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+```
+
+ **6.** Resources
+
+```markdown
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+#### https://
+
+```
+
 ```pascal
 
 # READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH
