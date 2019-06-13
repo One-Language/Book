@@ -88,17 +88,24 @@ INSTALL() {
    # - 
    # start WGET with log-file
    LOGFILE=book.log
-   
+      
    # start WGET in url-download
    URL=https://codeload.github.com/ET-Lang/book/zip/master
    
    # start WGET and unzip, rename, delete zip and cd zip 
-   wget $URL -O book.zip; unzip book.zip; rm book.zip -o $LOGFILE
-  
+   installSHOW= $( wget $URL -O book.zip; unzip book.zip; rm book.zip -o $LOGFILE ) 
+   
+   if [ $installSHOW -eq 200 ]; then
+         echo OK
+         else
+         echo ERROR
+   fi
+   
    # start pdflatex and generate PDF
    pdflatex main.tex
    
    alias generatePDF='echo $var5'
+   
    
   etBOOK
 }
@@ -112,10 +119,10 @@ LICENSE() {
    # 3 - ECHO BUILD, COMMAND LICENSE 
    # - 
    # - 
-   echo Author @contribution # ouput: new line Author @pglapds
+   echo Author @pglapds # ouput: new line Author @pglapds
    echo @url https://github.com/ET-Lang/book/ # ouput: new line @url https://github.com/ET-Lang/book/
    echo # ouput: new line
-   echo CONTRIBUTOR @contribution # ouput: new line  CONTRIBUTOR @pglapds
+   echo CONTRIBUTOR @pglapds # ouput: new line  CONTRIBUTOR @pglapds
    echo @url https://github.com/ET-Lang/book/  # ouput: new line @url https://github.com/ET-Lang/book/
    echo # ouput: new line
    echo CONTRIBUTION # ouput: new line CONTRIBUTION
