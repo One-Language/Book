@@ -3,10 +3,10 @@
 Version=1.0
 Type=Application
 Terminal=false
-Icon[en_US]=/opt/lampp/htdocs/favicon.ico
+Icon[en_US]=/opt/etbook/doc/favicon.ico
 Name[en_US]=&Book
-Exec=gksu /opt/lampp/manager-linux-x64.run
+Exec=gksu /opt/etbook/src/etbook.run
 Comment[en_US]=Start & Book Control Panel
 Name=XAMPP
 Comment=Start & Book Control Panel
-Icon=/opt/lampp/htdocs/favicon.ico
+Icon=/opt/etbook/doc/favicon.ico
