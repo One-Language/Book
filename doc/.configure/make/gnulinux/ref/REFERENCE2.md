@@ -1,6 +1,8 @@
 
 
 ####  NO IMPORT, READ!
+ "READ BEFORE CLICK INSTALL.SH"
+
 
 ```pascal
 #
