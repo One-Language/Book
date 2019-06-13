@@ -76,8 +76,11 @@ etBOOK() {
  
 # def etBOOK, VERSION, bash 
 VERSION() {
-# COMMAND VERSION 
-# --------------------------------------------------------------------------------------------------------------------
+   # - 
+   # - 
+   # COMMAND VERSION 
+   # - 
+   # - 
    echo "OS                      :  Gnulinux" # ouput: new line
    echo "License                 :  Copyright, ET-STD, ET-BOOK ... " # ouput: new line
    echo "Reference               :  https://github.com/ET-Lang/book " # ouput: new line
@@ -87,8 +90,11 @@ VERSION() {
 
 # def etBOOK, VERSION, LICENSE, bash 
 LICENSE() {
-# COMMAND LICENSE 
-# --------------------------------------------------------------------------------------------------------------------
+   # - 
+   # - 
+   # COMMAND LICENSE 
+   # - 
+   # - 
    echo Author @pglapds # ouput: new line Author @pglapds
    echo @url https://github.com/ET-Lang/book/ # ouput: new line @url https://github.com/ET-Lang/book/
    echo # ouput: new line
@@ -105,8 +111,11 @@ LICENSE() {
 
 # def etBOOK, VERSION, LICENSE, REFERENCE, bash 
 REFERENCE() {
-# COMMAND REFERENCE 
-# --------------------------------------------------------------------------------------------------------------------
+   # - 
+   # - 
+   # COMMAND REFERENCE 
+   # - 
+   # - 
    echo @reference: https://superuser.com/questions/1260038/font-size-in-shell-script  # ouput: new line
    echo @reference: https://www.cyberciti.biz/faq/create-large-colorful-text-banner-on-screen # ouput: new line
    echo @reference: https://stackoverflow.com/questions/25036555/how-to-print-in-shell-script # ouput: new line
@@ -121,19 +130,21 @@ REFERENCE() {
 
 # def etBOOK, VERSION, LICENSE, REFERENCE, INSTALL, bash 
 INSTALL() {
-# COMMAND INSTALL 
-# --------------------------------------------------------------------------------------------------------------------
-
-   # wget log file
+   # - 
+   # - 
+   # COMMAND INSTALL 
+   # - 
+   # - 
+   # start WGET with log-file
    LOGFILE=book.log
    
-   # wget download url
+   # start WGET in url-download
    URL=https://codeload.github.com/ET-Lang/book/zip/master
    
-   # start wget and unzip, rename, delete zip and cd zip 
+   # start WGET and unzip, rename, delete zip and cd zip 
    wget $URL -O book.zip; unzip book.zip; rm book.zip -o $LOGFILE
-   
-   # start  pdflatex and generate PDF
+  
+   # start pdflatex and generate PDF
    pdflatex main.tex
    
    alias generatePDF='echo $var5'
