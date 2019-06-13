@@ -1,6 +1,6 @@
 
 ##### 1. ( NO IMPORT, READ! READ BEFORE CLICK INSTALL.SH ) 
-##### 2. `$ sudo apt-get update` ( before ) 
+##### 2. ( REQUIRE AND USE, BEFORE  )  `$ sudo apt-get update` 
 
 
 ```markdown
