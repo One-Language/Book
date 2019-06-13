@@ -1,5 +1,7 @@
+# import bash 
 #!/bin/bash
- 
+
+# def etBOOK, bash 
 etBOOK() {
   # ECHO BUILD 
   # --------------------------------------------------------------------------------------------------------------------
@@ -61,7 +63,7 @@ etBOOK() {
     esac
 }
  
-
+# def etBOOK, VERSION, bash 
 VERSION() {
 # COMMAND VERSION 
 # --------------------------------------------------------------------------------------------------------------------
@@ -71,7 +73,8 @@ VERSION() {
    echo "Version, Year, Date     :  2019 , Wednesday, June 12th 2019 @ 01:47:23 PM https://github.com/ET-Lang/book" # ouput: new line
    etBOOK
 }
- 
+
+# def etBOOK, VERSION, LICENSE, bash 
 LICENSE() {
 # COMMAND LICENSE 
 # --------------------------------------------------------------------------------------------------------------------
@@ -89,6 +92,7 @@ LICENSE() {
    etBOOK
 }
 
+# def etBOOK, VERSION, LICENSE, REFERENCE, bash 
 REFERENCE() {
 # COMMAND REFERENCE 
 # --------------------------------------------------------------------------------------------------------------------
@@ -104,7 +108,7 @@ REFERENCE() {
   etBOOK
 }
 
-
+# def etBOOK, VERSION, LICENSE, REFERENCE, INSTALL, bash 
 INSTALL() {
 # COMMAND INSTALL 
 # --------------------------------------------------------------------------------------------------------------------
@@ -154,5 +158,5 @@ INSTALL() {
   # - // etBOOK
   # - // }
  
-
+# def etBOOK, VERSION, LICENSE, REFERENCE, INSTALL, bash ( _main_ ): 
 etBOOK
