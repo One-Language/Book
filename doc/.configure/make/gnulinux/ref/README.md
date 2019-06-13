@@ -184,7 +184,11 @@
 
 # READ : http://linuxcommand.org/lc3_lts0090.php
 
+# READ : https://stackoverflow.com/questions/10823635/how-to-include-file-in-a-bash-shell-script
 
+# READ : https://www.daveeddy.com/2010/09/20/import-source-files-in-bash/
+
+# READ : 
 
 # INFORMATION
 
