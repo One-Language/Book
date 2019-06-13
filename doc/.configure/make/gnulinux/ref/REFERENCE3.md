@@ -9,51 +9,7 @@
 #### https://
 #### https://
 #### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
+
 ```
 
 **2.** Errors
@@ -69,28 +25,6 @@
 ```pascal
 #### https://
 #### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
 ```
 
 **4.** Reference
@@ -98,134 +32,61 @@
 ```pascal
 #### https://
 #### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
 ```
 
 **5.** Reference
 
 ```pascal
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
+# READ : https://www.cyberciti.biz/faq/how-to-write-output-to-terminal/
+# READ : https://unix.stackexchange.com/questions/37260/change-font-in-echo-command
+# READ : http://zsh.sourceforge.net/Doc/Release/User-Contributions.html#index-colors
+# READ : https://www.linux.com/learn/intro-to-linux/2018/1/how-change-your-linux-console-fonts
+# READ : https://askubuntu.com/questions/97469/what-is-the-default-debian-ubuntu-console-tty-font-called
+
 ```
 
  **6.** Resources
 
 ```pascal
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
-#### https://
+
+# READ : https://linuxhint.com/variables-bash-programming
+# READ : https://linuxhint.com/bash_command_output_variable
+# READ : https://www.daveeddy.com/2010/09/20/import-source-files-in-bash
+# READ : https://tecadmin.net/pass-command-line-arguments-in-shell-script
+# READ : https://www.macs.hw.ac.uk/~hwloidl/docs/abs-guide/sample-bashrc.html
+# READ : https://stackoverflow.com/questions/25036555/how-to-print-in-shell-script
+# READ : https://stackoverflow.com/questions/7131670/make-a-bash-alias-that-takes-a-parameter
+# READ : http://talby.rcs.manchester.ac.uk/~ri/_course_latex_intro/_bibtex/index.bibtexandkile
+# READ : https://stackoverflow.com/questions/31929621/echo-multiple-variables-in-same-line-bash
+# READ : https://unix.stackexchange.com/questions/88452/concatenating-two-variables-with-an-underscore
+# READ : https://www.linuxquestions.org/questions/linux-general-1/shell-script-displaying-multiple-variables-855232/
+
+
+```
+
+
+**3.** Inspiration: Syntax
+
+```pascal
+
+# READ : http://progopedia.com/language/factor/
+# READ : http://progopedia.com/language/forth/
+# READ : http://progopedia.com/language/smalltalk/
+# READ : https://andreaferretti.github.io/factor-tutorial/
+# READ : https://en.wikipedia.org/wiki/Factor_(programming_language)
+# READ : https://insights.dice.com/2017/08/10/5-programming-languages-die/
+# READ : https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/New_in_JavaScript/1.1
+# READ : http://factor-language.blogspot.com/2007/08/smalltalk-is-dying.html
+
+
+
+```
+
+**3.** Inspiration: Design PDF
+
+```pascal
+
+# READ : https://apps.dtic.mil/dtic/tr/fulltext/u2/a096556.pdf
 
 ```
 
@@ -233,23 +94,13 @@
 
 # READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH
 
-# READ : https://www.macs.hw.ac.uk/~hwloidl/docs/abs-guide/sample-bashrc.html
 
-# READ : https://stackoverflow.com/questions/7131670/make-a-bash-alias-that-takes-a-parameter
 
-# READ : https://tecadmin.net/pass-command-line-arguments-in-shell-script/
 
 # READ : https://stackoverflow.com/questions/4823468/comments-in-markdown
 
 # READ : https://www.fontsquirrel.com/fonts/list/classification/display
 
-# READ : https://en.wikipedia.org/wiki/Factor_(programming_language)
-
-# READ : http://progopedia.com/language/factor/
-
-# READ : http://progopedia.com/language/smalltalk/
-
-# READ : http://progopedia.com/language/forth/
 
 # READ : https://github.com/crcx/toka
 
@@ -259,33 +110,21 @@
 
 # READ : https://www.vbtutor.net/webrowser.htm
 
-# READ : https://insights.dice.com/2017/08/10/5-programming-languages-die/
 
-# READ : https://andreaferretti.github.io/factor-tutorial/
 
 # READ : https://softwareengineering.stackexchange.com/questions/167431/status-of-stack-based-languages
 
 # READ : https://news.ycombinator.com/item?id=9008472
 
-# READ : https://askubuntu.com/questions/97469/what-is-the-default-debian-ubuntu-console-tty-font-called
 
-# READ : https://www.cyberciti.biz/faq/how-to-write-output-to-terminal/
 
-# READ : https://unix.stackexchange.com/questions/37260/change-font-in-echo-command
-
-# READ : http://zsh.sourceforge.net/Doc/Release/User-Contributions.html#index-colors
 
 # READ : https://www.quora.com/Bash-shell-What-are-ways-to-increase-font-size-while-printing-from-unix
 
 # READ : https://askubuntu.com/questions/849081/how-to-change-the-font-size-of-just-the-prompt-in-bash
 
-# READ : https://www.linux.com/learn/intro-to-linux/2018/1/how-change-your-linux-console-fonts
 
-# READ : https://stackoverflow.com/questions/25036555/how-to-print-in-shell-script
 
-# READ : https://tecadmin.net/pass-command-line-arguments-in-shell-script/
-
-# READ : http://talby.rcs.manchester.ac.uk/~ri/_course_latex_intro/_bibtex/index.bibtexandkile.
 
 # READ : https://tex.stackexchange.com/questions/164760/strangely-abbreviated-russian-bibtex-entry-name
 
@@ -293,11 +132,10 @@
 
 # READ : https://www.sciencedirect.com/science/article/pii/030438009190114G
 
-# READ : https://apps.dtic.mil/dtic/tr/fulltext/u2/a096556.pdf
 
 # READ : http://livescript.net/
 
-# READ : https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/New_in_JavaScript/1.1
+
 
 # READ : https://stackoverflow.com/questions/31929621/echo-multiple-variables-in-same-line-bash
 
@@ -305,21 +143,7 @@
 
 # READ : https://www.linuxquestions.org/questions/linux-general-1/shell-script-displaying-multiple-variables-855232/
 
-# READ : https://linuxhint.com/variables-bash-programming/
 
-# READ : https://linuxhint.com/bash_command_output_variable/
-
-# READ : https://stackoverflow.com/questions/31929621/echo-multiple-variables-in-same-line-bash
-
-# READ : https://unix.stackexchange.com/questions/88452/concatenating-two-variables-with-an-underscore
-
-# READ : https://www.linuxquestions.org/questions/linux-general-1/shell-script-displaying-multiple-variables-855232/
-
-# READ : https://linuxhint.com/variables-bash-programming/
-
-# READ : https://linuxhint.com/bash_command_output_variable/
-
-# READ : http://factor-language.blogspot.com/2007/08/smalltalk-is-dying.html
 
 # READ : https://tecadmin.net/pass-command-line-arguments-in-shell-script/
 
@@ -357,9 +181,6 @@
 
 # READ : https://askubuntu.com/questions/1066396/how-to-print-multiline-variables-in-side-by-side-columns-bash
 
-# READ : https://linuxhint.com/bash_command_output_variable/
-
-# READ : https://linuxhint.com/variables-bash-programming/
 
 # READ : http://linuxcommand.org/lc3_wss0010.php
 
@@ -417,32 +238,17 @@
 
 # READ : https://stackoverflow.com/questions/10823635/how-to-include-file-in-a-bash-shell-script
 
-# READ : https://www.daveeddy.com/2010/09/20/import-source-files-in-bash/
 
+PT-BR
 # READ : https://terminalroot.com.br/2013/07/shell-scripitingbash-funcao-para.html
-
 # READ : https://imasters.com.br/desenvolvimento/bash-for-loop-primeiro-passo-na-automacao-no-linux
-
 # READ : http://www.dltec.com.br/blog/linux/uma-introducao-ao-uso-do-awk-no-linux/
-
 # READ : https://www.diolinux.com.br/2017/03/criando-comandos-personalizados-do-terminal-linux.html
-
 # READ : https://www.vivaolinux.com.br/topico/Shell-Script/E-Possivel-criar-um-comando
-
 # READ : https://www.vivaolinux.com.br/dica/Criando-um-comando
-
 # READ : http://coral.ufsm.br/unitilince/index.php/noticias/193-saiba-como-criar-seus-proprios-comandos-no-linux-usando-alias
-
 # READ : https://e-tinet.com/linux/programacao-shell-script/
-
 # READ : http://coral.ufsm.br/unitilince/index.php/2015-11-13-10-48-41/178-criando-comandos-personalizados-do-terminal-bash-do-linux
-
-# READ : 
-# INFORMATION
-
-.  /etc/bash.bashrc  INTERNAL / alias internal commands
-
-. sh, ksh ou csh -> #!/bin/sh  , #!/bin/ksh , #!/bin/bash ,  #!/bin/csh
 
 
 
