@@ -5,7 +5,9 @@
 # -
 # -
 
+# - 
 # - ABOUT: ABSTRACT
+# -
 # -
 # - Author:  @contribution
 # - License: & Book 2019 , © https://github.com/ET-Lang/book/ 
@@ -13,19 +15,20 @@
 # -
 # -
 # - Shell Scripiting(Bash): Installation Automatic Process
-# - @use: & OPTION1 , OPTION2, OPTION3, OPTION4 ...   
+# - @use: & OPTION1 , OPTION2, OPTION3, OPTION4, OPTION5 ...   
 # -
 # -
 # - 
 # - Shell Scripiting(Bash): Installation Automatic Process
-# - @use: & -install -version ( 1- ECHO BUILD  ) -r ( running ) -h ( help ) reference ( 2- ECHO BUILD  ) 
+# - @use: & -r ( running ) 1.INSTALL 2.LICENSE 3.VERSION 4.REFERENCE  
 # -
 # -
 # -
 
 # -
-# - ABOUT: LICENSE
-# - 
+# - ABOUT: LICENSE AND TERMS
+# -
+# -
 # - Microsoft Limited Public License (Ms-LPL) 
 # - All Book.sh code is Copyright 2019 by the original authors.
 # -
@@ -98,37 +101,45 @@
 # - if not, please see https://www.openhub.net/licenses/mslpl
 # -
 # - 
-# - ET lang, Et Book is a registered trademark of Community Open Source.
+# - 
+
 # -
+# - ABOUT: LICENSE AND CASES
+# -
+# -
+# - ET lang, Et Book is a registered trademark of Community Open Source.
 # - Book includes works under other copyright notices and distributed
 # - according to the terms of the GNU General Public License or a compatible
-# - license, including:
+# - license, including: 
 # -
-# -    Shell Scripting:  Nodejs, Python, Figlet, Toilet, Dcop, Wget, Sudo, Su ... 
+# - Shell Scripting:  Nodejs, Python, Figlet, Toilet, Dcop, Wget, Sudo, Su ... 
+# - Utilitys: figlet, dcop, sudo, su ...   
+# -
+# - Nodejs
+# - @packages: 
 # -    
-# -    Nodejs
-# -    @packages: 
-# -    
-# -    Python: 
-# -    @modules: urllib.request , urllib2 , urllib3, requests , webbrowser, argparse, getopt, 
-# -    @modules: shutil, click, PyInquirer, Markdown, Tkinter, Docopt, prompt, pprint, regex,  
-# -    @modules: wget, urllib,  sys, os, tempfile, logging,  division, absolute_import, print_function, 
-# -    @modules: unicode_literals, ziplib, re, sendgrid, six, ConfigStore, figlet_format, colorama, 
-# -    @modules: time, wraps, pycurl, ftplib, enchant, tqdm, 
+# - Python: 
+# - @modules: urllib.request , urllib2 , urllib3, requests , webbrowser, argparse, getopt, 
+# - @modules: shutil, click, PyInquirer, Markdown, Tkinter, Docopt, prompt, pprint, regex,  
+# - @modules: wget, urllib,  sys, os, tempfile, logging,  division, absolute_import, print_function, 
+# - @modules: unicode_literals, ziplib, re, sendgrid, six, ConfigStore, figlet_format, colorama, 
+# - @modules: time, wraps, pycurl, ftplib, enchant, tqdm, http, httplib ... 
 # -   
 # - 
-# -    Utilitys: figlet, dcop, sudo, su ... 
+# -  
 # - 
 # - 
 # - 
 
-# $ cat /etc/os-release
-# $ lsb_release -a
-# $ hostnamectl
-# $ uname -r
-# $ SHELL --version
-# $ hostname 
-# $ clear 
+# - 
+# - $ cat /etc/os-release
+# - $ lsb_release -a
+# - $ hostnamectl
+# - $ uname -r
+# - $ SHELL --version
+# - $ hostname 
+# - $ clear 
+# - 
 
 # ------------------------------ FUNCTION:  -----------------------------------
 # - 
