@@ -1,10 +1,11 @@
 #!/bin/bash 
 
 # -
-# - ABOUT: ABSTRACT
-# -
 # - import bash 
 # -
+# -
+
+# - ABOUT: ABSTRACT
 # -
 # - Author:  @contribution
 # - License: & Book 2019 , © https://github.com/ET-Lang/book/ 
