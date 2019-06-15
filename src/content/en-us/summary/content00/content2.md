@@ -1,8 +1,7 @@
 # CONTENT
 
-1. Contents 
-2. Introduction 
-3. The Structure of This Book
-
+1. Facts about ET
+2. Try it Option Online 
+3. Local Environment Setup
 
 .................................................................................................................................................................
