@@ -4,9 +4,10 @@
 
 **Contributors:** Base Max, pglapds ... 
 
-**Edition:** pglapds
+**Edition, Review:** pglapds
 
-#
+-------------------------------------------------
+
 
 **Review:** pglapds
 
@@ -16,17 +17,20 @@
 
 **Number pages:** 40 
 
-#
+-------------------------------------------------
+
 
 **Design**: pglapds
 
 **Read Design**: pglapds
 
+-------------------------------------------------
+
 **Capist:** pglapds
 
 **Book Design:** pglapds
 
-#
+-------------------------------------------------
 
 **Available Languages:** pt-br , en-us , fa-ir 
 
