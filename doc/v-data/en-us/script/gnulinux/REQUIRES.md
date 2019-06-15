@@ -15,19 +15,19 @@
 2. # > $ sudo apt-get install vim 
 ```
 ```markdown
-# > $ sudo apt-get install latex
+3. # > $ sudo apt-get install latex
 ```
 ```markdown
-# > $ sudo apt-get install nodejs
+4. # > $ sudo apt-get install nodejs
 ```
 ```markdown
-# > $ sudo apt-get install python
+5. # > $ sudo apt-get install python
 ```
 ```markdown
-# > $ sudo apt-get install wget
+6. # > $ sudo apt-get install wget
 ```
 ```markdown
-# > $ sudo apt-get install p7zip 
+7. # > $ sudo apt-get install p7zip 
 ```
 ## Requires
 
