@@ -14,6 +14,16 @@
  
 ```
 
+**Example**
+
+```latex
+
+\title{THE ET LANGUAGE }
+\author{ BASE MAX }
+\date{THE ET LANGUAGE }
+\section{ Test }
+ 
+```
 
 <br>
 <br>
@@ -30,6 +40,9 @@
  \usepackage{blindtext}
  \usepackage{mystyle}
  \usepackage{hyperref} 
+ ...
+ \vspace{5mm} %5mm vertical space
+
 
 ```
 
@@ -46,40 +59,22 @@
 <br>
 <br>
 
-3. Change Folder
+
+4. Add or change folder, file
 
 ```latex
 
-% - 
-% - \usepackage[english]{babel}
-% - \usepackage{graphicx}
-% - \usepackage{subfiles}
-% - \usepackage{standalone}
-% - \usepackage{blindtext}
-% - \usepackage{mystyle}
-% - \usepackage{hyperref} 
-% - article, book , \centering
-
+ \title{ Add or change title here }
+ \author{ Add or change title or author here }
+ \date{ Add or change title, date here}
+ \section{ Add or change text in section here }
+ 
 ```
+
 
 <br>
 <br>
 
-4. Add Folder
-
-```latex
-
-% - 
-% - \usepackage[english]{babel}
-% - \usepackage{graphicx}
-% - \usepackage{subfiles}
-% - \usepackage{standalone}
-% - \usepackage{blindtext}
-% - \usepackage{mystyle}
-% - \usepackage{hyperref} 
-% - article, book , \centering
-
-```
 
 <br>
 <br>
@@ -87,11 +82,6 @@
 4. Change Packages
 
 
-% BUG 
-%  \title{THE ET LANGUAGE }
-%  \vspace{5mm} %5mm vertical space
-%  \author{ BASE MAX }
-%  \date{THE ET LANGUAGE }
 
 ```latex
 
