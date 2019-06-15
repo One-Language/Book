@@ -1,3 +1,40 @@
+ 1- Definitions
+   1. System folder ( v-data )
+   2. System folder ( translate: example: en-us, pt-br, fa-ir ... )
+   3. System update ( Github Pages (Git), )
+   4. System policies ( Issues) 
+   
+ 2- Definition: Reference
+   1. System folder ( v-data )
+   2. System folder ( translate: example: en-us, pt-br, fa-ir ... )
+   3. System update ( Github Pages (Git), )
+   4. System policies ( Issues) 
+   
+ 3- Definition: Code Markdown in Latex
+   1. System folder ( v-data )
+   2. System folder ( translate: example: en-us, pt-br, fa-ir ... )
+   3. System update ( Github Pages (Git), )
+   4. System policies ( Issues) 
+
+ 4- Definition: Features Latex
+   1. System folder ( v-data )
+   2. System folder ( translate: example: en-us, pt-br, fa-ir ... )
+   3. System update ( Github Pages (Git), )
+   4. System policies ( Issues) 
+   
+ 5- Definitions: Design Latex
+   1. System folder ( v-data )
+   2. System folder ( translate: example: en-us, pt-br, fa-ir ... )
+   3. System update ( Github Pages (Git), )
+   4. System policies ( Issues) 
+   
+   
+ 6- Definition: Latex
+   1. System folder ( v-data )
+   2. System folder ( translate: example: en-us, pt-br, fa-ir ... )
+   3. System update ( Github Pages (Git), )
+   4. System policies ( Issues) 
+     
 1. sys folder
 2. sys file
 3. latex 
