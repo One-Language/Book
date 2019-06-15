@@ -107,6 +107,22 @@
 <br>
 <br>
 
+6. Add or Change paragraphy 
+
+```latex
+
+% \paragraph{LOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUM.}
+
+```
+
+**Example**
+
+```latex
+
+% \paragraph{Latex is a good programming language.}
+ 
+```
+
 
 ```latex
 
