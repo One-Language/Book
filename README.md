@@ -26,9 +26,9 @@
    
    ### & / Versions: Windows, Gnulinux, Mac
    --------
-   [English](src/content/en-us) (Not complete yet)
+   [English](src/content/en-us) ( Complete, but with errors. )
    
-   [Portuguese](src/content/pt-br) (Soon)
+   [Portuguese](src/content/pt-br) ( Complete, but with errors. )
    
    [Persian](src/content/fa-ir) (Soon)
    
