@@ -34,30 +34,30 @@
 <br>
 
 ```markdown
-# > $ sudo apt-get install 7zip
+ > $ sudo apt-get install 7zip
 ```
 ```markdown
-# > $ sudo apt-get install chrome
+ > $ sudo apt-get install chrome
 ```
 ```markdown
-# > $ sudo apt-get install firefox
+ > $ sudo apt-get install firefox
 ```
 ```markdown
-# > $ sudo apt-get install opera
+ > $ sudo apt-get install opera
 ```
 ```markdown
-# > $ sudo apt-get install markdown
+ > $ sudo apt-get install markdown
 ```
 ```markdown
-# > $ sudo apt-get install zsh
+ > $ sudo apt-get install zsh
 ```
 ```markdown
-# > $ sudo apt-get install csh
+ > $ sudo apt-get install csh
 ```
 ```markdown
-# > $ sudo apt-get install filezila
+ > $ sudo apt-get install filezila
 ```
 ```markdown
-# > $ sudo apt-get install ftp ... 
+ > $ sudo apt-get install ftp ... 
 ```
 
