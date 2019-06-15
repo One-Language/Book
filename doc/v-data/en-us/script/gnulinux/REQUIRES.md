@@ -9,7 +9,7 @@
 
 
 ```markdown
-1. # > $ sudo apt-get install dconf-editor
+1.  > $ sudo apt-get install dconf-editor
 ```
 ```markdown
 2. # > $ sudo apt-get install vim 
