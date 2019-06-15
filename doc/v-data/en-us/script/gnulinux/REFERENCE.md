@@ -7,16 +7,38 @@
 
 ```pascal
 # READ : https://stackoverflow.com/questions/4823468/comments-in-markdown
+```
+```pascal
 # READ : https://www.fontsquirrel.com/fonts/list/classification/display
+```
+```pascal
 # READ : https://tex.stackexchange.com/questions/164760/strangely-abbreviated-russian-bibtex-entry-name
+```
+```pascal
 # READ : http://linuxcommand.org/lc3_wss0010.php
+```
+```pascal
 # READ : http://talby.rcs.manchester.ac.uk/~ri/_course_latex_intro/_bibtex/index.bibtexandkile
+```
+```pascal
 # READ : https://www.sciencedirect.com/science/article/pii/030438009190114G
+```
+```pascal
 # READ : https://www.sciencedirect.com/science/article/pii/S0924013602002959
+```
+```pascal
 # READ : https://github.com/crcx/toka
+```
+```pascal
 # READ : https://www.vbtutor.net/webrowser.htm
+```
+```pascal
 # READ : http://toka.s3.amazonaws.com/index.html
+```
+```pascal
 # READ : https://news.ycombinator.com/item?id=9008472
+```
+```pascal
 # READ : https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9
 ```
 
