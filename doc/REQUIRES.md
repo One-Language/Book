@@ -3,7 +3,7 @@
 
 ### Requires
 
-```sh 
+```bash
 sudo apt-get install dconf-editor
 sudo apt-get install vim 
 sudo apt-get install latex
