@@ -39,7 +39,7 @@
 <br>
 
 
-2. Add or change packages ( Example too )
+### 2. Add or change packages ( Example too )
 
 ```latex
 
@@ -59,7 +59,7 @@
 
 <br>
 
-3. Add or change resources ( Example too )
+### 3. Add or change resources ( Example too )
 
 ```latex
 
@@ -72,7 +72,7 @@
 <br>
 
 
-4. Add or change folder, file 
+### 4. Add or change folder, file 
 
 ```latex
 
@@ -80,7 +80,7 @@
 
 ```
 
-**Example**
+### Example
 
 ```latex
 
@@ -92,7 +92,7 @@
 <br>
 
 
-5. Add or Change Comment
+### 5. Add or Change Comment
 
 
 ```latex
@@ -101,7 +101,7 @@
 
 ```
 
-**Example**
+### Example
 
 ```latex
 
@@ -113,7 +113,7 @@
 <br>
 <br>
 
-6. Add or Change paragraphy 
+### 6. Add or Change paragraphy 
 
 ```latex
 
@@ -121,7 +121,7 @@
 
 ```
 
-**Example**
+### Example
 
 ```latex
 
@@ -131,7 +131,7 @@
 
 <br>
 
-6. Add or Change font 
+### 6. Add or Change font 
 
 ```latex
 
@@ -141,7 +141,7 @@
 
 <br>
 
-7. Declare Markdown 
+### 7. Declare Markdown 
 
 ```latex
 
