@@ -20,6 +20,8 @@
 
 ```
 
+<br>
+
 **Example**
 
 ```latex
@@ -55,6 +57,7 @@
 
 ```
 
+<br>
 
 3. Add or change resources ( Example too )
 
@@ -126,6 +129,8 @@
  
 ```
 
+<br>
+
 6. Add or Change font 
 
 ```latex
@@ -133,6 +138,8 @@
 % \renewcommand{\familydefault}{\sfdefault} % add font helvet or arial 
 
 ```
+
+<br>
 
 7. Declare Markdown 
 
