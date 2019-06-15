@@ -9,25 +9,25 @@
 
 
 ```markdown
-1.  > $ sudo apt-get install dconf-editor
+ > $ sudo apt-get install dconf-editor
 ```
 ```markdown
-2. # > $ sudo apt-get install vim 
+ > $ sudo apt-get install vim 
 ```
 ```markdown
-3. # > $ sudo apt-get install latex
+ > $ sudo apt-get install latex
 ```
 ```markdown
-4. # > $ sudo apt-get install nodejs
+ > $ sudo apt-get install nodejs
 ```
 ```markdown
-5. # > $ sudo apt-get install python
+ > $ sudo apt-get install python
 ```
 ```markdown
-6. # > $ sudo apt-get install wget
+ > $ sudo apt-get install wget
 ```
 ```markdown
-7. # > $ sudo apt-get install p7zip 
+ > $ sudo apt-get install p7zip 
 ```
 ## Requires
 
