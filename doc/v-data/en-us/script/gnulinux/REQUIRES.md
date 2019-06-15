@@ -1,7 +1,9 @@
 <!--- documentation in: "doc/.configure/make/gnulinux/README2.md" --->
 <!--- hiddenpath: "doc/.configure/make/gnulinux/" --->
 
-### Requires
+## Requires
+
+<br>
 
 ```bash
 sudo apt-get install dconf-editor
