@@ -55,36 +55,48 @@
 ```
 ```pascal
 17. # READ : http://linuxcommand.org/lc3_wss0120.php```pascal
+```
 ```pascal
 18. # READ :  https://likegeeks.com/linux-bash-scripting-awesome-guide-part3/
+```
 ```pascal
 19. # READ :  https://stackoverflow.com/questions/36227802/shell-script-with-options-and-argument-update
+```
 ```pascal
 20. # READ :  https://stackoverflow.com/questions/14513305/how-to-write-unix-shell-scripts-with-options
+```
 ```pascal
 21. # READ :  https://askubuntu.com/questions/254639/is-there-a-way-to-echo-an-alias
+```
 ```pascal
 22. # READ :  https://stackoverflow.com/questions/18003370/script-parameters-in-bash
+```
 ```pascal
 23. # READ :  https://stackoverflow.com/questions/192249/how-do-i-parse-command-line-arguments-in-bash
+```
 ```pascal
-
 24. # READ :  https://linuxhint.com/30_bash_script_examples/#t7
+```
 ```pascal
 
 25. # READ :  https://stackoverflow.com/questions/22676/how-do-i-download-a-file-over-http-using-python
+```
 ```pascal
 
 26. # READ :  https://stackoverflow.com/questions/16828035/linux-command-to-check-if-a-shell-script-is-running-or-not
+```
 ```pascal
 
 27. # READ :  https://www.howtogeek.com/287014/how-to-create-and-use-symbolic-links-aka-symlinks-on-linux/
+```
 ```pascal
 
 28. # READ :  https://bash.cyberciti.biz/guide/A_progress_bar_(gauge_box)
+```
 ```pascal
 
 29. # READ :  https://github.com/nachoparker/progress_bar.sh
+```
 ```pascal
 30. # READ :  https://www.shellscript.sh/tips/progressbar/
 ```
