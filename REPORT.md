@@ -1,33 +1,16 @@
 ### Channels of Book ET 
 For updates, new packages, new read design, new design, design book, design folder, design file , security ... or format, script install ... 
 
-1. Security Issues?                 
-booket@securityissue.com or open issues with title "Security -Issues Book ET"
+   1. **Security Issues?**  
+   2. **New Design?** 
+   3. **Read Design?** Add Syntax Highliting
+   4. **New Packages?** Resume 
+   5. **New format?** Reference / Link
+   6. **New Script install?** Packages: item , time ... 
+   7. **Bugs?**  
 
-2. New Design?     
-booket@newdesign.com or open issues with title "New Design Book -Issues Book ET"
 
-3. New Read Design?      
-readdesign@newdesign.com or open issues with title "New Read Design Book -Issues Book ET"
-
-4. New Packages?       
-newpackages@newdesign.com or open issues with title "New Packages  Book -Issues Book ET"
-
-5. New format?     
-newformt@newdesign.com or open issues with title "New format Book -Issues Book ET"
-
-6. New Script install?     
-newscriptinstall@newdesign.com or open issues with title " New Script install Book -Issues Book ET"
-
-7. Bugs: 
-resolveBugs@newdesign.com or open issues with title " Bugs Resolve Book -Issues Book ET"
-
-   1. Page Number
-   2. Remover Lorem Ipsum
-   3. Add Syntax Highliting
-   4. Resume 
-   5. Reference / Link
-   6. Packages: item , time ... 
-   7. Organization Markdown Input
+  Organization Markdown Input
    8. Import 
 
+Remover Lorem Ipsum, Page Number
