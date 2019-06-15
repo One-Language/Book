@@ -1,7 +1,7 @@
 # CONTENT
 
 1. OVERVIEW 
-2. Our Philosophy 
-3. The Language of This Book
+2. All Facts about ET 
+3. Everything (We Will Say) About & Programs   
 
 .................................................................................................................................................................
