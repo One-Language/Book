@@ -1,5 +1,5 @@
 
-All Facts about ET.md
+All Facts about ET
 
 The ET language has been designed by Max Base in 2012, Which was later developed by the Asrez
 team. They tried to design a modern, more appropriate language. As simple as possible for humans.
