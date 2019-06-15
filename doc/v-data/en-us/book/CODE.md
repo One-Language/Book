@@ -23,17 +23,25 @@
 
 ```latex
 
-% - 
-% - \usepackage[english]{babel}
-% - \usepackage{graphicx}
-% - \usepackage{subfiles}
-% - \usepackage{standalone}
-% - \usepackage{blindtext}
-% - \usepackage{mystyle}
-% - \usepackage{hyperref} 
-% - article, book , \centering
+ \usepackage[english]{babel}
+ \usepackage{graphicx}
+ \usepackage{subfiles}
+ \usepackage{standalone}
+ \usepackage{blindtext}
+ \usepackage{mystyle}
+ \usepackage{hyperref} 
 
 ```
+
+3. Add or change resources
+
+```latex
+
+ article, book , \centering
+
+
+```
+
 
 <br>
 <br>
