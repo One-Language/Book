@@ -1,3 +1,5 @@
+<!--- documentation in: "doc/.configure/make/gnulinux/README2.md" --->
+<!--- hiddenpath: "doc/.configure/make/gnulinux/" --->
 
 ### Requires
 
