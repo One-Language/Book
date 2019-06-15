@@ -1,7 +1,7 @@
 # CONTENT
 
-1. Introduction
+1. OVERVIEW 
 2. Our Philosophy 
-3. The Structure of This Book 
+3. The Language of This Book
 
 .................................................................................................................................................................
