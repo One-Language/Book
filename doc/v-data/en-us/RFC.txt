@@ -3,12 +3,12 @@
 
 
 About
-
-This file is Protocol System Documentation and Design small. 
-Here explain process development, contribuition, research.
 - 
 
-License: This file have GNU PUBLIC License.
+This file is a small documentation of "design" and "protocol system". 
+Explaining the process development, contribution, research.
+
+License: GNU PUBLIC License.
 - 
 
 Language Programming: Open Souce, ET Language Programming.
@@ -25,53 +25,39 @@ Language Programming: Open Souce, ET Language Programming.
      1. System Folder I ........................... page 5 
      2. System Folder II .......................... page 6 
      3. System Folder III ......................... page 7 
-     4. System Folder I ........................... page 8 
-     5. RFC ....................................... page 9
- 2. Reference ..................................... page 10 
- 3. Design ........................................ page 11 
-     1. System Folder ............................. page 12 
-     2. System Folder ............................. page 13 
- 4. Conclusion .................................... page 14 
+     4. System Folder I ........................... page 8
+     5. System File I ............................. page 9 
+     6. RFC ....................................... page 10
+ 2. Reference ..................................... page 11 
+ 3. Design ........................................ page 12 
+ 4. Conclusion .................................... page 13 
 
 
 ------
-PAGE-Definition_ System Folder I
-- 
+PAGE-Definition_ System Folder : I, II, III, IV
+-
 
-
-
- 1 - Definition
+ 1 - Definition System Folder  I ( page 5 )
    1.1 System folder ( book/doc/v-data )
    1.2 v-data "Version Data", example: "v-data/en-us" is "version source-code in en-us" or 
         1.3 def 1. "/translate" is "/en-us, /pt-br, /fa-ir /... ", example: "/src/translated/ " 
         1.4 def 2. "/change" "changelog", example: "v-data/change" is "version source-code with changelog" ...
         1.5 def 3. "/old", "v-old" , "data-old", "old-data" ... "archiment".
         
-        
-------     
-PAGE-Definition_ System Folder II
-- 
  
- 2. Definition
+ 2. Definition System Folder  II ( page 6 )
    1.1 System folder (  book/doc )
    1.2 doc "Folder Documentation", example: "doc/en-us" is "documentation in en-us" or 
         1.3 def 1. doc "change", example: "documentation, change" is "added new features" ...
  
- 
-------
-PAGE-Definition_ System Folder III
--  
-      
- 3. Definition
+
+ 3. Definition System Folder  III  ( page 7 )
    1.1 System folder (  book/script )
    1.2 doc "Folder Documentation", example: "doc/en-us" is "documentation in en-us" or 
         1.3 def 1. doc "change", example: "documentation, change" is "added new features" ...
      
-------
-PAGE-Definition_ System Folder IV
--  
-      
- 3. Definition
+
+ 4. Definition System Folder  IV ( page 8 )
    1.1 System folder (  book/gnulinux )
    1.2 doc "Folder Documentation", example: "doc/en-us" is "documentation in en-us" or 
         1.3 def 1. doc "change", example: "documentation, change" is "added new features" ...
@@ -85,7 +71,7 @@ PAGE-Definition_ System Folder IV
         1.3 def 1. doc "change", example: "documentation, change" is "added new features" ...
       
 ------   
-PAGE-Definition_ System File I
+PAGE-Definition_ System File I ( page 9 )
 - 
 
    1.1 System File ( issues )
@@ -106,7 +92,7 @@ PAGE-Definition_ Latex
 
 
 ------
-PAGE-Definition_ RFC
+PAGE-Definition_ RFC ( page 10 )
 - 
    1.1 System File ( Request for Comments  )
         1.1 Category Replace 
@@ -116,7 +102,7 @@ PAGE-Definition_ RFC
         
 
 ------
-PAGE-Definition_ Reference 
+PAGE-Definition_ Reference ( page 11 )
 -         
 
    1.1 REFERENCE  ( BIBLIOGRAPHY  )
@@ -147,7 +133,7 @@ PAGE-Definition_ Reference
       ..........................................
 
 ------
-PAGE-Definition_ Design  
+PAGE-Definition_ Design   ( page 12 )
 -         
 
    1.1 System File ( Request for Comments  )
@@ -157,7 +143,7 @@ PAGE-Definition_ Design
         1.4 Simple Design 
  
 ------
-PAGE-Definition_ Conclusion 
+PAGE-Definition_ Conclusion  ( page 13 )
 -         
 
 Technical documentation.
