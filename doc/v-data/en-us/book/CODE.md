@@ -41,17 +41,20 @@
 
 ```latex
 
- \usepackage[english]{babel}
- \usepackage{graphicx}
- \usepackage{subfiles}
- \usepackage{standalone}
- \usepackage{blindtext}
- \usepackage{mystyle}
- \usepackage{hyperref} 
+ \usepackage{newpackage}
+ \Require{newpackage}
  ...
  \vspace{5mm} %5mm vertical space
 
 ```
+
+```latex
+ 
+ \usepackage{markdown}
+ \Require{markdown}
+
+```
+
 
 3. Add or change resources ( Example too )
 
@@ -123,11 +126,15 @@
  
 ```
 
+6. Add or Change font 
 
 ```latex
 
+% \renewcommand{\familydefault}{\sfdefault} % add font helvet or arial 
 
+```
 
+```latex
 
 
 % 2- http://www.kciti.edu/wp-content/uploads/2017/07/cprogramming_tutorial.pdf
@@ -269,13 +276,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
-% 1
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% DECLARE MARKDOWN
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%  \usepackage{markdown}
-% -----------------------------
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % 2
@@ -442,38 +442,12 @@
 % now \nextpage with \section{Prerequisites}
 % and new with paragraphy 
 % example
-% \paragraph{LOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUM.}
-% \paragraph{LOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUM.}
-% \paragraph{LOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUM.}
-% \paragraph{LOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUM.}
-% \paragraph{LOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUM.}
-% \paragraph{LOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUM.}
-% \paragraph{LOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUM.}
-% \paragraph{LOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUM.}
-% \paragraph{LOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUMLOREM ISSUM.}
-%
-% COMMENT 1
-% ------------------------------------------------------------------------------------------
-%
-
-
-%
-% \renewcommand{\familydefault}{\sfdefault} %add font helvet
-%
-
-
-
-%
-% COMMENT 2
-% ------------------------------------------------------------------------------------------
 %
 
 
 
 %
 % PACKAGES ... 
-% \usepackage{amsmath,amsthm,amssymb,amsfonts, fancyhdr, color, comment, graphicx, environ, xcolor, mdframed, indentfirst}
-% \usepackage{hyperref}
 % \hypersetup{
     % colorlinks=true,
     % linkcolor=blue,
