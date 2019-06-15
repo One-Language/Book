@@ -1,6 +1,25 @@
 ### How use LaTeX and LaTeX works?
 
-1. Change Title
+<br>
+<br>
+
+1. Add or change title, date, author, section  
+
+```latex
+
+ \title{ Add or change title here }
+ \author{ Add or change title or author here }
+ \date{ Add or change title, date here}
+ \section{ Add or change text in section here }
+ 
+```
+
+
+<br>
+<br>
+
+
+2. Add or change packages 
 
 ```latex
 
@@ -16,21 +35,8 @@
 
 ```
 
-2. Add Title
-
-```latex
-
-% - 
-% - \usepackage[english]{babel}
-% - \usepackage{graphicx}
-% - \usepackage{subfiles}
-% - \usepackage{standalone}
-% - \usepackage{blindtext}
-% - \usepackage{mystyle}
-% - \usepackage{hyperref} 
-% - article, book , \centering
-
-```
+<br>
+<br>
 
 3. Change Folder
 
@@ -48,6 +54,9 @@
 
 ```
 
+<br>
+<br>
+
 4. Add Folder
 
 ```latex
@@ -64,6 +73,8 @@
 
 ```
 
+<br>
+<br>
 
 4. Change Packages
 
@@ -82,22 +93,11 @@
 
 ```
 
+<br>
+<br>
 
-### How LaTeX works?
 
 ```latex
-
-
-
-
-%
-%
-
-
-
-
-
-
 
 
 
@@ -111,13 +111,7 @@
 
 
 
-%
-% SETTINGS DEFAULT
-%    1 - \title{-2019-}
-%    2 - \author{lugnagarzo }
-%    3- \date{June 2019}
-%    4- \section{}
-%
+
 
 
 %
