@@ -9,7 +9,7 @@
 
 ```pascal 
 
-# READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH
+# READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH ( EN-US )
 
 # READ : https://stackoverflow.com/questions/4823468/comments-in-markdown
 # READ : https://www.fontsquirrel.com/fonts/list/classification/display
@@ -28,7 +28,7 @@
 #
 ```pascal 
 
-# READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH
+# READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH ( EN-US )
 
 # @Declare Shell: #!/bin/sh , #!/bin/csh , #!/bin/bash 
 # @BASE https://aurelio.net/shell/canivete/
@@ -44,7 +44,7 @@
 
 ```pascal
 
-# READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH
+# READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH ( EN-US )
 
 # READ : http://livescript.net/
 # READ : http://progopedia.com/language/factor/
@@ -67,6 +67,8 @@
 
 ```pascal
 
+# READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH ( EN-US )
+
 # READ : https://github.com/shelljs/shelljs
 # READ : https://tex.stackexchange.com/questions/344081/how-to-automatically-generate-bibtex-data
 
@@ -75,6 +77,8 @@
 ### Inspiration: Design PDF
 
 ```pascal
+
+# READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH ( EN-US )
 
 # READ : https://apps.dtic.mil/dtic/tr/fulltext/u2/a096556.pdf
 
@@ -85,7 +89,7 @@
 
 ```pascal 
 
-# READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH
+# READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH ( EN-US )
 
 # @Declare Shell: #!/bin/sh , #!/bin/csh , #!/bin/bash 
 # @BASE https://aurelio.net/shell/canivete/
@@ -98,7 +102,7 @@
 
 ```pascal
 
-# READ ME! PT-BR
+# READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH ( PT-BR )
 
 # READ : https://terminalroot.com.br/2013/07/shell-scripitingbash-funcao-para.html
 # READ : https://imasters.com.br/desenvolvimento/bash-for-loop-primeiro-passo-na-automacao-no-linux
@@ -109,7 +113,6 @@
 # READ : http://coral.ufsm.br/unitilince/index.php/noticias/193-saiba-como-criar-seus-proprios-comandos-no-linux-usando-alias
 # READ : https://e-tinet.com/linux/programacao-shell-script/
 # READ : http://coral.ufsm.br/unitilince/index.php/2015-11-13-10-48-41/178-criando-comandos-personalizados-do-terminal-bash-do-linux
-#
-#
+
 
 ```
