@@ -1,6 +1,27 @@
 ```latex
 
 
+% DECLARE WATERMARK
+% -------------------------
+
+% \documentclass{article}
+% \usepackage[printwatermark]{xwatermark}
+% \usepackage{xcolor}
+% \usepackage{graphicx}
+% \usepackage{lipsum}
+%
+% \newwatermark[allpages,color=red!50,angle=45,scale=3,xpos=0,ypos=0]{ET LANGUAGE PROGRAMMING} // &
+%
+% \begin{document}
+%
+% \lipsum[1-2]
+% \begin{figure}[!ht]
+% \centering
+% \includegraphics[width=3cm]{example-image-a}
+% \end{figure}
+% \lipsum[1-2]
+% \end{document}
+
 % BUG 
 %  \title{THE ET LANGUAGE }
 %  \vspace{5mm} %5mm vertical space
