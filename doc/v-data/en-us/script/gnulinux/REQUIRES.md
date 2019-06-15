@@ -4,52 +4,59 @@
 ## Requires
 
 <br>
+<!--- documentation in: "doc/.configure/make/gnulinux/README2.md" --->
+<!--- hiddenpath: "doc/.configure/make/gnulinux/" --->
 
-```bash
-sudo apt-get install dconf-editor
+## Requires
+
+<br>
+
+```markdown
+# > $ sudo apt-get install dconf-editor
 ```
-```bash
-sudo apt-get install vim 
+```markdown
+# > $ sudo apt-get install vim 
 ```
-```bash
-sudo apt-get install latex
+```markdown
+# > $ sudo apt-get install latex
 ```
-```bash
-sudo apt-get install nodejs
+```markdown
+# > $ sudo apt-get install nodejs
 ```
-```bash
-sudo apt-get install python
+```markdown
+# > $ sudo apt-get install python
 ```
-```bash
-sudo apt-get install wget
+```markdown
+# > $ sudo apt-get install wget
 ```
-```bash
-sudo apt-get install p7zip 
+```markdown
+# > $ sudo apt-get install p7zip 
 ```
-```bash
-sudo apt-get install 7zip
+```markdown
+# > $ sudo apt-get install 7zip
 ```
-```bash
-sudo apt-get install chrome
+```markdown
+# > $ sudo apt-get install chrome
 ```
-```bash
-sudo apt-get install firefox
+```markdown
+# > $ sudo apt-get install firefox
 ```
-```bash
-sudo apt-get install opera
+```markdown
+# > $ sudo apt-get install opera
 ```
-```bash
-sudo apt-get install bash
+```markdown
+# > $ sudo apt-get install markdown
 ```
-```bash
-sudo apt-get install zsh
+```markdown
+# > $ sudo apt-get install zsh
 ```
-```bash
-sudo apt-get install csh
+```markdown
+# > $ sudo apt-get install csh
 ```
-```bash
-sudo apt-get install filezila
+```markdown
+# > $ sudo apt-get install filezila
 ```
-```bash
-sudo apt-get install ftp ... 
+```markdown
+# > $ sudo apt-get install ftp ... 
 ```
+
