@@ -30,3 +30,27 @@ system. And this is a unique and wonderful feature.
 in this language is small. But this does not make you curious or can not produce any program.
 However, the number of keywords is not a reason for the strength and speed of the compiler.
 But these are the reasons for learning this programming language easier and faster.
+
+
+Keywords: 
+1. auto 
+2. const 
+3. break 
+4. continue 
+5. return 
+6. if 
+7. for 
+8. foreach 
+9. loop 
+10. while 
+11. do 
+12. default 
+13. switch 
+14. else 
+15. elseif 
+16. elif 
+17. extern 
+18. struct 
+19. enum 
+20. static
+goto union case register typedef assembly import ifdef ifndef define
