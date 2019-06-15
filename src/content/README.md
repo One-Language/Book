@@ -1,3 +1,3 @@
-- [English](/en-us) ( Complete, but with bugs ) 
-- [Portuguese](/pt-br) ( Complete, but with bugs ) 
-- [Persian](/fa-ir) (Soon)
+- [English](en-us) ( Complete, but with bugs ) 
+- [Portuguese](pt-br) ( Complete, but with bugs ) 
+- [Persian](fa-ir) (Soon)
