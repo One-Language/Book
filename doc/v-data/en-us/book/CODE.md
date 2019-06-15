@@ -3,7 +3,7 @@
 <br>
 <br>
 
-1. Add or change title, date, author, section  
+### 1. Add or change title, date, author, section  
 
 ```latex
 
@@ -22,7 +22,7 @@
 
 <br>
 
-**Example**
+### Example
 
 ```latex
 
