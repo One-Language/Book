@@ -1,15 +1,12 @@
-<!--- documentation in: "doc/.configure/make/gnulinux/README2.md" --->
-<!--- hiddenpath: "doc/.configure/make/gnulinux/" --->
+
 
 ## Requires
 
 <br>
+
 <!--- documentation in: "doc/.configure/make/gnulinux/README2.md" --->
 <!--- hiddenpath: "doc/.configure/make/gnulinux/" --->
 
-## Requires
-
-<br>
 
 ```markdown
 # > $ sudo apt-get install dconf-editor
@@ -32,6 +29,10 @@
 ```markdown
 # > $ sudo apt-get install p7zip 
 ```
+## Requires
+
+<br>
+
 ```markdown
 # > $ sudo apt-get install 7zip
 ```
