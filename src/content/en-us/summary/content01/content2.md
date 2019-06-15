@@ -1,8 +1,8 @@
 # CONTENT
 
-1. Why Use ET? , WINDOW
-2. & Programs
-3. ENVIORNMENT SETUP , IDE , POPUP
+1. Facts about ET  
+2. Try it Option Online       
+3. Local Environment Setup 
 
 
 .................................................................................................................................................................
