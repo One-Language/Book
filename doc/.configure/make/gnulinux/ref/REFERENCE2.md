@@ -10,6 +10,7 @@
 ```pascal 
 
 # READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH
+
 # READ : https://stackoverflow.com/questions/4823468/comments-in-markdown
 # READ : https://www.fontsquirrel.com/fonts/list/classification/display
 # READ : https://tex.stackexchange.com/questions/164760/strangely-abbreviated-russian-bibtex-entry-name
@@ -28,6 +29,7 @@
 ```pascal 
 
 # READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH
+
 # @Declare Shell: #!/bin/sh , #!/bin/csh , #!/bin/bash 
 # @BASE https://aurelio.net/shell/canivete/
 # @BASE http://www.devin.com.br/shell_script/
@@ -41,9 +43,9 @@
 #
 
 ```pascal
-#
+
 # READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH
-#
+
 # READ : http://livescript.net/
 # READ : http://progopedia.com/language/factor/
 # READ : http://progopedia.com/language/forth/
@@ -82,9 +84,9 @@
 #
 
 ```pascal 
-#
+
 # READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH
-#
+
 # @Declare Shell: #!/bin/sh , #!/bin/csh , #!/bin/bash 
 # @BASE https://aurelio.net/shell/canivete/
 # @BASE http://www.devin.com.br/shell_script/
@@ -95,9 +97,9 @@
 #
 
 ```pascal
-#
+
 # READ ME! PT-BR
-#
+
 # READ : https://terminalroot.com.br/2013/07/shell-scripitingbash-funcao-para.html
 # READ : https://imasters.com.br/desenvolvimento/bash-for-loop-primeiro-passo-na-automacao-no-linux
 # READ : http://www.dltec.com.br/blog/linux/uma-introducao-ao-uso-do-awk-no-linux/
