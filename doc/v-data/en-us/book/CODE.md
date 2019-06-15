@@ -1,5 +1,12 @@
 ### How use LaTeX?
 
+1. Change Title
+2. Add Title
+3. Change Folder
+4. Add Folder
+
+```latex
+
 % - 
 % - \usepackage[english]{babel}
 % - \usepackage{graphicx}
@@ -9,6 +16,8 @@
 % - \usepackage{mystyle}
 % - \usepackage{hyperref} 
 % - article, book , \centering
+
+```
 
 Rename.title
 
