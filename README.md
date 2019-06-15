@@ -10,6 +10,20 @@
    <br>
    <br> 
    
+   ### & / Bugs
+   --------
+   [1](src/content/en-us) - 1. Package usepackage\import, usepackage\import does not work.  
+   
+   [2](src/content/en-us) - 2. Package usepackage\pagenumber, usepackage\watemark does not work.  )
+   
+   [3](src/content/en-us) ( 1. Package usepackage\minted, tableofcontents does not work.  )
+   
+   [4](src/content/en-us) ( 1. Package usepackage\import, usepackage\import does not work.  )
+
+      
+   <br>
+   <br> 
+   
    ### & / Versions: Windows, Gnulinux, Mac
    --------
    [English](src/content/en-us) (Not complete yet)
