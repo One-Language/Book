@@ -41,7 +41,126 @@
 ```pascal
 12. # READ : https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9
 ```
+```pascal
+13. # READ :  https://www.cyberciti.biz/faq/how-do-i-check-my-bash-version/
+```
+```pascal
+14. # READ :  https://askubuntu.com/questions/590899/how-do-i-check-which-shell-i-am-using
+```
+```pascal
+15. # READ :  https://github.com/koalaman/shellcheck/wiki/SC2162
+```
+```pascal
+16. # READ :  https://stackabuse.com/download-files-with-python/
+```
+```pascal
+17. # READ : http://linuxcommand.org/lc3_wss0120.php```pascal
+```pascal
+18. # READ :  https://likegeeks.com/linux-bash-scripting-awesome-guide-part3/
+```pascal
+19. # READ :  https://stackoverflow.com/questions/36227802/shell-script-with-options-and-argument-update
+```pascal
+20. # READ :  https://stackoverflow.com/questions/14513305/how-to-write-unix-shell-scripts-with-options
+```pascal
+21. # READ :  https://askubuntu.com/questions/254639/is-there-a-way-to-echo-an-alias
+```pascal
+22. # READ :  https://stackoverflow.com/questions/18003370/script-parameters-in-bash
+```pascal
+23. # READ :  https://stackoverflow.com/questions/192249/how-do-i-parse-command-line-arguments-in-bash
+```pascal
 
+24. # READ :  https://linuxhint.com/30_bash_script_examples/#t7
+```pascal
+
+25. # READ :  https://stackoverflow.com/questions/22676/how-do-i-download-a-file-over-http-using-python
+```pascal
+
+26. # READ :  https://stackoverflow.com/questions/16828035/linux-command-to-check-if-a-shell-script-is-running-or-not
+```pascal
+
+27. # READ :  https://www.howtogeek.com/287014/how-to-create-and-use-symbolic-links-aka-symlinks-on-linux/
+```pascal
+
+28. # READ :  https://bash.cyberciti.biz/guide/A_progress_bar_(gauge_box)
+```pascal
+
+29. # READ :  https://github.com/nachoparker/progress_bar.sh
+```pascal
+30. # READ :  https://www.shellscript.sh/tips/progressbar/
+```
+```pascal
+31. # READ :  https://ownyourbits.com/2017/07/16/a-progress-bar-for-the-shell/
+```
+```pascal
+32. # READ :  https://www.codementor.io/aviaryan/downloading-files-from-urls-in-python-77q3bs0un
+```
+```pascal
+33. # READ :  https://realpython.com/command-line-interfaces-python-argparse/ 
+```
+```pascal
+34. # READ :  https://www.pythoncentral.io/execute-python-script-file-shell/
+```
+```pascal
+35. # READ :  https://www.tutorialspoint.com/python/python_command_line_arguments.htm
+```
+```pascal
+36. # READ :  https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df
+```
+```pascal
+37. # READ :  https://stackoverflow.com/questions/22676/how-do-i-download-a-file-over-http-using-python
+```
+```pascal
+38. # READ :  https://docs.python.org/3/library/ftplib.html
+```
+```pascal
+39. # READ :  https://stackoverflow.com/questions/11573817/how-to-download-a-file-via-ftp-with-python-ftplib
+```
+```pascal
+40. # READ :  https://chocolatey.org/
+```
+```pascal
+41. # READ :  https://askubuntu.com/questions/854373/how-to-create-a-desktop-shortcut
+```
+```pascal 
+42. # READ :  https://www.howtogeek.com/287014/how-to-create-and-use-symbolic-links-aka-symlinks-on-linux/
+```
+```pascal 
+43. # READ :  https://askubuntu.com/questions/38661/how-do-i-run-sh-files
+```
+```pascal 
+44. # READ :  https://stackoverflow.com/questions/16828035/linux-command-to-check-if-a-shell-script-is-running-or-not
+```
+```pascal 
+45. # READ :  https://www.shellcheck.net/
+```
+```pascal 
+46. # READ :  https://www.npmjs.com/
+```
+```pascal 
+47. # READ :  https://www.vivaolinux.com.br/topico/Shell-Script/progress-bar-1
+```
+```pascal 
+48. # READ :  https://stackoverflow.com/questions/238073/how-to-add-a-progress-bar-to-a-shell-script
+```
+```pascal 
+49. # READ :  https://unix.stackexchange.com/questions/415421/linux-how-to-create-simple-progress-bar-in-bash
+```
+```pascal 
+50. # READ :  https://unix.stackexchange.com/questions/487557/basic-progress-bar-for-each-line-of-output-in-an-async-bash-script
+```
+```pascal 
+51. # READ :  https://unix.stackexchange.com/questions/325589/progress-bar-to-know-how-much-output-of-shell-script-has-been-done
+```
+```pascal 
+52. # READ :  https://unix.stackexchange.com/questions/184737/how-to-show-a-progress-bar-while-tar-a-folder-recursively
+```
+```pascal 
+53. # READ :  https://unix.stackexchange.com/questions/92919/progressbar-in-bash-to-visualize-the-time-to-wait
+License
+```
+```pascal 
+54. # READ :  https://opensource.stackexchange.com/questions/2318/using-open-source-sample-code-provided-by-microsoft-for-commercial-software
+```
 #
 
 ```pascal 
@@ -78,89 +197,4 @@
 21. # READ : http://coral.ufsm.br/unitilince/index.php/2015-11-13-10-48-41/178-criando-comandos-personalizados-do-terminal-bash-do-linux
 ```
 
-https://www.cyberciti.biz/faq/how-do-i-check-my-bash-version/
-https://askubuntu.com/questions/590899/how-do-i-check-which-shell-i-am-using
 
-
-
-https://github.com/koalaman/shellcheck/wiki/SC2162
-
-https://stackabuse.com/download-files-with-python/
-
-
-http://linuxcommand.org/lc3_wss0120.php
-
-https://likegeeks.com/linux-bash-scripting-awesome-guide-part3/
-
-https://stackoverflow.com/questions/36227802/shell-script-with-options-and-argument-update
-
-https://stackoverflow.com/questions/14513305/how-to-write-unix-shell-scripts-with-options
-
-https://askubuntu.com/questions/254639/is-there-a-way-to-echo-an-alias
-
-https://stackoverflow.com/questions/18003370/script-parameters-in-bash
-
-https://stackoverflow.com/questions/192249/how-do-i-parse-command-line-arguments-in-bash
-
-https://linuxhint.com/30_bash_script_examples/#t7
-
-https://stackoverflow.com/questions/22676/how-do-i-download-a-file-over-http-using-python
-
-https://stackoverflow.com/questions/16828035/linux-command-to-check-if-a-shell-script-is-running-or-not
-
-https://www.howtogeek.com/287014/how-to-create-and-use-symbolic-links-aka-symlinks-on-linux/
-
-https://bash.cyberciti.biz/guide/A_progress_bar_(gauge_box)
-
-https://github.com/nachoparker/progress_bar.sh
-
-https://www.shellscript.sh/tips/progressbar/
-
-https://ownyourbits.com/2017/07/16/a-progress-bar-for-the-shell/
-
-https://www.codementor.io/aviaryan/downloading-files-from-urls-in-python-77q3bs0un
-
-https://realpython.com/command-line-interfaces-python-argparse/ 
-
-https://www.pythoncentral.io/execute-python-script-file-shell/
-
-https://www.tutorialspoint.com/python/python_command_line_arguments.htm
-
-https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df
-
-https://stackoverflow.com/questions/22676/how-do-i-download-a-file-over-http-using-python
-
-https://docs.python.org/3/library/ftplib.html
-
-https://stackoverflow.com/questions/11573817/how-to-download-a-file-via-ftp-with-python-ftplib
-
-https://chocolatey.org/
-
-https://askubuntu.com/questions/854373/how-to-create-a-desktop-shortcut
-
-https://www.howtogeek.com/287014/how-to-create-and-use-symbolic-links-aka-symlinks-on-linux/
-
-https://askubuntu.com/questions/38661/how-do-i-run-sh-files
-
-https://stackoverflow.com/questions/16828035/linux-command-to-check-if-a-shell-script-is-running-or-not
-
-https://www.shellcheck.net/
-
-https://www.npmjs.com/
-
-https://www.vivaolinux.com.br/topico/Shell-Script/progress-bar-1
-
-https://stackoverflow.com/questions/238073/how-to-add-a-progress-bar-to-a-shell-script
-
-https://unix.stackexchange.com/questions/415421/linux-how-to-create-simple-progress-bar-in-bash
-
-https://unix.stackexchange.com/questions/487557/basic-progress-bar-for-each-line-of-output-in-an-async-bash-script
-
-https://unix.stackexchange.com/questions/325589/progress-bar-to-know-how-much-output-of-shell-script-has-been-done
-
-https://unix.stackexchange.com/questions/184737/how-to-show-a-progress-bar-while-tar-a-folder-recursively
-
-https://unix.stackexchange.com/questions/92919/progressbar-in-bash-to-visualize-the-time-to-wait
-License
-
-https://opensource.stackexchange.com/questions/2318/using-open-source-sample-code-provided-by-microsoft-for-commercial-software
