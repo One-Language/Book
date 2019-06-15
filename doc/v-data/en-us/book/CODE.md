@@ -1,4 +1,4 @@
-### How use LaTeX and LaTeX works?
+## How to use LaTeX or LaTeX works?
 
 <br>
 <br>
