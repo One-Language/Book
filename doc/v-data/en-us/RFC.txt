@@ -1,45 +1,177 @@
- 1- Definitions
-   1. System folder ( v-data )
-   2. System folder ( translate: example: en-us, pt-br, fa-ir ... )
-   3. System update ( Github Pages (Git), )
-   4. System policies ( Issues) 
-   
- 2- Definition: Reference
-   1. System folder ( v-data )
-   2. System folder ( translate: example: en-us, pt-br, fa-ir ... )
-   3. System update ( Github Pages (Git), )
-   4. System policies ( Issues) 
-   
- 3- Definition: Code Markdown in Latex
-   1. System folder ( v-data )
-   2. System folder ( translate: example: en-us, pt-br, fa-ir ... )
-   3. System update ( Github Pages (Git), )
-   4. System policies ( Issues) 
 
- 4- Definition: Features Latex
-   1. System folder ( v-data )
-   2. System folder ( translate: example: en-us, pt-br, fa-ir ... )
-   3. System update ( Github Pages (Git), )
-   4. System policies ( Issues) 
+& - THE ET LANGUAGE PROGRAMMING - BOOK ( 2019 )
+
+
+About
+
+This file is Protocol System Documentation and Design small. 
+Here explain process development, contribuition, research.
+- 
+
+License: This file have GNU PUBLIC License.
+- 
+
+Language Programming: Open Souce, ET Language Programming.
+- 
+
+ Table-Contents
+ -
+                             
+  About  ......................................... .page 1 
+  License ......................................... page 2 
+  Language Programming ............................ page 3 
    
- 5- Definitions: Design Latex
-   1. System folder ( v-data )
-   2. System folder ( translate: example: en-us, pt-br, fa-ir ... )
-   3. System update ( Github Pages (Git), )
-   4. System policies ( Issues) 
-   
-   
- 6- Definition: Latex
-   1. System folder ( v-data )
-   2. System folder ( translate: example: en-us, pt-br, fa-ir ... )
-   3. System update ( Github Pages (Git), )
-   4. System policies ( Issues) 
+ 1. Definition .................................... page 4 
+     1. System Folder I ........................... page 5 
+     2. System Folder II .......................... page 6 
+     3. System Folder III ......................... page 7 
+     4. System Folder I ........................... page 8 
+     5. RFC ....................................... page 9
+ 2. Reference ..................................... page 10 
+ 3. Design ........................................ page 11 
+     1. System Folder ............................. page 12 
+     2. System Folder ............................. page 13 
+ 4. Conclusion .................................... page 14 
+
+
+------
+PAGE-Definition_ System Folder I
+- 
+
+
+
+ 1 - Definition
+   1.1 System folder ( book/doc/v-data )
+   1.2 v-data "Version Data", example: "v-data/en-us" is "version source-code in en-us" or 
+        1.3 def 1. "/translate" is "/en-us, /pt-br, /fa-ir /... ", example: "/src/translated/ " 
+        1.4 def 2. "/change" "changelog", example: "v-data/change" is "version source-code with changelog" ...
+        1.5 def 3. "/old", "v-old" , "data-old", "old-data" ... "archiment".
+        
+        
+------     
+PAGE-Definition_ System Folder II
+- 
+ 
+ 2. Definition
+   1.1 System folder (  book/doc )
+   1.2 doc "Folder Documentation", example: "doc/en-us" is "documentation in en-us" or 
+        1.3 def 1. doc "change", example: "documentation, change" is "added new features" ...
+ 
+ 
+------
+PAGE-Definition_ System Folder III
+-  
+      
+ 3. Definition
+   1.1 System folder (  book/script )
+   1.2 doc "Folder Documentation", example: "doc/en-us" is "documentation in en-us" or 
+        1.3 def 1. doc "change", example: "documentation, change" is "added new features" ...
      
-1. sys folder
-2. sys file
-3. latex 
-4. examples
-5. samples
-6. license
-7. doc , v-data/ rfc , old, screenshoot
-8. FILES NONE : CONTRIBUTORS, INFORMATION, REPORT, BUG, REFERENCE
+------
+PAGE-Definition_ System Folder IV
+-  
+      
+ 3. Definition
+   1.1 System folder (  book/gnulinux )
+   1.2 doc "Folder Documentation", example: "doc/en-us" is "documentation in en-us" or 
+        1.3 def 1. doc "change", example: "documentation, change" is "added new features" ...
+          
+   1.1 System folder (  book/windows )
+   1.2 doc "Folder Documentation", example: "doc/en-us" is "documentation in en-us" or 
+        1.3 def 1. doc "change", example: "documentation, change" is "added new features" ...
+                     
+   1.1 System folder (  book/mac )
+   1.2 doc "Folder Documentation", example: "doc/en-us" is "documentation in en-us" or 
+        1.3 def 1. doc "change", example: "documentation, change" is "added new features" ...
+      
+------   
+PAGE-Definition_ System File I
+- 
+
+   1.1 System File ( issues )
+   1.2 doc "Folder Documentation", example: "doc/en-us" is "documentation in en-us" or 
+       1.3 def 1. doc "change", example: "documentation, change" is "added new features" ...
+ 
+------
+PAGE-Definition_ Latex
+- 
+   1.1 System File ( issues )
+   1.2 doc "Folder Documentation", example: "doc/en-us" is "documentation in en-us" or 
+        1.3 def 1. doc "change", example: "documentation, change" is "added new features" ...
+        
+        
+        - examples: repl ( FILE ) ( REPL )
+        - examples: repl ( FILE ) ( HOST ) { }
+        - examples: repl ( FILE ) ( SCRIPT )
+
+
+------
+PAGE-Definition_ RFC
+- 
+   1.1 System File ( Request for Comments  )
+        1.1 Category Replace 
+        1.2 Reference Point
+        1.3 List 
+        1.4 Simple Design 
+        
+
+------
+PAGE-Definition_ Reference 
+-         
+
+   1.1 REFERENCE  ( BIBLIOGRAPHY  )
+   
+    1.2 LINK 1  
+      ..........................................
+    1.3 LINK 2  
+      ..........................................
+    1.4 LINK 3  
+      ..........................................
+    1.5 LINK 4 
+      ..........................................
+    1.6 LINK 5  
+      ..........................................
+    1.7 LINK 6  
+      ..........................................
+    1.8 LINK 7  
+      ..........................................
+    1.9 LINK 8  
+      ..........................................
+    2.0 LINK 9  
+      ..........................................
+    2.1 LINK 10  
+      ..........................................
+    2.2 LINK 11 
+      ..........................................
+    2.3 LINK 12 
+      ..........................................
+
+------
+PAGE-Definition_ Design  
+-         
+
+   1.1 System File ( Request for Comments  )
+        1.1 Category Replace 
+        1.2 Reference Point
+        1.3 List 
+        1.4 Simple Design 
+ 
+------
+PAGE-Definition_ Conclusion 
+-         
+
+Technical documentation.
+
+
+
+OTHERS:
+------
+
+1. doc , v-data/ rfc , old, screenshoot
+2. FILES NONE : CONTRIBUTORS, INFORMATION, REPORT, BUG, REFERENCE
+3. Definition: Features Latex
+   1. System folder ( v-data )
+   2. System folder ( translate: example: en-us, pt-br, fa-ir ... )
+   3. System update ( Github Pages (Git), )
+   4. System policies ( Issues) 
+   
