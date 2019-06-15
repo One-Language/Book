@@ -7,11 +7,17 @@
 
 ```latex
 
+% 1.  Default settings
+
  \title{ Add or change title here }
  \author{ Add or change title or author here }
  \date{ Add or change title, date here}
  \section{ Add or change text in section here }
- 
+
+% 1.1 use \maketitle for declare 'title'
+
+\maketitle 
+
 ```
 
 **Example**
@@ -29,7 +35,7 @@
 <br>
 
 
-2. Add or change packages 
+2. Add or change packages ( Example too )
 
 ```latex
 
@@ -43,10 +49,9 @@
  ...
  \vspace{5mm} %5mm vertical space
 
-
 ```
 
-3. Add or change resources
+3. Add or change resources ( Example too )
 
 ```latex
 
@@ -55,19 +60,44 @@
 
 ```
 
-
 <br>
 <br>
 
 
-4. Add or change folder, file
+4. Add or change folder, file 
 
 ```latex
 
- \title{ Add or change title here }
- \author{ Add or change title or author here }
- \date{ Add or change title, date here}
- \section{ Add or change text in section here }
+\markdownInput{content/helloworld.md}
+
+```
+
+**Example**
+
+```latex
+
+\markdownInput{test/helloworld.md}
+ 
+```
+
+<br>
+<br>
+
+
+5. Add or Change Comment
+
+
+```latex
+
+% comment  
+
+```
+
+**Example**
+
+```latex
+
+% here is comment
  
 ```
 
@@ -76,64 +106,17 @@
 <br>
 
 
-<br>
-<br>
-
-4. Change Packages
-
-
-
-```latex
-
-% comment  -> 
-\title{THE ET LANGUAGE } % comment ->
-% comment ->
-
-```
-
-<br>
-<br>
-
-
 ```latex
 
 
 
 
-
-%
-% COMMENT 4
-% ------------------------------------------------------------------------------------------
-%
-
-
-
-
-
-
-
-%
-% COMMENT 5
-% ------------------------------------------------------------------------------------------
-%
-
-
-
-
-%
-% FOR IMPORT MARKDOWN \markdownInput{folder/file.md} '/' = bar ; bar ... example 'path/folder/file.md'
-%
-
-
-
-
-%
-% COMMENT 6
-% ------------------------------------------------------------------------------------------
-%
 
 % 2- http://www.kciti.edu/wp-content/uploads/2017/07/cprogramming_tutorial.pdf
 % - 
+
+
+
 % REFERENCE
 %
 
@@ -266,7 +249,6 @@
 %
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% \maketitle for declare 'title'
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
