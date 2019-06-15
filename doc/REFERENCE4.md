@@ -1,6 +1,3 @@
-<!--- documentation in: "doc/.configure/make/gnulinux/ref/REFRENCE4.md" --->
-<!--- hiddenpath: "doc/.configure/make/gnulinux/ref/" --->
-
 
 <!-- 
 
@@ -77,6 +74,11 @@
 # -
 
 -->
+
+<!--- documentation in: "doc/.configure/make/gnulinux/ref/REFRENCE4.md" --->
+<!--- hiddenpath: "doc/.configure/make/gnulinux/ref/" --->
+
+
 
 https://github.com/koalaman/shellcheck/wiki/SC2162
 
