@@ -182,31 +182,30 @@ License
 ```
 
 ```pascal
-13. # READ : https://terminalroot.com.br/2013/07/shell-scripitingbash-funcao-para.html
+55. # READ : https://terminalroot.com.br/2013/07/shell-scripitingbash-funcao-para.html
 ```
 ```pascal
-14. # READ : https://imasters.com.br/desenvolvimento/bash-for-loop-primeiro-passo-na-automacao-no-linux
+56. # READ : https://imasters.com.br/desenvolvimento/bash-for-loop-primeiro-passo-na-automacao-no-linux
 ```
 ```pascal
-15. # READ : http://www.dltec.com.br/blog/linux/uma-introducao-ao-uso-do-awk-no-linux/
+57. # READ : http://www.dltec.com.br/blog/linux/uma-introducao-ao-uso-do-awk-no-linux/
 ```
 ```pascal
-16. # READ : https://www.diolinux.com.br/2017/03/criando-comandos-personalizados-do-terminal-linux.html
+58. # READ : https://www.diolinux.com.br/2017/03/criando-comandos-personalizados-do-terminal-linux.html
 ```
 ```pascal
-17. # READ : https://www.vivaolinux.com.br/topico/Shell-Script/E-Possivel-criar-um-comando
+59. # READ : https://www.vivaolinux.com.br/topico/Shell-Script/E-Possivel-criar-um-comando
 ```
 ```pascal
-18. # READ : https://www.vivaolinux.com.br/dica/Criando-um-comando
+60. # READ : https://www.vivaolinux.com.br/dica/Criando-um-comando
 ```
 ```pascal
-19. # READ : http://coral.ufsm.br/unitilince/index.php/noticias/193-saiba-como-criar-seus-proprios-comandos-no-linux-usando-alias
+61. # READ : http://coral.ufsm.br/unitilince/index.php/noticias/193-saiba-como-criar-seus-proprios-comandos-no-linux-usando-alias
 ```
 ```pascal
-20. # READ : https://e-tinet.com/linux/programacao-shell-script/
+62. # READ : https://e-tinet.com/linux/programacao-shell-script/
 ```
 ```pascal
-21. # READ : http://coral.ufsm.br/unitilince/index.php/2015-11-13-10-48-41/178-criando-comandos-personalizados-do-terminal-bash-do-linux
+63. # READ : http://coral.ufsm.br/unitilince/index.php/2015-11-13-10-48-41/178-criando-comandos-personalizados-do-terminal-bash-do-linux
 ```
-
 
