@@ -1,7 +1,14 @@
 ```latex
 
 % 2- http://www.kciti.edu/wp-content/uploads/2017/07/cprogramming_tutorial.pdf
+% - 
+% REFERENCE
+%
 
+% READ :: Design 
+% READ :: https://www.latex-tutorial.com/tutorials/lists/
+% READ :: http://cs.brown.edu/courses/cs173/2012/book/book.pdf
+% READ :: https://tex.stackexchange.com/questions/118939/add-watermark-that-overlays-the-images
 % READ https://tex.stackexchange.com/questions/283848/fast-way-to-write-itemize-list
 % REMOVE \begin{markdown}
 % REMOVE
