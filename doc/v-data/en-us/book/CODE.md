@@ -134,8 +134,29 @@
 
 ```
 
+7. Declare Markdown 
+
 ```latex
 
+\documentclass{article}
+
+\usepackage{markdown}
+
+\begin{document}
+
+\begin{markdown}
+
+ # Hello World!
+
+ *Hello World!* Hello World! 
+
+ ## Hello World!
+ 
+ - Hello World!
+
+
+ \end{markdown}
+ \end{document}
 
 % 2- http://www.kciti.edu/wp-content/uploads/2017/07/cprogramming_tutorial.pdf
 % - 
@@ -207,30 +228,7 @@
 % test markdown with this ::
 %---------------------------------------------------------------------------------------------------------
 
-% CONTENT
-% \documentclass{article}
-% \usepackage{markdown}
-% \begin{document}
-% \begin{markdown}
-%
-% # Grocery list
-%
-% *Remember* to grab as much as we can during upcoming [sales](http://acme-marg.com)!
-% 
-% ## Food
-% 
-% - baked beans
-% - spaghetti
-%  
-% ## Stationery 
-% 
-%- writing pad
-% - pencils
-%
-%
-% \end{markdown}
-% \end{document}
-% ---------------------
+
 
 % :: 6 WARNING A-3 ::
 %---------------------------------------------------------------------------------------------------------
