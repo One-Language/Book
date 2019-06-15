@@ -53,4 +53,120 @@ Keywords:
 18. struct 
 19. enum 
 20. static
-goto union case register typedef assembly import ifdef ifndef define
+21. goto 
+22. union 
+23. case 
+24. register 
+25. typedef 
+26. assembly 
+27. import 
+28. ifdef 
+29. ifndef 
+30. define
+
+ET Language is a system language. which you can even design system programs. System programs are programs that allow you to exploit hardware and software communitication. Some
+system programs are: operating system / interpreter / compiler / database / word processor
+and assembler and ...
+ 
+ - There is a close connection between the ET and the assembly. This means that you can also
+insert assembly code into this language. Of course, consider that they are controlled by a
+separate processing engine.
+
+- ET Language is a sensitive letter. This means that words in lowercase letters are different. So
+be sure to type the letters you type in the letters you type.
+
+- The ET language instructions are included in the following features:
+
+1. There is no limit to the number of words per line.
+2. It is recommended to write just one command per line
+3. Ability to use; at the end of each instruction is optional
+4. Each command can be written in several lines and lines. (You can create spaces or
+empty space between your guides.
+5. You can write comment in your code that you should use the principles of communication.
+
+
+Data Types
+
+The purpose of programming is to receive inputs and process them to produce an output. Keep in
+mind that input values is the most important part of your work.
+
+- In the programming language, there are several types of data that we can use in the place where
+it is needed: float, int, string, char, void, bool, null, ...
+
+- The type is to store individual char (such as ’a’, ’b’), The type is for storing int for keeping
+Integer (such as 4, 32, 169) and the float type is used for decimal number such as 15.4, 64.26) And
+we will explain the type of void later.
+
+But keep in mind that each of them has limitations. So we have several types with the name int,
+each of which has a limit. We can choose them according to the required range.
+
+
+- int8 8bit, 1byte -127 until 128
+- uint8 8bit, 1byte -127 until 128
+- int16 16bit, 2byte -127 until 128
+- uint16 16bit, 2byte -127 until 128
+- int32 32bit, 3byte -127 until 128
+- uint32 32bit, 3byte -127 until 128
+- int64 64bit, 4byte -127 until 128
+- uint64 64bit, 4byte -127 until 128
+- size 64bit, 4byte -127 until 128
+- float16 16bit, 2byte -127 until 128
+- ufloat16 16bit, 2byte -127 until 128
+- float32 32bit, 3byte -127 until 128
+- ufloat32 32bit, 3byte -127 until 128
+- char 8bit, 1byte -127 until 128
+- uchar 16bit, 2byte -127 until 128
+- mchar 16bit, 2byte -127 until 128
+- bool 1bit true or false
+- null 1bit empty
+
+
+Variable
+
+- A variable is a name for memory words that we put data into. And we may change them and use
+them during the implementation of the program. To refer to their value, we use the same name,
+which is the reason we name them so that they can be easily accessed.
+
+- To name variables, we can use characters from a to z or A to Z. As well as numbers and _ char.
+We do not have a number limit for the length of name of variables.
+
+- Note that the name of the variables can not start with the number. (The first letter of the name
+can not be a number)
+
+
+Define Variable
+
+- As mentioned, variables are memory spaces. So, as the data has the type. We must also specify the
+type of variables. So the variable definition method will be:
+
+- In this case, the variable type can be one of the values in Table 2
+‘VariableName dataType ’...
+
+
+- Story
+1.3.3 Name
+
+- The reason for naming ET for this time was initially related to the concept of electronics and technology. But later on the suggestion of Javad Sabet the concept of the name has been changed. 
+This language also means the language of the earth (earth tongue).
+
+Definition 1.3.1 — Cone. A set K ∈ Rn , when x ∈ K implies αx ∈ K.
+
+■ Example 1.1 — ludcator function. δc(x) = {
+0 x ∈ C 
++∞ elsewhere
+. domδc(x) = C
+
+
+Chapter 1. ET Programming Language
+
+Definition 1.3.2 — III. A function f : Rn → R¯ is Theorem 1.3.1 f : Rn → R¯ is convex ⇐⇒ ∀x, y ∈ Rn,α ∈ (0, 1), f(ax + (1−a)x) ≤ a f(x) + (1−a)f(x).
+
+<html>
+<head>
+<title> Hello </title>
+</ head>
+<body>
+H ell o
+</ body>
+</ html>
+  
