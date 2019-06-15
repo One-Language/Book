@@ -2,6 +2,13 @@
 
 % 2- http://www.kciti.edu/wp-content/uploads/2017/07/cprogramming_tutorial.pdf
 
+% READ https://tex.stackexchange.com/questions/283848/fast-way-to-write-itemize-list
+% REMOVE \begin{markdown}
+% REMOVE
+% REMOVE # CONTENTS  
+% REMOVE
+% REMOVE \end{markdown}
+
 % DECLARE WATERMARK
 % -------------------------
 
