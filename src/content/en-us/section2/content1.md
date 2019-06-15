@@ -1,3 +1,5 @@
+Data Types
+
 The purpose of programming is to receive inputs and process them to produce an output. Keep in
 mind that input values is the most important part of your work.
 
