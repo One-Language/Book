@@ -1,4 +1,4 @@
-### How use LaTeX?
+### How use LaTeX and LaTeX works?
 
 1. Change Title
 
@@ -64,11 +64,8 @@
 
 ```
 
-Rename.title
 
-Change Content
-
-Change File
+4. Change Packages
 
 
 % BUG 
@@ -77,7 +74,13 @@ Change File
 %  \author{ BASE MAX }
 %  \date{THE ET LANGUAGE }
 
+```latex
 
+% comment  -> 
+\title{THE ET LANGUAGE } % comment ->
+% comment ->
+
+```
 
 
 ### How LaTeX works?
@@ -85,10 +88,6 @@ Change File
 ```latex
 
 
-%
-% COMMENT 1 
-% ------------------------------------------------------------------------------------------
-%
 
 
 %
