@@ -209,3 +209,9 @@ License
 63. # READ : http://coral.ufsm.br/unitilince/index.php/2015-11-13-10-48-41/178-criando-comandos-personalizados-do-terminal-bash-do-linux
 ```
 
+
+
+https://www.cyberciti.biz/faq/how-to-check-os-version-in-linux-command-line/ 
+https://stackoverflow.com/questions/38237907/how-to-find-my-shell-version-using-linux-command 
+https://askubuntu.com/questions/13348/how-do-i-check-my-version-of-gnome-shell 
+https://www.cyberciti.biz/tips/how-do-i-find-out-what-shell-im-using.html
