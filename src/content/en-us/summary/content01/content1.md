@@ -1,8 +1,8 @@
 # CONTENT
 
-1. The Language of This Book
-2. Everything (We Will Say) About Parsing
-3. Facts about ET
+1. Why Use ET? 
+2. Try it Option Online  
+3. Everything (We Will Say) About & Programs
 
 
 .................................................................................................................................................................
