@@ -136,8 +136,8 @@
 
 ```latex
 
-\usepackage{helvet}
-% \renewcommand{\familydefault}{\sfdefault} % add font helvet or arial 
+\usepackage{helvet} % add font helvet or arial 
+\renewcommand{\familydefault}{\sfdefault} 
 
 ```
 
