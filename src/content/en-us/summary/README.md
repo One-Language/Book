@@ -1,3 +1,3 @@
-# SUMMARY
+# Summary
 
-**en-us :** Translate the table of contents into the language. 'content/en-us/summary/content/' 
+**en-us:** Translate the content inside this 'summary' folder and so the book of the programming language it will be translated.
