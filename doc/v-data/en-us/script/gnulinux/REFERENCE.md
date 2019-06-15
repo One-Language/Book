@@ -42,17 +42,40 @@
 12. # READ : https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9
 ```
 
-```pascal
+#
 
-# READ : https://terminalroot.com.br/2013/07/shell-scripitingbash-funcao-para.html
-# READ : https://imasters.com.br/desenvolvimento/bash-for-loop-primeiro-passo-na-automacao-no-linux
-# READ : http://www.dltec.com.br/blog/linux/uma-introducao-ao-uso-do-awk-no-linux/
-# READ : https://www.diolinux.com.br/2017/03/criando-comandos-personalizados-do-terminal-linux.html
-# READ : https://www.vivaolinux.com.br/topico/Shell-Script/E-Possivel-criar-um-comando
-# READ : https://www.vivaolinux.com.br/dica/Criando-um-comando
-# READ : http://coral.ufsm.br/unitilince/index.php/noticias/193-saiba-como-criar-seus-proprios-comandos-no-linux-usando-alias
-# READ : https://e-tinet.com/linux/programacao-shell-script/
-# READ : http://coral.ufsm.br/unitilince/index.php/2015-11-13-10-48-41/178-criando-comandos-personalizados-do-terminal-bash-do-linux
+```pascal 
+
+# READ ME! BIBLIOGRAPHY, REFERENCE AND RESEARCH ( PT-BR )
+
+```
+
+```pascal
+13. # READ : https://terminalroot.com.br/2013/07/shell-scripitingbash-funcao-para.html
+```
+```pascal
+14. # READ : https://imasters.com.br/desenvolvimento/bash-for-loop-primeiro-passo-na-automacao-no-linux
+```
+```pascal
+15. # READ : http://www.dltec.com.br/blog/linux/uma-introducao-ao-uso-do-awk-no-linux/
+```
+```pascal
+16. # READ : https://www.diolinux.com.br/2017/03/criando-comandos-personalizados-do-terminal-linux.html
+```
+```pascal
+17. # READ : https://www.vivaolinux.com.br/topico/Shell-Script/E-Possivel-criar-um-comando
+```
+```pascal
+18. # READ : https://www.vivaolinux.com.br/dica/Criando-um-comando
+```
+```pascal
+19. # READ : http://coral.ufsm.br/unitilince/index.php/noticias/193-saiba-como-criar-seus-proprios-comandos-no-linux-usando-alias
+```
+```pascal
+20. # READ : https://e-tinet.com/linux/programacao-shell-script/
+```
+```pascal
+21. # READ : http://coral.ufsm.br/unitilince/index.php/2015-11-13-10-48-41/178-criando-comandos-personalizados-do-terminal-bash-do-linux
 ```
 
 https://www.cyberciti.biz/faq/how-do-i-check-my-bash-version/
