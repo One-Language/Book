@@ -54,6 +54,7 @@
  
  \usepackage{markdown}
  \Require{markdown}
+ \usepackage{helvet, markdown, import}
 
 ```
 
@@ -135,6 +136,7 @@
 
 ```latex
 
+\usepackage{helvet}
 % \renewcommand{\familydefault}{\sfdefault} % add font helvet or arial 
 
 ```
