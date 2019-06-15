@@ -1,3 +1,3 @@
-- [English](/content/en-us) ( Complete, but with bugs ) 
-- [Portuguese](/content/pt-br) ( Complete, but with bugs ) 
-- [Persian](/content/fa-ir) (Soon)
+- [English](/en-us) ( Complete, but with bugs ) 
+- [Portuguese](/pt-br) ( Complete, but with bugs ) 
+- [Persian](/fa-ir) (Soon)
