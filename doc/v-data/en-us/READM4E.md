@@ -1,2 +1,0 @@
-DOCUMENTATION GNULINUX SCRIPT - .CONFIGURE.
-<!--- /doc/.configure/README.md -->
